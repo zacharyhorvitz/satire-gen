@@ -1,2 +1,2 @@
 # context_satire
-Repo for Context Driven Satirical Headline Generation 
+Public Repo for Context-Driven Satirical Headline Generation 
