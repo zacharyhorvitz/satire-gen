@@ -2,7 +2,7 @@
 Public Repo for Context-Driven Satirical Headline Generation (ACL 2020 FigLang Workshop Paper)
 
 # # TODO:
-### Include
+### Include (Move from private repo)
 - Abstractive Summarization Code
 - GPT-2 Satire Baseline
 - GPT-2 News Baseline
