@@ -7,5 +7,5 @@ Public Repo for Context-Driven Satirical Headline Generation (ACL 2020 FigLang W
 - GPT-2 Satire Baseline
 - GPT-2 News Baseline
 - Pretrained Context Models
-- News Retrieval Pipeline
-- Data processing pipeline
+- News Retrieval scripts
+- Data processing scripts
