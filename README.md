@@ -1,7 +1,7 @@
 # Context-Driven Satirical Headline Generation
 Public Repo for Context-Driven Satirical Headline Generation (ACL 2020 FigLang Workshop Paper)
 
-## [Data](https://s3.console.aws.amazon.com/s3/buckets/context-driven-satire)
+## Data
 -  [Onion -> Onion Data](https://context-driven-satire.s3-us-west-2.amazonaws.com/onion_to_data.json) 
 
 Example:
