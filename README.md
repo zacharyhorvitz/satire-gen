@@ -32,5 +32,5 @@ Example:
 ### Include (Move from private repo)
 - Modified PreSum Code (with correct training param/decay func)
 - News Retrieval scripts
-- Data processing scripts
+- Data {rocessing scripts
 - Host weight files on Brown department machine
