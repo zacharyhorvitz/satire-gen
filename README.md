@@ -1,23 +1,34 @@
 # Context-Driven Satirical Headline Generation
 Public Repo for Context-Driven Satirical Headline Generation (ACL 2020 FigLang Workshop Paper)
 
-[Data](https://s3.console.aws.amazon.com/s3/buckets/context-driven-satire)
+## [Data](https://s3.console.aws.amazon.com/s3/buckets/context-driven-satire)
 -  [Onion -> Onion Data](https://context-driven-satire.s3-us-west-2.amazonaws.com/onion_to_data.json) 
 
 Example:
 <code>
-{"Melting Giraffe Congressman Warns Impeachment Distracting From Surreal Issues": {"text": ["WASHINGTON - Arguing that a protracted congressional trial was..."], "tags": ["impeachment\n"], "date": "1/24/20", "category": "News in Brief", "link": "https://politics.theonion.com/melting-giraffe-congressman-warns-impeachment-distracti-1841207701"}
+"Melting Giraffe Congressman Warns Impeachment Distracting From Surreal Issues": {"text": ["WASHINGTON - Arguing that a protracted congressional trial was..."], "tags": ["impeachment\n"], "date": "1/24/20", "category": "News in Brief", "link": "https://politics.theonion.com/melting-giraffe-congressman-warns-impeachment-distracti-1841207701"}
+  </code>
+
+-  [Onion Headline -> Ranked Real Work Context](https://context-driven-satire.s3-us-west-2.amazonaws.com/raw_headlines_to_ranked_results.json) 
+
+<code>
+[Satirical Headline]: {"cnn": [Ranked From CNN (<1 week of article publishing)] ,"wiki": [Ranked from Wikipedia]}
   </code>
 
 
+## Model
+- PreSumm Summarization Model [Original Code](https://github.com/nlpyang/PreSumm) [Weights](https://drive.google.com/open?id=1-IKVCtc4Q-BdZpjXc4s70_fRsWnjtYLr)
+- SatireGen Context Model [Weights]()
+- SatireGen Decoder-Weighted-Context Model [Weights]()
+- SatireGen Abstraction-Context Model [Weights]()
 
+## Baselines
+- GPT-2 Satire Baseline [Weights]
+- GPT-2 News Baseline [Weights]
 
 
 ## TODO:
 ### Include (Move from private repo)
-- Abstractive Summarization Code
-- GPT-2 Satire Baseline
-- GPT-2 News Baseline
-- Pretrained Context Models
+- Modified PreSum Code (with correct training param/decay func)
 - News Retrieval scripts
 - Data processing scripts
