@@ -33,3 +33,4 @@ Example:
 - Modified PreSum Code (with correct training param/decay func)
 - News Retrieval scripts
 - Data processing scripts
+- Host weight files on Brown department machine
