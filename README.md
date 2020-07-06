@@ -1,4 +1,4 @@
-# context_satire
+# Context-Driven Satirical Headline Generation
 Public Repo for Context-Driven Satirical Headline Generation (ACL 2020 FigLang Workshop Paper)
 
 [Data](https://s3.console.aws.amazon.com/s3/buckets/context-driven-satire)
