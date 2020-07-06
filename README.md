@@ -17,14 +17,14 @@ Example:
 
 
 ## Model
-- PreSumm Summarization Model [Original Code](https://github.com/nlpyang/PreSumm) [Weights](https://drive.google.com/open?id=1-IKVCtc4Q-BdZpjXc4s70_fRsWnjtYLr)
-- SatireGen Context Model [Weights]()
-- SatireGen Decoder-Weighted-Context Model [Weights]()
-- SatireGen Abstraction-Context Model [Weights]()
+- PreSumm Summarization Model [[Original Code]](https://github.com/nlpyang/PreSumm) [[Weights]](https://drive.google.com/open?id=1-IKVCtc4Q-BdZpjXc4s70_fRsWnjtYLr)
+- SatireGen Context Model [[Weights]]()
+- SatireGen Decoder-Weighted-Context Model [[Weights]]()
+- SatireGen Abstraction-Context Model [[Weights]]()
 
 ## Baselines
-- GPT-2 Satire Baseline [Weights]
-- GPT-2 News Baseline [Weights]
+- GPT-2 Satire Baseline [[Weights]]
+- GPT-2 News Baseline [[Weights]]
 
 
 ## TODO:
