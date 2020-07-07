@@ -1,0 +1,227 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_ABS_DEC_12K_LR02_model_step_150250.pt
+Skipped:  29 , Coherence agreement (3):  52 , Coherence majority (2+):  70
+Overlapped:  15
+Percentage skipped:  0.29292929292929293
+Percentage all agreed on coherence:  0.5252525252525253
+Percentage 2+ vote on coherence:  0.7070707070707071
+-=-=-=-=-=
+Majority onion:  32 , Percentage:  0.45714285714285713
+Majority funny:  4 , Percentage:  0.05714285714285714
+majority funny, or can see how someone can see it:  30 , Percentage:  0.42857142857142855
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_ABS_DEC_12K_LR02_model_step_151250.pt
+Skipped:  24 , Coherence agreement (3):  56 , Coherence majority (2+):  75
+Overlapped:  14
+Percentage skipped:  0.24242424242424243
+Percentage all agreed on coherence:  0.5656565656565656
+Percentage 2+ vote on coherence:  0.7575757575757576
+-=-=-=-=-=
+Majority onion:  30 , Percentage:  0.4
+Majority funny:  7 , Percentage:  0.09333333333333334
+majority funny, or can see how someone can see it:  31 , Percentage:  0.41333333333333333
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_10xMORE_DEC_12K_LR02_model_step_2250.pt
+Skipped:  28 , Coherence agreement (3):  43 , Coherence majority (2+):  72
+Overlapped:  7
+Percentage skipped:  0.28
+Percentage all agreed on coherence:  0.43
+Percentage 2+ vote on coherence:  0.72
+-=-=-=-=-=
+Majority onion:  30 , Percentage:  0.4166666666666667
+Majority funny:  3 , Percentage:  0.041666666666666664
+majority funny, or can see how someone can see it:  28 , Percentage:  0.3888888888888889
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+../data/context_free_k1_p0/news1.json
+Skipped:  19 , Coherence agreement (3):  56 , Coherence majority (2+):  78
+Overlapped:  2
+Percentage skipped:  0.1958762886597938
+Percentage all agreed on coherence:  0.5773195876288659
+Percentage 2+ vote on coherence:  0.8041237113402062
+-=-=-=-=-=
+Majority onion:  14 , Percentage:  0.1794871794871795
+Majority funny:  1 , Percentage:  0.01282051282051282
+majority funny, or can see how someone can see it:  12 , Percentage:  0.15384615384615385
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+../data/context_free_k1_p0/satire1.json
+Skipped:  10 , Coherence agreement (3):  63 , Coherence majority (2+):  90
+Overlapped:  2
+Percentage skipped:  0.1
+Percentage all agreed on coherence:  0.63
+Percentage 2+ vote on coherence:  0.9
+-=-=-=-=-=
+Majority onion:  40 , Percentage:  0.4444444444444444
+Majority funny:  2 , Percentage:  0.022222222222222223
+majority funny, or can see how someone can see it:  32 , Percentage:  0.35555555555555557
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_ABS_10xDEC_12K_LR02_model_step_2500.pt
+Skipped:  25 , Coherence agreement (3):  41 , Coherence majority (2+):  75
+Overlapped:  16
+Percentage skipped:  0.25
+Percentage all agreed on coherence:  0.41
+Percentage 2+ vote on coherence:  0.75
+-=-=-=-=-=
+Majority onion:  34 , Percentage:  0.4533333333333333
+Majority funny:  3 , Percentage:  0.04
+majority funny, or can see how someone can see it:  26 , Percentage:  0.3466666666666667
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_ABS_10xDEC_12K_LR02_model_step_2250.pt
+Skipped:  16 , Coherence agreement (3):  56 , Coherence majority (2+):  83
+Overlapped:  16
+Percentage skipped:  0.16161616161616163
+Percentage all agreed on coherence:  0.5656565656565656
+Percentage 2+ vote on coherence:  0.8383838383838383
+-=-=-=-=-=
+Majority onion:  38 , Percentage:  0.4578313253012048
+Majority funny:  9 , Percentage:  0.10843373493975904
+majority funny, or can see how someone can see it:  38 , Percentage:  0.4578313253012048
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+../data/all_test_heads.txt
+Skipped:  2 , Coherence agreement (3):  78 , Coherence majority (2+):  98
+Overlapped:  2
+Percentage skipped:  0.02
+Percentage all agreed on coherence:  0.78
+Percentage 2+ vote on coherence:  0.98
+-=-=-=-=-=
+Majority onion:  69 , Percentage:  0.7040816326530612
+Majority funny:  24 , Percentage:  0.24489795918367346
+majority funny, or can see how someone can see it:  68 , Percentage:  0.6938775510204082
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+../data/context_based/abs.json
+Skipped:  0 , Coherence agreement (3):  0 , Coherence majority (2+):  0
+Overlapped:  0
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+../data/context_based/non_abs_dict.json
+Skipped:  0 , Coherence agreement (3):  0 , Coherence majority (2+):  0
+Overlapped:  0
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_12K_LR02_model_step_2000.pt
+Skipped:  10 , Coherence agreement (3):  59 , Coherence majority (2+):  90
+Overlapped:  15
+Percentage skipped:  0.1
+Percentage all agreed on coherence:  0.59
+Percentage 2+ vote on coherence:  0.9
+-=-=-=-=-=
+Majority onion:  49 , Percentage:  0.5444444444444444
+Majority funny:  7 , Percentage:  0.07777777777777778
+majority funny, or can see how someone can see it:  44 , Percentage:  0.4888888888888889
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_10xMORE_DEC_12K_LR02_model_step_2000.pt
+Skipped:  21 , Coherence agreement (3):  50 , Coherence majority (2+):  77
+Overlapped:  7
+Percentage skipped:  0.21428571428571427
+Percentage all agreed on coherence:  0.5102040816326531
+Percentage 2+ vote on coherence:  0.7857142857142857
+-=-=-=-=-=
+Majority onion:  40 , Percentage:  0.5194805194805194
+Majority funny:  10 , Percentage:  0.12987012987012986
+majority funny, or can see how someone can see it:  34 , Percentage:  0.44155844155844154
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_ABS_DEC_12K_LR02_model_step_151000.pt
+Skipped:  19 , Coherence agreement (3):  46 , Coherence majority (2+):  81
+Overlapped:  19
+Percentage skipped:  0.19
+Percentage all agreed on coherence:  0.46
+Percentage 2+ vote on coherence:  0.81
+-=-=-=-=-=
+Majority onion:  33 , Percentage:  0.4074074074074074
+Majority funny:  9 , Percentage:  0.1111111111111111
+majority funny, or can see how someone can see it:  33 , Percentage:  0.4074074074074074
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_MORE_DEC_12K_LR02_model_step_2750.pt
+Skipped:  22 , Coherence agreement (3):  51 , Coherence majority (2+):  78
+Overlapped:  12
+Percentage skipped:  0.22
+Percentage all agreed on coherence:  0.51
+Percentage 2+ vote on coherence:  0.78
+-=-=-=-=-=
+Majority onion:  38 , Percentage:  0.48717948717948717
+Majority funny:  3 , Percentage:  0.038461538461538464
+majority funny, or can see how someone can see it:  26 , Percentage:  0.3333333333333333
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_MORE_DEC_12K_LR02_model_step_2250.pt
+Skipped:  30 , Coherence agreement (3):  47 , Coherence majority (2+):  69
+Overlapped:  12
+Percentage skipped:  0.30303030303030304
+Percentage all agreed on coherence:  0.47474747474747475
+Percentage 2+ vote on coherence:  0.696969696969697
+-=-=-=-=-=
+Majority onion:  21 , Percentage:  0.30434782608695654
+Majority funny:  5 , Percentage:  0.07246376811594203
+majority funny, or can see how someone can see it:  22 , Percentage:  0.3188405797101449
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_ABS_DEC_12K_LR02_model_step_150000.pt
+Skipped:  15 , Coherence agreement (3):  59 , Coherence majority (2+):  85
+Overlapped:  17
+Percentage skipped:  0.15
+Percentage all agreed on coherence:  0.59
+Percentage 2+ vote on coherence:  0.85
+-=-=-=-=-=
+Majority onion:  40 , Percentage:  0.47058823529411764
+Majority funny:  8 , Percentage:  0.09411764705882353
+majority funny, or can see how someone can see it:  40 , Percentage:  0.47058823529411764
+
+
+
+
+1301

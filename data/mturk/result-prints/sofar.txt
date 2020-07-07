@@ -1,0 +1,109 @@
+Empty submission found: 
+3MNJFORX8BYBMCCPG8E5PW3DBFQF5B
+A1UHNDB2EQ8TK0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_12K_LR02_model_step_2000.pt
+Skipped:  77 , Coherence agreement (3):  417 , Coherence majority (2+):  573
+Overlapped:  454
+Percentage skipped:  0.11846153846153847
+Percentage all agreed on coherence:  0.6415384615384615
+Percentage 2+ vote on coherence:  0.8815384615384615
+-=-=-=-=-=
+Majority onion:  337 , Percentage:  0.5881326352530541
+Majority funny:  55 , Percentage:  0.09598603839441536
+majority funny, or can see how someone can see it:  322 , Percentage:  0.5619546247818499
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_10xMORE_DEC_12K_LR02_model_step_2000.pt
+Skipped:  128 , Coherence agreement (3):  372 , Coherence majority (2+):  522
+Overlapped:  449
+Percentage skipped:  0.19692307692307692
+Percentage all agreed on coherence:  0.5723076923076923
+Percentage 2+ vote on coherence:  0.803076923076923
+-=-=-=-=-=
+Majority onion:  307 , Percentage:  0.5881226053639846
+Majority funny:  42 , Percentage:  0.08045977011494253
+majority funny, or can see how someone can see it:  277 , Percentage:  0.5306513409961686
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_ABS_DEC_12K_LR02_model_step_151000.pt
+Skipped:  142 , Coherence agreement (3):  332 , Coherence majority (2+):  508
+Overlapped:  446
+Percentage skipped:  0.21846153846153846
+Percentage all agreed on coherence:  0.5107692307692308
+Percentage 2+ vote on coherence:  0.7815384615384615
+-=-=-=-=-=
+Majority onion:  259 , Percentage:  0.5098425196850394
+Majority funny:  32 , Percentage:  0.06299212598425197
+majority funny, or can see how someone can see it:  242 , Percentage:  0.4763779527559055
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1_.._.._.._PreSumm_models_ENC_ABS_10xDEC_12K_LR02_model_step_2250.pt
+Skipped:  94 , Coherence agreement (3):  393 , Coherence majority (2+):  556
+Overlapped:  448
+Percentage skipped:  0.14461538461538462
+Percentage all agreed on coherence:  0.6046153846153847
+Percentage 2+ vote on coherence:  0.8553846153846154
+-=-=-=-=-=
+Majority onion:  312 , Percentage:  0.5611510791366906
+Majority funny:  47 , Percentage:  0.08453237410071943
+majority funny, or can see how someone can see it:  283 , Percentage:  0.5089928057553957
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+../data/context_free_k1_p0/news1.json
+Skipped:  65 , Coherence agreement (3):  423 , Coherence majority (2+):  585
+Overlapped:  425
+Percentage skipped:  0.1
+Percentage all agreed on coherence:  0.6507692307692308
+Percentage 2+ vote on coherence:  0.9
+-=-=-=-=-=
+Majority onion:  224 , Percentage:  0.38290598290598293
+Majority funny:  16 , Percentage:  0.02735042735042735
+majority funny, or can see how someone can see it:  181 , Percentage:  0.3094017094017094
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+../data/all_test_heads.txt
+Skipped:  3 , Coherence agreement (3):  579 , Coherence majority (2+):  647
+Overlapped:  425
+Percentage skipped:  0.004615384615384616
+Percentage all agreed on coherence:  0.8907692307692308
+Percentage 2+ vote on coherence:  0.9953846153846154
+-=-=-=-=-=
+Majority onion:  575 , Percentage:  0.8887171561051005
+Majority funny:  261 , Percentage:  0.4034003091190108
+majority funny, or can see how someone can see it:  554 , Percentage:  0.8562596599690881
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+../data/context_free_k1_p0/satire1.json
+Skipped:  94 , Coherence agreement (3):  403 , Coherence majority (2+):  556
+Overlapped:  425
+Percentage skipped:  0.14461538461538462
+Percentage all agreed on coherence:  0.62
+Percentage 2+ vote on coherence:  0.8553846153846154
+-=-=-=-=-=
+Majority onion:  338 , Percentage:  0.6079136690647482
+Majority funny:  44 , Percentage:  0.07913669064748201
+majority funny, or can see how someone can see it:  302 , Percentage:  0.5431654676258992
+
+
+
+
+2790
