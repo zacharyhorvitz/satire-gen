@@ -9,7 +9,7 @@ Example:
 "Melting Giraffe Congressman Warns Impeachment Distracting From Surreal Issues": {"text": ["WASHINGTON - Arguing that a protracted congressional trial was..."], "tags": ["impeachment\n"], "date": "1/24/20", "category": "News in Brief", "link": "https://politics.theonion.com/melting-giraffe-congressman-warns-impeachment-distracti-1841207701"}
   </code>
 
--  [Onion Headline -> Ranked Real World Context](https://context-driven-satire.s3-us-west-2.amazonaws.com/raw_headlines_to_ranked_results.json) 
+-  [Onion Headline -> Ranked CNN, Wikipedia Paragraphs](https://context-driven-satire.s3-us-west-2.amazonaws.com/raw_headlines_to_ranked_results.json) 
 
 <code>
 [Satirical Headline]: {"cnn": [Ranked From CNN (<1 week of article publishing)] ,"wiki": [Ranked from Wikipedia]}
