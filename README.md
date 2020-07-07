@@ -34,3 +34,4 @@ Example:
 - News Retrieval scripts
 - Data {rocessing scripts
 - Host weight files on Brown department machine
+- Turker Data
