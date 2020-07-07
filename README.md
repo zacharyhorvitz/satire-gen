@@ -17,7 +17,7 @@ Example:
 
 
 ## Model
-- PreSumm Summarization Model [[Original Code]](https://github.com/nlpyang/PreSumm) [[Weights]](https://drive.google.com/open?id=1-IKVCtc4Q-BdZpjXc4s70_fRsWnjtYLr)
+- PreSum Abstractive Summarization Model [[Original Code]](https://github.com/nlpyang/PreSumm) [[Weights]](https://drive.google.com/open?id=1-IKVCtc4Q-BdZpjXc4s70_fRsWnjtYLr)
 - SatireGen Context Model [[Weights]](cs.brown.edu/research/satire/context_model_2250)
 - SatireGen Decoder-Weighted-Context Model [[Weights]]( cs.brown.edu/research/satire_d_context_model_2000)
 - SatireGen Abstraction-Context Model [[Weights]]( cs.brown.edu/research/satire_a_context_model_2000)
