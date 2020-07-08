@@ -38,4 +38,3 @@ Example:
 - Clean up data processing scripts/confirm runthrough of code
 - Upload Bertdata (preprocesses) for Training
 - Add weight files (Host files on Brown department machine)
-- Turker Data/Analysis code
