@@ -1,0 +1,194 @@
+<HTMLQuestion xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2011-11-11/HTMLQuestion.xsd">
+<HTMLContent><![CDATA[
+<!-- YOUR HTML BEGINS -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>
+<script type='text/javascript' src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js'></script>
+</head>
+<body>
+<form name='mturk_form' method='post' id='mturk_form' action='https://www.mturk.com/mturk/externalSubmit'><input type='hidden' value='' name='assignmentId' id='assignmentId'/>
+<h3>Instructions:</h3>
+<p>Given each sentence below, please evaluate the sentence based on these following categories: (1) coherence, (2) potential to be on The Onion, and (3) funniness.</p>
+<h4>Coherence</h4>
+<p>Examples of sentences that are coherent:</p>
+<ul>
+<li>"New professor struggling to decide between suit jacket or sweater vest persona"</li>
+<li>"Chemists Announce Upgraded Periodic Table With Dozens Of ` New Elements' For Just $4 A Month"</li>
+<li>"\u0093Man Desperately Seeking to gain control over other men\u0094......................" (*)</li>
+</ul>
+<p>Examples of sentences that are not coherent:</p>
+<ul>
+<li>"Admissions To : compton, md....................."</li>
+<li>"Terrorist Who\u00e2\u0080\u0099s on a mission to make america question itself, is the type of"" (*)</li>
+<li>"Rowdy Grandma Glory Vs The Demon Slayer Goddess, Apollo Glorying Archdemon, Astaroth Glorying Super 4-"</li>
+</ul>
+<p>(*): In these cases, we have tried our bests to strip out the special characters (like "\u0093", "\u00e2", "\u0099t", etc.), but we might have missed some. Please disregard these characters when you rate the coherence of a text.</p>
+<h4>Potential to be a headline on The Onion</h4>
+<p>The Onion is an American <strong>satirical</strong> publication that publishes articles on international, national and local news. All Onion headlines are expected to be satirical.</p>
+<p>You can visit <a href="https://www.theonion.com/" target="_blank">The Onion</a> website to check out some examples of headlines that can be on the page.</p>
+<p><strong>Note:</strong> You can identify a headline to have the potential to be on The Onion without necessarily finding it funny. For sentences that you deem incoherent, please rate it as not having the potential to be on The Onion.</p>
+<h4>Funniness</h4>
+<p>We trust your own intuition with whether or not a sentence is funny. You will give each sentence a score from 1 to 3 for how funny the sentence is. For sentences
+that are not coherent, you can give the score 1, meaning it is not funny.</p>
+<br>
+<h2>THE TASK</h2>
+<h3 id="0">${input_0}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q00" value="1" required> Coherent<br>
+    <input type="radio" name="q00" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q01" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q01" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q02" name="q02" value="1" min="1" max="3" onChange="change('scaler-q02', 'result-q02');" required><span id="result-q02">No Result (Required)</span>
+    
+</div>
+<hr>
+<h3 id="0">${input_1}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q10" value="1" required> Coherent<br>
+    <input type="radio" name="q10" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q11" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q11" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q12" name="q12" value="1" min="1" max="3" onChange="change('scaler-q12', 'result-q12');" required><span id="result-q12">No Result (Required)</span>
+</div>
+<hr>
+<h3 id="0">${input_2}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q20" value="1" required> Coherent<br>
+    <input type="radio" name="q20" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q21" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q21" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q22" name="q22" value="1" min="1" max="3" onChange="change('scaler-q22', 'result-q22');" required><span id="result-q22">No Result (Required)</span>
+</div>
+<hr>
+<h3 id="0">${input_3}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q30" value="1" required> Coherent<br>
+    <input type="radio" name="q30" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q31" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q31" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q32" name="q32" value="1" min="1" max="3" onChange="change('scaler-q32', 'result-q32');" required><span id="result-q32">No Result (Required)</span>
+</div>
+<hr>
+<h3 id="0">${input_4}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q40" value="1" required> Coherent<br>
+    <input type="radio" name="q40" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q41" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q41" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q42" name="q42" value="1" min="1" max="3" onChange="change('scaler-q42', 'result-q42');" required><span id="result-q42">No Result (Required)</span>
+</div>
+<hr>
+<h3 id="0">${input_5}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q50" value="1" required> Coherent<br>
+    <input type="radio" name="q50" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q51" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q51" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q52" name="q52" value="1" min="1" max="3" onChange="change('scaler-q52', 'result-q52');" required><span id="result-q52">No Result (Required)</span>
+</div>
+<hr>
+<h3 id="0">${input_6}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q60" value="1" required> Coherent<br>
+    <input type="radio" name="q60" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q61" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q61" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q62" name="q62" value="1" min="1" max="3" onChange="change('scaler-q62', 'result-q62');" required><span id="result-q62">No Result (Required)</span>
+</div>
+<hr>
+<h3 id="0">${input_7}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q70" value="1" required> Coherent<br>
+    <input type="radio" name="q70" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q71" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q71" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q72" name="q72" value="1" min="1" max="3" onChange="change('scaler-q72', 'result-q72');" required><span id="result-q72">No Result (Required)</span>
+</div>
+<hr>
+<h3 id="0">${input_8}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q80" value="1" required> Coherent<br>
+    <input type="radio" name="q80" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q81" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q81" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q82" name="q82" value="1" min="1" max="3" onChange="change('scaler-q82', 'result-q82');" required><span id="result-q82">No Result (Required)</span>
+</div>
+<hr>
+<h3 id="0">${input_9}</h3>
+<div>
+    <p><strong>Coherence</strong></p>
+    <input type="radio" name="q90" value="1" required> Coherent<br>
+    <input type="radio" name="q90" value="0" required> Not coherent<br>
+    
+    <p><strong>Potential to be on The Onion</strong></p>
+    <input type="radio" name="q91" value="1" required> Have potential to be on The Onion<br>
+    <input type="radio" name="q91" value="0" required> Does not have the potential<br>
+    
+    <p><strong>Funniness (1: Not funny, 2: I can see how it can be funny, 3: Funny)</strong></p>
+    <input type="range" id="scaler-q92" name="q92" value="1" min="1" max="3" onChange="change('scaler-q92', 'result-q92');" required><span id="result-q92">No Result (Required)</span>
+</div>
+<p><input type='submit' id='submitButton' value='Submit' /></p></form>
+
+<script language='Javascript'>turkSetAssignmentID();</script>
+<p><small>This is part of a study on generating satire. It is conducted through the <a href="http://robotics.cs.brown.edu/" target="_blank">R-lab</a> at Brown University.</small></p>
+</body></html>
+<!-- YOUR HTML ENDS -->
+<!-- ]]> -->
+</HTMLContent>
+<!-- <FrameHeight>600</FrameHeight> -->
+</HTMLQuestion>
+<script>
+function change(scalerid, resultid){
+    var result = document.getElementById(resultid);
+    var mine = document.getElementById(scalerid);
+    result.innerText = mine.value;
+}
+</script>
+

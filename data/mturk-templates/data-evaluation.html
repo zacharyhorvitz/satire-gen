@@ -1,0 +1,160 @@
+<HTMLQuestion xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2011-11-11/HTMLQuestion.xsd">
+<HTMLContent><![CDATA[
+<!-- YOUR HTML BEGINS -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>
+<script type='text/javascript' src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js'></script>
+</head>
+<body>
+<form name='mturk_form' method='post' id='mturk_form' action='https://www.mturk.com/mturk/externalSubmit'><input type='hidden' value='' name='assignmentId' id='assignmentId'/>
+<h3>Instructions:</h3>
+<p>Given a satirical article from The Onion, there will be five real articles from CNN / Wikipedia that might be related to the original article. Please indicate whether each of the real articles is actually related to the original satirical article or not.</p>
+<p>Because "related" is subjective in nature, there is no clear right or wrong answer. <b>Please make your own judgement.</b></p>
+<p>If strange special characters show up in your task, please feel free to disregard them.</p>
+
+<h3>How do we define the relatedness between a satirical and a non-satirical article?</h3>
+<p>The real article is related to the satirical article if it satisfies at least one of the following:</p>
+<ul>
+    <li><b>Covers relevant event: </b>The real article discusses an event referenced by the satirical article (things like an election, disaster, meeting, or announcement). </li>
+    <li><b>Provides other background information: </b>The real article provides useful context for understanding the satirical article.</li>
+</ul>
+
+<h3>Examples of relatedness and non-relatedness between satirical and non-satirical articles:</h3>
+<p>These examples are from one person's point of view to understand how to fill out the form. Fill out your form based on your independent intuitions.</p>
+<h4>Onion headline: Poll: 1 In 5 Americans Believe Obama Is A Cactus</h4>
+<ul>
+    <li><b>First sentence from The Onion article:</b> WASHINGTON—According to a poll released Tuesday, nearly 20 percent of U.S. citizens now believe Barack Obama is a cactus, the most Americans to identify the president as a water- retaining desert plant since he took office. The poll, conducted by the Pew Research Center, found a sharp rise in the number of Americans who say they firmly believe Obama was either born a cactus, became a cactus during his youth, or has questionable links to the family. <b><a href="https://politics.theonion.com/poll-1-in-5-americans-believe-obama-is-a-cactus-1819571785" taget="_blank">(Link)</a></b></li>
+</ul>
+<h4>Given the satirical headline & article above, please select whether the non-satirical articles/paragraphs below are related or not.</h4>
+<ul>
+    <li>Obama's election also provoked a reaction to his race, birthplace, and religion. As president, Obama faced numerous taunts and racial innuendos, though most overt racist comments were limited to a small fringe.[480]...</li>
+    <ul>
+        <li><b>Selection:</b> [<b>Related</b>, Not Related]</li>
+        <li><b>Reasoning:</b> The cactus = The perception of Barack Obama as an outsider; gives background information about the debate surrounding Obama's American identity</li>
+    </ul>
+    <li>As president, Obama advanced LGBT rights.[521] In 2010, he signed the Don't Ask, Don't Tell Repeal Act, which brought an end to "don't ask, don't tell" policy in the U.S. armed forces that banned open service from LGB people; the law went into effect the following year.[522]...</li>
+    <ul>
+      <li><b>Selection:</b> [Related, <b>Not Related</b>]</li>
+      <li><b>Reasoning:</b> This article does not refer to any event in the satirical article. Obama advancing gay rights doesn't have much to do with questions about his identity</li>
+    </ul>
+    <li>The first inauguration of Barack Obama as the 44th President of the United States took place on Tuesday, January 20, 2009. The inauguration, which set a record attendance for any event held in Washington, D.C., marked the commencement of the first term of Barack Obama as President and Joe Biden as Vice President...</li>
+    <ul>
+        <li><b>Selection:</b> [Related, <b>Not Related</b>]</li>
+        <li><b>Reasoning:</b> While Obama is mentioned here, this is not connected by any related event; the satirical article is not about Obama's inauguration. </li>
+    </ul>
+    <li>A specific new breed of American conspiracy theorists who believe that the real problem with Barack Obama being president is that he can't possibly have been born in the United States. He's not eligible to be president. The birth certificate is a fake.</li>
+    <ul>
+        <li><b>Selection:</b> [<b>Related</b>, Not Related]</li>
+        <li><b>Reasoning:</b> Provides context about questions surounding Obama's identity</li>
+    </ul>
+</ul>
+<br>
+<h2>THE TASK</h2>
+<h3 id="0">${o_head0}</h3>
+<p id="0">${o_first_sentence_0}</p>
+<div>
+    <p id="0">${o_0_a_0_head}</p>
+    <p id="0">${o_0_a_0_sentence}</p>
+    <input type="radio" name="q00" value="1" required> Related<br>
+    <input type="radio" name="q00" value="0" required> Not related<br>
+    
+    <p id="0">${o_0_a_1_head}</p>
+    <p id="0">${o_0_a_1_sentence}</p>
+    <input type="radio" name="q01" value="1" required> Related<br>
+    <input type="radio" name="q01" value="0" required> Not related<br>
+    
+    <p id="0">${o_0_a_2_head}</p>
+    <p id="0">${o_0_a_2_sentence}</p>
+    <input type="radio" name="q02" value="1" required> Related<br>
+    <input type="radio" name="q02" value="0" required> Not related<br>
+    
+    <p id="0">${o_0_a_3_head}</p>
+    <p id="0">${o_0_a_3_sentence}</p>
+    <input type="radio" name="q03" value="1" required> Related<br>
+    <input type="radio" name="q03" value="0" required> Not related<br>
+    
+    <p id="0">${o_0_a_4_head}</p>
+    <p id="0">${o_0_a_4_sentence}</p>
+    <input type="radio" name="q04" value="1" required> Related<br>
+    <input type="radio" name="q04" value="0" required> Not related<br>
+    
+    <br>Reasoning (Optional - if you were unsure/confused at any point):<br>
+    <textarea name="q0" rows="3" cols="100"></textarea>
+  <br><hr>
+</div>
+<h3 id="0">${o_head1}</h3>
+<p id="0">${o_first_sentence_1}</p>
+<div>
+    <p id="0">${o_1_a_0_head}</p>
+    <p id="0">${o_1_a_0_sentence}</p>
+    <input type="radio" name="q10" value="1" required> Related<br>
+    <input type="radio" name="q10" value="0" required> Not related<br>
+    
+    <p id="0">${o_1_a_1_head}</p>
+    <p id="0">${o_1_a_1_sentence}</p>
+    <input type="radio" name="q11" value="1" required> Related<br>
+    <input type="radio" name="q11" value="0" required> Not related<br>
+    
+    <p id="0">${o_1_a_2_head}</p>
+    <p id="0">${o_1_a_2_sentence}</p>
+    <input type="radio" name="q12" value="1" required> Related<br>
+    <input type="radio" name="q12" value="0" required> Not related<br>
+    
+    <p id="0">${o_1_a_3_head}</p>
+    <p id="0">${o_1_a_3_sentence}</p>
+    <input type="radio" name="q13" value="1" required> Related<br>
+    <input type="radio" name="q13" value="0" required> Not related<br>
+    
+    <p id="0">${o_1_a_4_head}</p>
+    <p id="0">${o_1_a_4_sentence}</p>
+    <input type="radio" name="q14" value="1" required> Related<br>
+    <input type="radio" name="q14" value="0" required> Not related<br>
+    
+    <br>Reasoning (Optional - if you were unsure/confused at any point):<br>
+    <textarea name="q1" rows="3" cols="100"></textarea>
+  <br><hr>
+</div>
+<h3 id="0">${o_head2}</h3>
+<p id="0">${o_first_sentence_2}</p>
+<div>
+    <p id="0">${o_2_a_0_head}</p>
+    <p id="0">${o_2_a_0_sentence}</p>
+    <input type="radio" name="q20" value="1" required> Related<br>
+    <input type="radio" name="q20" value="0" required> Not related<br>
+    
+    <p id="0">${o_2_a_1_head}</p>
+    <p id="0">${o_2_a_1_sentence}</p>
+    <input type="radio" name="q21" value="1" required> Related<br>
+    <input type="radio" name="q21" value="0" required> Not related<br>
+    
+    <p id="0">${o_2_a_2_head}</p>
+    <p id="0">${o_2_a_2_sentence}</p>
+    <input type="radio" name="q22" value="1" required> Related<br>
+    <input type="radio" name="q22" value="0" required> Not related<br>
+    
+    <p id="0">${o_2_a_3_head}</p>
+    <p id="0">${o_2_a_3_sentence}</p>
+    <input type="radio" name="q23" value="1" required> Related<br>
+    <input type="radio" name="q23" value="0" required> Not related<br>
+    
+    <p id="0">${o_2_a_4_head}</p>
+    <p id="0">${o_2_a_4_sentence}</p>
+    <input type="radio" name="q24" value="1" required> Related<br>
+    <input type="radio" name="q24" value="0" required> Not related<br>
+    
+    <br>Reasoning (Optional - if you were unsure/confused at any point):<br>
+    <textarea name="q2" rows="3" cols="100"></textarea>
+  <br><hr>
+</div>
+<p><input type='submit' id='submitButton' value='Submit' /></p></form>
+
+<script language='Javascript'>turkSetAssignmentID();</script>
+<p><small>This is part of a study on generating satire. It is conducted through the <a href="http://robotics.cs.brown.edu/" target="_blank">R-lab</a> at Brown University.</small></p>
+</body></html>
+<!-- YOUR HTML ENDS -->
+<!-- ]]> -->
+</HTMLContent>
+<!-- <FrameHeight>600</FrameHeight> -->
+</HTMLQuestion>
