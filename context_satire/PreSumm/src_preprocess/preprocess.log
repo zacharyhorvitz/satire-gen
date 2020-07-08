@@ -1,0 +1,4 @@
+[2020-02-21 19:43:05,808 INFO] loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at C:\Users\zach_surf\.cache\torch\pytorch_transformers\26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+[2020-02-21 19:43:05,867 INFO] Processing C:\Users\zach_surf\Documents\GitHub\satiregen\data\processed_docs\TRAINING\0
+[2020-02-21 19:55:31,782 INFO] Ignore C:\Users\zach_surf\Documents\GitHub\satiregen\data\processed_docs\training.bert.pt
+[2020-02-21 19:55:31,784 INFO] Ignore C:\Users\zach_surf\Documents\GitHub\satiregen\data\processed_docs\testing.bert.pt
