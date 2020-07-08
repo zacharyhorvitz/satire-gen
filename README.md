@@ -30,8 +30,11 @@ Example:
 
 ## TODO:
 ### Include (Move from private repo)
-- Modified PreSum Code (with correct training param/decay func)
+- Upload BertData for Training
+- Clean up superfluous scripts across src folders
+- Add training code for baselines
+- Add data for baselines/unfun (host on department machine)
 - News Retrieval scripts
-- Data {rocessing scripts
-- Host weight files on Brown department machine
-- Turker Data
+- Clean up data processing scripts
+- Add weight files (Host files on Brown department machine)
+- Turker Data/Analysis code
