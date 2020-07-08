@@ -30,11 +30,11 @@ Example:
 
 ## TODO:
 ### Include (Move from private repo)
-- Upload BertData for Training
-- Clean up superfluous scripts across src folders
+- Clean up superfluous scripts across src folders / rerun each script
 - Add training code for baselines
 - Add data for baselines/unfun (host on department machine)
 - News Retrieval scripts
-- Clean up data processing scripts
+- Clean up data processing scripts/confirm runthrough of code
+- Upload Bertdata (preprocesses) for Training
 - Add weight files (Host files on Brown department machine)
 - Turker Data/Analysis code
