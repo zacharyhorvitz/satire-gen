@@ -1,0 +1,91 @@
+{
+  "docId": "24",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "billy",
+          "originalText": "billy",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 5,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "bob",
+          "originalText": "bob",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 9,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "thornton",
+          "originalText": "thornton",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 18,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "got",
+          "originalText": "got",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 22,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 26,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "tattoos",
+          "originalText": "tattoos",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 34,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "while",
+          "originalText": "while",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 40,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 43,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "college",
+          "originalText": "college",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 51,
+          "before": " ",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

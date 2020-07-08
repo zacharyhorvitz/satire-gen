@@ -1,0 +1,82 @@
+{
+  "docId": "1234",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "hollywood",
+          "originalText": "hollywood",
+          "characterOffsetBegin": 1,
+          "characterOffsetEnd": 10,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "diet",
+          "originalText": "diet",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 15,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "secrets",
+          "originalText": "secrets",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 23,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "have",
+          "originalText": "have",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 28,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "fallen",
+          "originalText": "fallen",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 35,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "into",
+          "originalText": "into",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 40,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "non-celebrity",
+          "originalText": "non-celebrity",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 54,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "hands",
+          "originalText": "hands",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 60,
+          "before": " ",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

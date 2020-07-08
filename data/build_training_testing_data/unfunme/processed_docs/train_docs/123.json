@@ -1,0 +1,64 @@
+{
+  "docId": "123",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "chris",
+          "originalText": "chris",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 5,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "kattan",
+          "originalText": "kattan",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 12,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "will",
+          "originalText": "will",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 17,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "start",
+          "originalText": "start",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 23,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 25,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "podcast",
+          "originalText": "podcast",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 33,
+          "before": " ",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

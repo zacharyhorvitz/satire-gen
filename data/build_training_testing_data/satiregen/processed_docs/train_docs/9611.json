@@ -1,0 +1,2792 @@
+{
+  "docId": "9611",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "James",
+          "originalText": "James",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 5,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Fenimore",
+          "originalText": "Fenimore",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 14,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Cooper",
+          "originalText": "Cooper",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 21,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 23,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": "September",
+          "originalText": "September",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 32,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "15",
+          "originalText": "15",
+          "characterOffsetBegin": 33,
+          "characterOffsetEnd": 35,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 36,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "1789",
+          "originalText": "1789",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 41,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "--",
+          "originalText": "–",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 43,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "September",
+          "originalText": "September",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 53,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "14",
+          "originalText": "14",
+          "characterOffsetBegin": 54,
+          "characterOffsetEnd": 56,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 57,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "1851",
+          "originalText": "1851",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 62,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 63,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 67,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 68,
+          "characterOffsetEnd": 70,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 71,
+          "characterOffsetEnd": 79,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "writer",
+          "originalText": "writer",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 86,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 89,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 93,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "first",
+          "originalText": "first",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 99,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "half",
+          "originalText": "half",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 104,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 107,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 111,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "19th",
+          "originalText": "19th",
+          "characterOffsetBegin": 112,
+          "characterOffsetEnd": 116,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "century",
+          "originalText": "century",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 124,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 124,
+          "characterOffsetEnd": 125,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "His",
+          "originalText": "His",
+          "characterOffsetBegin": 126,
+          "characterOffsetEnd": 129,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "historical",
+          "originalText": "historical",
+          "characterOffsetBegin": 130,
+          "characterOffsetEnd": 140,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "romances",
+          "originalText": "romances",
+          "characterOffsetBegin": 141,
+          "characterOffsetEnd": 149,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "depicting",
+          "originalText": "depicting",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 159,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "frontier",
+          "originalText": "frontier",
+          "characterOffsetBegin": 160,
+          "characterOffsetEnd": 168,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 169,
+          "characterOffsetEnd": 172,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Native",
+          "originalText": "Native",
+          "characterOffsetBegin": 173,
+          "characterOffsetEnd": 179,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 180,
+          "characterOffsetEnd": 188,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "life",
+          "originalText": "life",
+          "characterOffsetBegin": 189,
+          "characterOffsetEnd": 193,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 194,
+          "characterOffsetEnd": 198,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 199,
+          "characterOffsetEnd": 202,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "17th",
+          "originalText": "17th",
+          "characterOffsetBegin": 203,
+          "characterOffsetEnd": 207,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 208,
+          "characterOffsetEnd": 210,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 211,
+          "characterOffsetEnd": 214,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "19th",
+          "originalText": "19th",
+          "characterOffsetBegin": 215,
+          "characterOffsetEnd": 219,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "centuries",
+          "originalText": "centuries",
+          "characterOffsetBegin": 220,
+          "characterOffsetEnd": 229,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "created",
+          "originalText": "created",
+          "characterOffsetBegin": 230,
+          "characterOffsetEnd": 237,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 238,
+          "characterOffsetEnd": 239,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "unique",
+          "originalText": "unique",
+          "characterOffsetBegin": 240,
+          "characterOffsetEnd": 246,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "form",
+          "originalText": "form",
+          "characterOffsetBegin": 247,
+          "characterOffsetEnd": 251,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 252,
+          "characterOffsetEnd": 254,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 255,
+          "characterOffsetEnd": 263,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "literature",
+          "originalText": "literature",
+          "characterOffsetBegin": 264,
+          "characterOffsetEnd": 274,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 274,
+          "characterOffsetEnd": 275,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "He",
+          "originalText": "He",
+          "characterOffsetBegin": 276,
+          "characterOffsetEnd": 278,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "lived",
+          "originalText": "lived",
+          "characterOffsetBegin": 279,
+          "characterOffsetEnd": 284,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "much",
+          "originalText": "much",
+          "characterOffsetBegin": 285,
+          "characterOffsetEnd": 289,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 290,
+          "characterOffsetEnd": 292,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 293,
+          "characterOffsetEnd": 296,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "boyhood",
+          "originalText": "boyhood",
+          "characterOffsetBegin": 297,
+          "characterOffsetEnd": 304,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 305,
+          "characterOffsetEnd": 308,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 309,
+          "characterOffsetEnd": 312,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "last",
+          "originalText": "last",
+          "characterOffsetBegin": 313,
+          "characterOffsetEnd": 317,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "fifteen",
+          "originalText": "fifteen",
+          "characterOffsetBegin": 318,
+          "characterOffsetEnd": 325,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "years",
+          "originalText": "years",
+          "characterOffsetBegin": 326,
+          "characterOffsetEnd": 331,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 332,
+          "characterOffsetEnd": 334,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "life",
+          "originalText": "life",
+          "characterOffsetBegin": 335,
+          "characterOffsetEnd": 339,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 340,
+          "characterOffsetEnd": 342,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Cooperstown",
+          "originalText": "Cooperstown",
+          "characterOffsetBegin": 343,
+          "characterOffsetEnd": 354,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 354,
+          "characterOffsetEnd": 355,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "New",
+          "originalText": "New",
+          "characterOffsetBegin": 356,
+          "characterOffsetEnd": 359,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "York",
+          "originalText": "York",
+          "characterOffsetBegin": 360,
+          "characterOffsetEnd": 364,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 364,
+          "characterOffsetEnd": 365,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "which",
+          "originalText": "which",
+          "characterOffsetBegin": 366,
+          "characterOffsetEnd": 371,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 372,
+          "characterOffsetEnd": 375,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "founded",
+          "originalText": "founded",
+          "characterOffsetBegin": 376,
+          "characterOffsetEnd": 383,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 384,
+          "characterOffsetEnd": 386,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 387,
+          "characterOffsetEnd": 390,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "father",
+          "originalText": "father",
+          "characterOffsetBegin": 391,
+          "characterOffsetEnd": 397,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "William",
+          "originalText": "William",
+          "characterOffsetBegin": 398,
+          "characterOffsetEnd": 405,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 406,
+          "characterOffsetEnd": 408,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "property",
+          "originalText": "property",
+          "characterOffsetBegin": 409,
+          "characterOffsetEnd": 417,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "that",
+          "originalText": "that",
+          "characterOffsetBegin": 418,
+          "characterOffsetEnd": 422,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "he",
+          "originalText": "he",
+          "characterOffsetBegin": 423,
+          "characterOffsetEnd": 425,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "owned",
+          "originalText": "owned",
+          "characterOffsetBegin": 426,
+          "characterOffsetEnd": 431,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 32,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 431,
+          "characterOffsetEnd": 432,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Cooper",
+          "originalText": "Cooper",
+          "characterOffsetBegin": 433,
+          "characterOffsetEnd": 439,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "became",
+          "originalText": "became",
+          "characterOffsetBegin": 440,
+          "characterOffsetEnd": 446,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 447,
+          "characterOffsetEnd": 448,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "member",
+          "originalText": "member",
+          "characterOffsetBegin": 449,
+          "characterOffsetEnd": 455,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 456,
+          "characterOffsetEnd": 458,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 459,
+          "characterOffsetEnd": 462,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Episcopal",
+          "originalText": "Episcopal",
+          "characterOffsetBegin": 463,
+          "characterOffsetEnd": 472,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Church",
+          "originalText": "Church",
+          "characterOffsetBegin": 473,
+          "characterOffsetEnd": 479,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "shortly",
+          "originalText": "shortly",
+          "characterOffsetBegin": 480,
+          "characterOffsetEnd": 487,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "before",
+          "originalText": "before",
+          "characterOffsetBegin": 488,
+          "characterOffsetEnd": 494,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 495,
+          "characterOffsetEnd": 498,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "death",
+          "originalText": "death",
+          "characterOffsetBegin": 499,
+          "characterOffsetEnd": 504,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 505,
+          "characterOffsetEnd": 508,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "contributed",
+          "originalText": "contributed",
+          "characterOffsetBegin": 509,
+          "characterOffsetEnd": 520,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "generously",
+          "originalText": "generously",
+          "characterOffsetBegin": 521,
+          "characterOffsetEnd": 531,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 532,
+          "characterOffsetEnd": 534,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 535,
+          "characterOffsetEnd": 537,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 537,
+          "characterOffsetEnd": 538,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Following",
+          "originalText": "Following",
+          "characterOffsetBegin": 539,
+          "characterOffsetEnd": 548,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 549,
+          "characterOffsetEnd": 551,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 552,
+          "characterOffsetEnd": 553,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "swell",
+          "originalText": "swell",
+          "characterOffsetBegin": 554,
+          "characterOffsetEnd": 559,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 560,
+          "characterOffsetEnd": 562,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "popularity",
+          "originalText": "popularity",
+          "characterOffsetBegin": 563,
+          "characterOffsetEnd": 573,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 573,
+          "characterOffsetEnd": 574,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Cooper",
+          "originalText": "Cooper",
+          "characterOffsetBegin": 575,
+          "characterOffsetEnd": 581,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "published",
+          "originalText": "published",
+          "characterOffsetBegin": 582,
+          "characterOffsetEnd": 591,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 592,
+          "characterOffsetEnd": 595,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Pioneers",
+          "originalText": "Pioneers",
+          "characterOffsetBegin": 596,
+          "characterOffsetEnd": 604,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 604,
+          "characterOffsetEnd": 605,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 606,
+          "characterOffsetEnd": 609,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "first",
+          "originalText": "first",
+          "characterOffsetBegin": 610,
+          "characterOffsetEnd": 615,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 616,
+          "characterOffsetEnd": 618,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 619,
+          "characterOffsetEnd": 622,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Leatherstocking",
+          "originalText": "Leatherstocking",
+          "characterOffsetBegin": 623,
+          "characterOffsetEnd": 638,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "series",
+          "originalText": "series",
+          "characterOffsetBegin": 639,
+          "characterOffsetEnd": 645,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 646,
+          "characterOffsetEnd": 648,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "1823",
+          "originalText": "1823",
+          "characterOffsetBegin": 649,
+          "characterOffsetEnd": 653,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 653,
+          "characterOffsetEnd": 654,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 655,
+          "characterOffsetEnd": 658,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "series",
+          "originalText": "series",
+          "characterOffsetBegin": 659,
+          "characterOffsetEnd": 665,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "features",
+          "originalText": "features",
+          "characterOffsetBegin": 666,
+          "characterOffsetEnd": 674,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 675,
+          "characterOffsetEnd": 678,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "inter-racial",
+          "originalText": "inter-racial",
+          "characterOffsetBegin": 679,
+          "characterOffsetEnd": 691,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "friendship",
+          "originalText": "friendship",
+          "characterOffsetBegin": 692,
+          "characterOffsetEnd": 702,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 703,
+          "characterOffsetEnd": 705,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Natty",
+          "originalText": "Natty",
+          "characterOffsetBegin": 706,
+          "characterOffsetEnd": 711,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Bumppo",
+          "originalText": "Bumppo",
+          "characterOffsetBegin": 712,
+          "characterOffsetEnd": 718,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 718,
+          "characterOffsetEnd": 719,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 720,
+          "characterOffsetEnd": 721,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "resourceful",
+          "originalText": "resourceful",
+          "characterOffsetBegin": 722,
+          "characterOffsetEnd": 733,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 734,
+          "characterOffsetEnd": 742,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "woodsman",
+          "originalText": "woodsman",
+          "characterOffsetBegin": 743,
+          "characterOffsetEnd": 751,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "who",
+          "originalText": "who",
+          "characterOffsetBegin": 752,
+          "characterOffsetEnd": 755,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 756,
+          "characterOffsetEnd": 758,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "at",
+          "originalText": "at",
+          "characterOffsetBegin": 759,
+          "characterOffsetEnd": 761,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "home",
+          "originalText": "home",
+          "characterOffsetBegin": 762,
+          "characterOffsetEnd": 766,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 767,
+          "characterOffsetEnd": 771,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 772,
+          "characterOffsetEnd": 775,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Delaware",
+          "originalText": "Delaware",
+          "characterOffsetBegin": 776,
+          "characterOffsetEnd": 784,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "Indians",
+          "originalText": "Indians",
+          "characterOffsetBegin": 785,
+          "characterOffsetEnd": 792,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 793,
+          "characterOffsetEnd": 796,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "their",
+          "originalText": "their",
+          "characterOffsetBegin": 797,
+          "characterOffsetEnd": 802,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "chief",
+          "originalText": "chief",
+          "characterOffsetBegin": 803,
+          "characterOffsetEnd": 808,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "Chingachgook",
+          "originalText": "Chingachgook",
+          "characterOffsetBegin": 809,
+          "characterOffsetEnd": 821,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 821,
+          "characterOffsetEnd": 822,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Bumppo",
+          "originalText": "Bumppo",
+          "characterOffsetBegin": 823,
+          "characterOffsetEnd": 829,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 830,
+          "characterOffsetEnd": 833,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "also",
+          "originalText": "also",
+          "characterOffsetBegin": 834,
+          "characterOffsetEnd": 838,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 839,
+          "characterOffsetEnd": 842,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "main",
+          "originalText": "main",
+          "characterOffsetBegin": 843,
+          "characterOffsetEnd": 847,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "character",
+          "originalText": "character",
+          "characterOffsetBegin": 848,
+          "characterOffsetEnd": 857,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 858,
+          "characterOffsetEnd": 860,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Cooper",
+          "originalText": "Cooper",
+          "characterOffsetBegin": 861,
+          "characterOffsetEnd": 867,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": "'s",
+          "originalText": "'s",
+          "characterOffsetBegin": 867,
+          "characterOffsetEnd": 869,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "most",
+          "originalText": "most",
+          "characterOffsetBegin": 870,
+          "characterOffsetEnd": 874,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "famous",
+          "originalText": "famous",
+          "characterOffsetBegin": 875,
+          "characterOffsetEnd": 881,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "novel",
+          "originalText": "novel",
+          "characterOffsetBegin": 882,
+          "characterOffsetEnd": 887,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 888,
+          "characterOffsetEnd": 891,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Last",
+          "originalText": "Last",
+          "characterOffsetBegin": 892,
+          "characterOffsetEnd": 896,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 897,
+          "characterOffsetEnd": 899,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 900,
+          "characterOffsetEnd": 903,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Mohicans",
+          "originalText": "Mohicans",
+          "characterOffsetBegin": 904,
+          "characterOffsetEnd": 912,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 913,
+          "characterOffsetEnd": 914,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": "1826",
+          "originalText": "1826",
+          "characterOffsetBegin": 914,
+          "characterOffsetEnd": 918,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 918,
+          "characterOffsetEnd": 919,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 919,
+          "characterOffsetEnd": 920,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "written",
+          "originalText": "written",
+          "characterOffsetBegin": 921,
+          "characterOffsetEnd": 928,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 929,
+          "characterOffsetEnd": 931,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "New",
+          "originalText": "New",
+          "characterOffsetBegin": 932,
+          "characterOffsetEnd": 935,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "York",
+          "originalText": "York",
+          "characterOffsetBegin": 936,
+          "characterOffsetEnd": 940,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "City",
+          "originalText": "City",
+          "characterOffsetBegin": 941,
+          "characterOffsetEnd": 945,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "where",
+          "originalText": "where",
+          "characterOffsetBegin": 946,
+          "characterOffsetEnd": 951,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "Cooper",
+          "originalText": "Cooper",
+          "characterOffsetBegin": 952,
+          "characterOffsetEnd": 958,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 959,
+          "characterOffsetEnd": 962,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 963,
+          "characterOffsetEnd": 966,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "family",
+          "originalText": "family",
+          "characterOffsetBegin": 967,
+          "characterOffsetEnd": 973,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "lived",
+          "originalText": "lived",
+          "characterOffsetBegin": 974,
+          "characterOffsetEnd": 979,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 980,
+          "characterOffsetEnd": 984,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "1822",
+          "originalText": "1822",
+          "characterOffsetBegin": 985,
+          "characterOffsetEnd": 989,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 990,
+          "characterOffsetEnd": 992,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "1826",
+          "originalText": "1826",
+          "characterOffsetBegin": 993,
+          "characterOffsetEnd": 997,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 37,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 997,
+          "characterOffsetEnd": 998,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 999,
+          "characterOffsetEnd": 1002,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "book",
+          "originalText": "book",
+          "characterOffsetBegin": 1003,
+          "characterOffsetEnd": 1007,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "became",
+          "originalText": "became",
+          "characterOffsetBegin": 1008,
+          "characterOffsetEnd": 1014,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "one",
+          "originalText": "one",
+          "characterOffsetBegin": 1015,
+          "characterOffsetEnd": 1018,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1019,
+          "characterOffsetEnd": 1021,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1022,
+          "characterOffsetEnd": 1025,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "most",
+          "originalText": "most",
+          "characterOffsetBegin": 1026,
+          "characterOffsetEnd": 1030,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "widely",
+          "originalText": "widely",
+          "characterOffsetBegin": 1031,
+          "characterOffsetEnd": 1037,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "read",
+          "originalText": "read",
+          "characterOffsetBegin": 1038,
+          "characterOffsetEnd": 1042,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 1043,
+          "characterOffsetEnd": 1051,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "novels",
+          "originalText": "novels",
+          "characterOffsetBegin": 1052,
+          "characterOffsetEnd": 1058,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1059,
+          "characterOffsetEnd": 1061,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1062,
+          "characterOffsetEnd": 1065,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "19th",
+          "originalText": "19th",
+          "characterOffsetBegin": 1066,
+          "characterOffsetEnd": 1070,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "century",
+          "originalText": "century",
+          "characterOffsetBegin": 1071,
+          "characterOffsetEnd": 1078,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1078,
+          "characterOffsetEnd": 1079,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "James",
+          "originalText": "James",
+          "characterOffsetBegin": 1080,
+          "characterOffsetEnd": 1085,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Fenimore",
+          "originalText": "Fenimore",
+          "characterOffsetBegin": 1086,
+          "characterOffsetEnd": 1094,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Cooper",
+          "originalText": "Cooper",
+          "characterOffsetBegin": 1095,
+          "characterOffsetEnd": 1101,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 1102,
+          "characterOffsetEnd": 1103,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": "September",
+          "originalText": "September",
+          "characterOffsetBegin": 1103,
+          "characterOffsetEnd": 1112,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "15",
+          "originalText": "15",
+          "characterOffsetBegin": 1113,
+          "characterOffsetEnd": 1115,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1115,
+          "characterOffsetEnd": 1116,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "1789",
+          "originalText": "1789",
+          "characterOffsetBegin": 1117,
+          "characterOffsetEnd": 1121,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "--",
+          "originalText": "–",
+          "characterOffsetBegin": 1122,
+          "characterOffsetEnd": 1123,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "September",
+          "originalText": "September",
+          "characterOffsetBegin": 1124,
+          "characterOffsetEnd": 1133,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "14",
+          "originalText": "14",
+          "characterOffsetBegin": 1134,
+          "characterOffsetEnd": 1136,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1136,
+          "characterOffsetEnd": 1137,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "1851",
+          "originalText": "1851",
+          "characterOffsetBegin": 1138,
+          "characterOffsetEnd": 1142,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 1142,
+          "characterOffsetEnd": 1143,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 1144,
+          "characterOffsetEnd": 1147,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 1148,
+          "characterOffsetEnd": 1150,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 1151,
+          "characterOffsetEnd": 1159,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "writer",
+          "originalText": "writer",
+          "characterOffsetBegin": 1160,
+          "characterOffsetEnd": 1166,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1167,
+          "characterOffsetEnd": 1169,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1170,
+          "characterOffsetEnd": 1173,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "first",
+          "originalText": "first",
+          "characterOffsetBegin": 1174,
+          "characterOffsetEnd": 1179,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "half",
+          "originalText": "half",
+          "characterOffsetBegin": 1180,
+          "characterOffsetEnd": 1184,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1185,
+          "characterOffsetEnd": 1187,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1188,
+          "characterOffsetEnd": 1191,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "19th",
+          "originalText": "19th",
+          "characterOffsetBegin": 1192,
+          "characterOffsetEnd": 1196,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "century",
+          "originalText": "century",
+          "characterOffsetBegin": 1197,
+          "characterOffsetEnd": 1204,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1204,
+          "characterOffsetEnd": 1205,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "His",
+          "originalText": "His",
+          "characterOffsetBegin": 1206,
+          "characterOffsetEnd": 1209,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "historical",
+          "originalText": "historical",
+          "characterOffsetBegin": 1210,
+          "characterOffsetEnd": 1220,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "romances",
+          "originalText": "romances",
+          "characterOffsetBegin": 1221,
+          "characterOffsetEnd": 1229,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "depicting",
+          "originalText": "depicting",
+          "characterOffsetBegin": 1230,
+          "characterOffsetEnd": 1239,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "frontier",
+          "originalText": "frontier",
+          "characterOffsetBegin": 1240,
+          "characterOffsetEnd": 1248,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1249,
+          "characterOffsetEnd": 1252,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Native",
+          "originalText": "Native",
+          "characterOffsetBegin": 1253,
+          "characterOffsetEnd": 1259,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 1260,
+          "characterOffsetEnd": 1268,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "life",
+          "originalText": "life",
+          "characterOffsetBegin": 1269,
+          "characterOffsetEnd": 1273,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 1274,
+          "characterOffsetEnd": 1278,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1279,
+          "characterOffsetEnd": 1282,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "17th",
+          "originalText": "17th",
+          "characterOffsetBegin": 1283,
+          "characterOffsetEnd": 1287,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1288,
+          "characterOffsetEnd": 1290,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1291,
+          "characterOffsetEnd": 1294,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "19th",
+          "originalText": "19th",
+          "characterOffsetBegin": 1295,
+          "characterOffsetEnd": 1299,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "centuries",
+          "originalText": "centuries",
+          "characterOffsetBegin": 1300,
+          "characterOffsetEnd": 1309,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "created",
+          "originalText": "created",
+          "characterOffsetBegin": 1310,
+          "characterOffsetEnd": 1317,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 1318,
+          "characterOffsetEnd": 1319,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "unique",
+          "originalText": "unique",
+          "characterOffsetBegin": 1320,
+          "characterOffsetEnd": 1326,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "form",
+          "originalText": "form",
+          "characterOffsetBegin": 1327,
+          "characterOffsetEnd": 1331,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1332,
+          "characterOffsetEnd": 1334,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 1335,
+          "characterOffsetEnd": 1343,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "literature",
+          "originalText": "literature",
+          "characterOffsetBegin": 1344,
+          "characterOffsetEnd": 1354,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1354,
+          "characterOffsetEnd": 1355,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "He",
+          "originalText": "He",
+          "characterOffsetBegin": 1356,
+          "characterOffsetEnd": 1358,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "lived",
+          "originalText": "lived",
+          "characterOffsetBegin": 1359,
+          "characterOffsetEnd": 1364,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "much",
+          "originalText": "much",
+          "characterOffsetBegin": 1365,
+          "characterOffsetEnd": 1369,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1370,
+          "characterOffsetEnd": 1372,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 1373,
+          "characterOffsetEnd": 1376,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "boyhood",
+          "originalText": "boyhood",
+          "characterOffsetBegin": 1377,
+          "characterOffsetEnd": 1384,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1385,
+          "characterOffsetEnd": 1388,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1389,
+          "characterOffsetEnd": 1392,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "last",
+          "originalText": "last",
+          "characterOffsetBegin": 1393,
+          "characterOffsetEnd": 1397,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "fifteen",
+          "originalText": "fifteen",
+          "characterOffsetBegin": 1398,
+          "characterOffsetEnd": 1405,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "years",
+          "originalText": "years",
+          "characterOffsetBegin": 1406,
+          "characterOffsetEnd": 1411,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1412,
+          "characterOffsetEnd": 1414,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "life",
+          "originalText": "life",
+          "characterOffsetBegin": 1415,
+          "characterOffsetEnd": 1419,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 1420,
+          "characterOffsetEnd": 1422,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Cooperstown",
+          "originalText": "Cooperstown",
+          "characterOffsetBegin": 1423,
+          "characterOffsetEnd": 1434,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1434,
+          "characterOffsetEnd": 1435,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "New",
+          "originalText": "New",
+          "characterOffsetBegin": 1436,
+          "characterOffsetEnd": 1439,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "York",
+          "originalText": "York",
+          "characterOffsetBegin": 1440,
+          "characterOffsetEnd": 1444,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1444,
+          "characterOffsetEnd": 1445,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "which",
+          "originalText": "which",
+          "characterOffsetBegin": 1446,
+          "characterOffsetEnd": 1451,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 1452,
+          "characterOffsetEnd": 1455,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "founded",
+          "originalText": "founded",
+          "characterOffsetBegin": 1456,
+          "characterOffsetEnd": 1463,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 1464,
+          "characterOffsetEnd": 1466,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 1467,
+          "characterOffsetEnd": 1470,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "father",
+          "originalText": "father",
+          "characterOffsetBegin": 1471,
+          "characterOffsetEnd": 1477,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "William",
+          "originalText": "William",
+          "characterOffsetBegin": 1478,
+          "characterOffsetEnd": 1485,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 1486,
+          "characterOffsetEnd": 1488,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "property",
+          "originalText": "property",
+          "characterOffsetBegin": 1489,
+          "characterOffsetEnd": 1497,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "that",
+          "originalText": "that",
+          "characterOffsetBegin": 1498,
+          "characterOffsetEnd": 1502,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "he",
+          "originalText": "he",
+          "characterOffsetBegin": 1503,
+          "characterOffsetEnd": 1505,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "owned",
+          "originalText": "owned",
+          "characterOffsetBegin": 1506,
+          "characterOffsetEnd": 1511,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 32,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1511,
+          "characterOffsetEnd": 1512,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Cooper",
+          "originalText": "Cooper",
+          "characterOffsetBegin": 1513,
+          "characterOffsetEnd": 1519,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "became",
+          "originalText": "became",
+          "characterOffsetBegin": 1520,
+          "characterOffsetEnd": 1526,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 1527,
+          "characterOffsetEnd": 1528,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "member",
+          "originalText": "member",
+          "characterOffsetBegin": 1529,
+          "characterOffsetEnd": 1535,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1536,
+          "characterOffsetEnd": 1538,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1539,
+          "characterOffsetEnd": 1542,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Episcopal",
+          "originalText": "Episcopal",
+          "characterOffsetBegin": 1543,
+          "characterOffsetEnd": 1552,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Church",
+          "originalText": "Church",
+          "characterOffsetBegin": 1553,
+          "characterOffsetEnd": 1559,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "shortly",
+          "originalText": "shortly",
+          "characterOffsetBegin": 1560,
+          "characterOffsetEnd": 1567,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "before",
+          "originalText": "before",
+          "characterOffsetBegin": 1568,
+          "characterOffsetEnd": 1574,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 1575,
+          "characterOffsetEnd": 1578,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "death",
+          "originalText": "death",
+          "characterOffsetBegin": 1579,
+          "characterOffsetEnd": 1584,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1585,
+          "characterOffsetEnd": 1588,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "contributed",
+          "originalText": "contributed",
+          "characterOffsetBegin": 1589,
+          "characterOffsetEnd": 1600,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "generously",
+          "originalText": "generously",
+          "characterOffsetBegin": 1601,
+          "characterOffsetEnd": 1611,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1612,
+          "characterOffsetEnd": 1614,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 1615,
+          "characterOffsetEnd": 1617,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1617,
+          "characterOffsetEnd": 1618,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

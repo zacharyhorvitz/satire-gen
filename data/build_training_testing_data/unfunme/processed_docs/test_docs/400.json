@@ -1,0 +1,46 @@
+{
+  "docId": "400",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "new",
+          "originalText": "new",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "law",
+          "originalText": "law",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 7,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "enforcement",
+          "originalText": "enforcement",
+          "characterOffsetBegin": 8,
+          "characterOffsetEnd": 19,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "robot",
+          "originalText": "robot",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 25,
+          "before": " ",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

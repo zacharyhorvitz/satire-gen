@@ -1,0 +1,1855 @@
+{
+  "docId": "7420",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Gary",
+          "originalText": "Gary",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Gene",
+          "originalText": "Gene",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 9,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Miller",
+          "originalText": "Miller",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 16,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 18,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": "born",
+          "originalText": "born",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 22,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "October",
+          "originalText": "October",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 30,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "16",
+          "originalText": "16",
+          "characterOffsetBegin": 31,
+          "characterOffsetEnd": 33,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 33,
+          "characterOffsetEnd": 34,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "1948",
+          "originalText": "1948",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 39,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 40,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 43,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 46,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 55,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "politician",
+          "originalText": "politician",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 66,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 67,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "who",
+          "originalText": "who",
+          "characterOffsetBegin": 68,
+          "characterOffsetEnd": 71,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 75,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 79,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Republican",
+          "originalText": "Republican",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 90,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "U.S.",
+          "originalText": "U.S.",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 95,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Representative",
+          "originalText": "Representative",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 110,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 114,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "California",
+          "originalText": "California",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 125,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": "'s",
+          "originalText": "'s",
+          "characterOffsetBegin": 125,
+          "characterOffsetEnd": 127,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "31st",
+          "originalText": "31st",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 132,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "congressional",
+          "originalText": "congressional",
+          "characterOffsetBegin": 133,
+          "characterOffsetEnd": 146,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "district",
+          "originalText": "district",
+          "characterOffsetBegin": 147,
+          "characterOffsetEnd": 155,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 28,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 155,
+          "characterOffsetEnd": 156,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "He",
+          "originalText": "He",
+          "characterOffsetBegin": 157,
+          "characterOffsetEnd": 159,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 160,
+          "characterOffsetEnd": 163,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "first",
+          "originalText": "first",
+          "characterOffsetBegin": 164,
+          "characterOffsetEnd": 169,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "elected",
+          "originalText": "elected",
+          "characterOffsetBegin": 170,
+          "characterOffsetEnd": 177,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 178,
+          "characterOffsetEnd": 180,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "1998",
+          "originalText": "1998",
+          "characterOffsetBegin": 181,
+          "characterOffsetEnd": 185,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 186,
+          "characterOffsetEnd": 189,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "served",
+          "originalText": "served",
+          "characterOffsetBegin": 190,
+          "characterOffsetEnd": 196,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "until",
+          "originalText": "until",
+          "characterOffsetBegin": 197,
+          "characterOffsetEnd": 202,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "2015",
+          "originalText": "2015",
+          "characterOffsetBegin": 203,
+          "characterOffsetEnd": 207,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 207,
+          "characterOffsetEnd": 208,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "when",
+          "originalText": "when",
+          "characterOffsetBegin": 209,
+          "characterOffsetEnd": 213,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "he",
+          "originalText": "he",
+          "characterOffsetBegin": 214,
+          "characterOffsetEnd": 216,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "retired",
+          "originalText": "retired",
+          "characterOffsetBegin": 217,
+          "characterOffsetEnd": 224,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 224,
+          "characterOffsetEnd": 225,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 226,
+          "characterOffsetEnd": 229,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "district",
+          "originalText": "district",
+          "characterOffsetBegin": 230,
+          "characterOffsetEnd": 238,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "includes",
+          "originalText": "includes",
+          "characterOffsetBegin": 239,
+          "characterOffsetEnd": 247,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "most",
+          "originalText": "most",
+          "characterOffsetBegin": 248,
+          "characterOffsetEnd": 252,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 253,
+          "characterOffsetEnd": 255,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "southern",
+          "originalText": "southern",
+          "characterOffsetBegin": 256,
+          "characterOffsetEnd": 264,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 265,
+          "characterOffsetEnd": 268,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "western",
+          "originalText": "western",
+          "characterOffsetBegin": 269,
+          "characterOffsetEnd": 276,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "San",
+          "originalText": "San",
+          "characterOffsetBegin": 277,
+          "characterOffsetEnd": 280,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Bernardino",
+          "originalText": "Bernardino",
+          "characterOffsetBegin": 281,
+          "characterOffsetEnd": 291,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "County",
+          "originalText": "County",
+          "characterOffsetBegin": 292,
+          "characterOffsetEnd": 298,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 298,
+          "characterOffsetEnd": 299,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "He",
+          "originalText": "He",
+          "characterOffsetBegin": 300,
+          "characterOffsetEnd": 302,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "previously",
+          "originalText": "previously",
+          "characterOffsetBegin": 303,
+          "characterOffsetEnd": 313,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "represented",
+          "originalText": "represented",
+          "characterOffsetBegin": 314,
+          "characterOffsetEnd": 325,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 326,
+          "characterOffsetEnd": 329,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "42nd",
+          "originalText": "42nd",
+          "characterOffsetBegin": 330,
+          "characterOffsetEnd": 334,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "District",
+          "originalText": "District",
+          "characterOffsetBegin": 335,
+          "characterOffsetEnd": 343,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 344,
+          "characterOffsetEnd": 348,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "1999",
+          "originalText": "1999",
+          "characterOffsetBegin": 349,
+          "characterOffsetEnd": 353,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 354,
+          "characterOffsetEnd": 356,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "2013",
+          "originalText": "2013",
+          "characterOffsetBegin": 357,
+          "characterOffsetEnd": 361,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 362,
+          "characterOffsetEnd": 363,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": "numbered",
+          "originalText": "numbered",
+          "characterOffsetBegin": 363,
+          "characterOffsetEnd": 371,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 372,
+          "characterOffsetEnd": 374,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 375,
+          "characterOffsetEnd": 378,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "41st",
+          "originalText": "41st",
+          "characterOffsetBegin": 379,
+          "characterOffsetEnd": 383,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 384,
+          "characterOffsetEnd": 388,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "1993",
+          "originalText": "1993",
+          "characterOffsetBegin": 389,
+          "characterOffsetEnd": 393,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 394,
+          "characterOffsetEnd": 396,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "2003",
+          "originalText": "2003",
+          "characterOffsetBegin": 397,
+          "characterOffsetEnd": 401,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 401,
+          "characterOffsetEnd": 402,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 402,
+          "characterOffsetEnd": 403,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Chippewa",
+          "originalText": "Chippewa",
+          "characterOffsetBegin": 404,
+          "characterOffsetEnd": 412,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Falls",
+          "originalText": "Falls",
+          "characterOffsetBegin": 413,
+          "characterOffsetEnd": 418,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 419,
+          "characterOffsetEnd": 421,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 422,
+          "characterOffsetEnd": 423,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "city",
+          "originalText": "city",
+          "characterOffsetBegin": 424,
+          "characterOffsetEnd": 428,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "located",
+          "originalText": "located",
+          "characterOffsetBegin": 429,
+          "characterOffsetEnd": 436,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 437,
+          "characterOffsetEnd": 439,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 440,
+          "characterOffsetEnd": 443,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Chippewa",
+          "originalText": "Chippewa",
+          "characterOffsetBegin": 444,
+          "characterOffsetEnd": 452,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "River",
+          "originalText": "River",
+          "characterOffsetBegin": 453,
+          "characterOffsetEnd": 458,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 459,
+          "characterOffsetEnd": 461,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Chippewa",
+          "originalText": "Chippewa",
+          "characterOffsetBegin": 462,
+          "characterOffsetEnd": 470,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "County",
+          "originalText": "County",
+          "characterOffsetBegin": 471,
+          "characterOffsetEnd": 477,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 478,
+          "characterOffsetEnd": 480,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 481,
+          "characterOffsetEnd": 484,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "U.S.",
+          "originalText": "U.S.",
+          "characterOffsetBegin": 485,
+          "characterOffsetEnd": 489,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "state",
+          "originalText": "state",
+          "characterOffsetBegin": 490,
+          "characterOffsetEnd": 495,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 496,
+          "characterOffsetEnd": 498,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Wisconsin",
+          "originalText": "Wisconsin",
+          "characterOffsetBegin": 499,
+          "characterOffsetEnd": 508,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 508,
+          "characterOffsetEnd": 509,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 510,
+          "characterOffsetEnd": 513,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "most",
+          "originalText": "most",
+          "characterOffsetBegin": 514,
+          "characterOffsetEnd": 518,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "recent",
+          "originalText": "recent",
+          "characterOffsetBegin": 519,
+          "characterOffsetEnd": 525,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "census",
+          "originalText": "census",
+          "characterOffsetBegin": 526,
+          "characterOffsetEnd": 532,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 533,
+          "characterOffsetEnd": 537,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "2010",
+          "originalText": "2010",
+          "characterOffsetBegin": 538,
+          "characterOffsetEnd": 542,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "shows",
+          "originalText": "shows",
+          "characterOffsetBegin": 543,
+          "characterOffsetEnd": 548,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "that",
+          "originalText": "that",
+          "characterOffsetBegin": 549,
+          "characterOffsetEnd": 553,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 554,
+          "characterOffsetEnd": 557,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "population",
+          "originalText": "population",
+          "characterOffsetBegin": 558,
+          "characterOffsetEnd": 568,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 569,
+          "characterOffsetEnd": 571,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "13,661",
+          "originalText": "13,661",
+          "characterOffsetBegin": 572,
+          "characterOffsetEnd": 578,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 578,
+          "characterOffsetEnd": 579,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Incorporated",
+          "originalText": "Incorporated",
+          "characterOffsetBegin": 580,
+          "characterOffsetEnd": 592,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 593,
+          "characterOffsetEnd": 595,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 596,
+          "characterOffsetEnd": 597,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "city",
+          "originalText": "city",
+          "characterOffsetBegin": 598,
+          "characterOffsetEnd": 602,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 603,
+          "characterOffsetEnd": 605,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "1869",
+          "originalText": "1869",
+          "characterOffsetBegin": 606,
+          "characterOffsetEnd": 610,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 610,
+          "characterOffsetEnd": 611,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 612,
+          "characterOffsetEnd": 614,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 615,
+          "characterOffsetEnd": 617,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 618,
+          "characterOffsetEnd": 621,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "county",
+          "originalText": "county",
+          "characterOffsetBegin": 622,
+          "characterOffsetEnd": 628,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "seat",
+          "originalText": "seat",
+          "characterOffsetBegin": 629,
+          "characterOffsetEnd": 633,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 634,
+          "characterOffsetEnd": 636,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Chippewa",
+          "originalText": "Chippewa",
+          "characterOffsetBegin": 637,
+          "characterOffsetEnd": 645,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "County.The",
+          "originalText": "County.The",
+          "characterOffsetBegin": 646,
+          "characterOffsetEnd": 656,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "city",
+          "originalText": "city",
+          "characterOffsetBegin": 657,
+          "characterOffsetEnd": 661,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": "'s",
+          "originalText": "'s",
+          "characterOffsetBegin": 661,
+          "characterOffsetEnd": 663,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "name",
+          "originalText": "name",
+          "characterOffsetBegin": 664,
+          "characterOffsetEnd": 668,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "originated",
+          "originalText": "originated",
+          "characterOffsetBegin": 669,
+          "characterOffsetEnd": 679,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 680,
+          "characterOffsetEnd": 684,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "its",
+          "originalText": "its",
+          "characterOffsetBegin": 685,
+          "characterOffsetEnd": 688,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "location",
+          "originalText": "location",
+          "characterOffsetBegin": 689,
+          "characterOffsetEnd": 697,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 698,
+          "characterOffsetEnd": 700,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 701,
+          "characterOffsetEnd": 704,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "Chippewa",
+          "originalText": "Chippewa",
+          "characterOffsetBegin": 705,
+          "characterOffsetEnd": 713,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "River",
+          "originalText": "River",
+          "characterOffsetBegin": 714,
+          "characterOffsetEnd": 719,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 719,
+          "characterOffsetEnd": 720,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "which",
+          "originalText": "which",
+          "characterOffsetBegin": 721,
+          "characterOffsetEnd": 726,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 727,
+          "characterOffsetEnd": 729,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "named",
+          "originalText": "named",
+          "characterOffsetBegin": 730,
+          "characterOffsetEnd": 735,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "after",
+          "originalText": "after",
+          "characterOffsetBegin": 736,
+          "characterOffsetEnd": 741,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 742,
+          "characterOffsetEnd": 745,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "Ojibwe",
+          "originalText": "Ojibwe",
+          "characterOffsetBegin": 746,
+          "characterOffsetEnd": 752,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "Native",
+          "originalText": "Native",
+          "characterOffsetBegin": 753,
+          "characterOffsetEnd": 759,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "Americans",
+          "originalText": "Americans",
+          "characterOffsetBegin": 760,
+          "characterOffsetEnd": 769,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 36,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 769,
+          "characterOffsetEnd": 770,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Chippewa",
+          "originalText": "Chippewa",
+          "characterOffsetBegin": 771,
+          "characterOffsetEnd": 779,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 780,
+          "characterOffsetEnd": 782,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 783,
+          "characterOffsetEnd": 785,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "alternative",
+          "originalText": "alternative",
+          "characterOffsetBegin": 786,
+          "characterOffsetEnd": 797,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "rendition",
+          "originalText": "rendition",
+          "characterOffsetBegin": 798,
+          "characterOffsetEnd": 807,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 808,
+          "characterOffsetEnd": 810,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Ojibwe",
+          "originalText": "Ojibwe",
+          "characterOffsetBegin": 811,
+          "characterOffsetEnd": 817,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 817,
+          "characterOffsetEnd": 818,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Eagle",
+          "originalText": "Eagle",
+          "characterOffsetBegin": 819,
+          "characterOffsetEnd": 824,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Point",
+          "originalText": "Point",
+          "characterOffsetBegin": 825,
+          "characterOffsetEnd": 830,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 831,
+          "characterOffsetEnd": 833,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 834,
+          "characterOffsetEnd": 836,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "unincorporated",
+          "originalText": "unincorporated",
+          "characterOffsetBegin": 837,
+          "characterOffsetEnd": 851,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "community",
+          "originalText": "community",
+          "characterOffsetBegin": 852,
+          "characterOffsetEnd": 861,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "located",
+          "originalText": "located",
+          "characterOffsetBegin": 862,
+          "characterOffsetEnd": 869,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 870,
+          "characterOffsetEnd": 872,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 873,
+          "characterOffsetEnd": 876,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "town",
+          "originalText": "town",
+          "characterOffsetBegin": 877,
+          "characterOffsetEnd": 881,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 882,
+          "characterOffsetEnd": 884,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Eagle",
+          "originalText": "Eagle",
+          "characterOffsetBegin": 885,
+          "characterOffsetEnd": 890,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Point",
+          "originalText": "Point",
+          "characterOffsetBegin": 891,
+          "characterOffsetEnd": 896,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 896,
+          "characterOffsetEnd": 897,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Chippewa",
+          "originalText": "Chippewa",
+          "characterOffsetBegin": 898,
+          "characterOffsetEnd": 906,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "County",
+          "originalText": "County",
+          "characterOffsetBegin": 907,
+          "characterOffsetEnd": 913,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 913,
+          "characterOffsetEnd": 914,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Wisconsin",
+          "originalText": "Wisconsin",
+          "characterOffsetBegin": 915,
+          "characterOffsetEnd": 924,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 924,
+          "characterOffsetEnd": 925,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "United",
+          "originalText": "United",
+          "characterOffsetBegin": 926,
+          "characterOffsetEnd": 932,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "States",
+          "originalText": "States",
+          "characterOffsetBegin": 933,
+          "characterOffsetEnd": 939,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 939,
+          "characterOffsetEnd": 940,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Eagle",
+          "originalText": "Eagle",
+          "characterOffsetBegin": 941,
+          "characterOffsetEnd": 946,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Point",
+          "originalText": "Point",
+          "characterOffsetBegin": 947,
+          "characterOffsetEnd": 952,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 953,
+          "characterOffsetEnd": 955,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "located",
+          "originalText": "located",
+          "characterOffsetBegin": 956,
+          "characterOffsetEnd": 963,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "along",
+          "originalText": "along",
+          "characterOffsetBegin": 964,
+          "characterOffsetEnd": 969,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 970,
+          "characterOffsetEnd": 973,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Union",
+          "originalText": "Union",
+          "characterOffsetBegin": 974,
+          "characterOffsetEnd": 979,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Pacific",
+          "originalText": "Pacific",
+          "characterOffsetBegin": 980,
+          "characterOffsetEnd": 987,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Railroad",
+          "originalText": "Railroad",
+          "characterOffsetBegin": 988,
+          "characterOffsetEnd": 996,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "near",
+          "originalText": "near",
+          "characterOffsetBegin": 997,
+          "characterOffsetEnd": 1001,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Wisconsin",
+          "originalText": "Wisconsin",
+          "characterOffsetBegin": 1002,
+          "characterOffsetEnd": 1011,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Highway",
+          "originalText": "Highway",
+          "characterOffsetBegin": 1012,
+          "characterOffsetEnd": 1019,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "124",
+          "originalText": "124",
+          "characterOffsetBegin": 1020,
+          "characterOffsetEnd": 1023,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1023,
+          "characterOffsetEnd": 1024,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "6.5",
+          "originalText": "6.5",
+          "characterOffsetBegin": 1025,
+          "characterOffsetEnd": 1028,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "miles",
+          "originalText": "miles",
+          "characterOffsetBegin": 1029,
+          "characterOffsetEnd": 1034,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 1035,
+          "characterOffsetEnd": 1036,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": "10.5",
+          "originalText": "10.5",
+          "characterOffsetBegin": 1036,
+          "characterOffsetEnd": 1040,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "km",
+          "originalText": "km",
+          "characterOffsetBegin": 1041,
+          "characterOffsetEnd": 1043,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 1043,
+          "characterOffsetEnd": 1044,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "north",
+          "originalText": "north",
+          "characterOffsetBegin": 1045,
+          "characterOffsetEnd": 1050,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1051,
+          "characterOffsetEnd": 1053,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "Chippewa",
+          "originalText": "Chippewa",
+          "characterOffsetBegin": 1054,
+          "characterOffsetEnd": 1062,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "Falls",
+          "originalText": "Falls",
+          "characterOffsetBegin": 1063,
+          "characterOffsetEnd": 1068,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1068,
+          "characterOffsetEnd": 1069,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

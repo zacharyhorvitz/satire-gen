@@ -1,0 +1,16 @@
+1) Generate ranked documents using data_pipeline
+2) Run make_docs to generate document folders
+2.5) Switch PreSumm branch to Master
+3) Run Stanford Core NLP on 4 things: train/test docs, train/test heads
+
+python preprocess.py -mode tokenize -raw_path RAW_PATH -save_path TOKENIZED_PATH
+e.g. python ../../PreSumm/src/preprocess.py -mode tokenize -raw_path split_docs_train -save_path train_docs -log_file out.log
+
+python preprocess.py -mode tokenize -raw_path ../../satiregen/data/15K/merged_without_report2/unprocessed_documents/split_docs_train/ -save_path ../../satiregen/data/15K/merged_without_report2/processed_docs/train_docs/ -log_file out.log
+
+4) Run make_simple.json
+5) Convert to pytorch files
+
+python preprocess.py -mode format_to_bert_zach -raw_path JSON_PATH -save_path BERT_DATA_PATH  -lower -n_cpus 1 -log_file ../logs/preprocess.log
+
+ C:\Users\zach_surf\Documents\GitHub\PreSumm\src>python preprocess.py -mode format_to_bert_zach -raw_path ../../satiregen/data/15K/merged_without_report2/processed_docs -save_path ../../satiregen/data/15K/merged_without_report2/   -lower -n_cpus 1 -log_file ../logs/preprocess.log

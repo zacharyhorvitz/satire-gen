@@ -1,0 +1,3771 @@
+{
+  "docId": "2303",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 10,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "civil",
+          "originalText": "civil",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 16,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "war",
+          "originalText": "war",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 20,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 22,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": "Arabic",
+          "originalText": "Arabic",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 28,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ":",
+          "originalText": ":",
+          "characterOffsetBegin": 28,
+          "characterOffsetEnd": 29,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "الحرب",
+          "originalText": "الحرب",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 35,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "الأهلية",
+          "originalText": "الأهلية",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 43,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "السورية",
+          "originalText": "السورية",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 51,
+          "before": " ",
+          "after": "‎"
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 53,
+          "before": "‎",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "al-ḥarb",
+          "originalText": "al-ḥarb",
+          "characterOffsetBegin": 54,
+          "characterOffsetEnd": 61,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "al-ʾahlīyah",
+          "originalText": "al-ʾahlīyah",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 73,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "as-sūrīyah",
+          "originalText": "as-sūrīyah",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 84,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 84,
+          "characterOffsetEnd": 85,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 86,
+          "characterOffsetEnd": 88,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 91,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "ongoing",
+          "originalText": "ongoing",
+          "characterOffsetBegin": 92,
+          "characterOffsetEnd": 99,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "multi-sided",
+          "originalText": "multi-sided",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 111,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "civil",
+          "originalText": "civil",
+          "characterOffsetBegin": 112,
+          "characterOffsetEnd": 117,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "war",
+          "originalText": "war",
+          "characterOffsetBegin": 118,
+          "characterOffsetEnd": 121,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 122,
+          "characterOffsetEnd": 124,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "Syria",
+          "originalText": "Syria",
+          "characterOffsetBegin": 125,
+          "characterOffsetEnd": 130,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "fought",
+          "originalText": "fought",
+          "characterOffsetBegin": 131,
+          "characterOffsetEnd": 137,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "between",
+          "originalText": "between",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 145,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 146,
+          "characterOffsetEnd": 149,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "Ba'athist",
+          "originalText": "Ba'athist",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 159,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 160,
+          "characterOffsetEnd": 166,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "Arab",
+          "originalText": "Arab",
+          "characterOffsetBegin": 167,
+          "characterOffsetEnd": 171,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "Republic",
+          "originalText": "Republic",
+          "characterOffsetBegin": 172,
+          "characterOffsetEnd": 180,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "led",
+          "originalText": "led",
+          "characterOffsetBegin": 181,
+          "characterOffsetEnd": 184,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 185,
+          "characterOffsetEnd": 187,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 188,
+          "characterOffsetEnd": 194,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "President",
+          "originalText": "President",
+          "characterOffsetBegin": 195,
+          "characterOffsetEnd": 204,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "Bashar",
+          "originalText": "Bashar",
+          "characterOffsetBegin": 205,
+          "characterOffsetEnd": 211,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "al-Assad",
+          "originalText": "al-Assad",
+          "characterOffsetBegin": 212,
+          "characterOffsetEnd": 220,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 37,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 220,
+          "characterOffsetEnd": 221,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 38,
+          "word": "along",
+          "originalText": "along",
+          "characterOffsetBegin": 222,
+          "characterOffsetEnd": 227,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 39,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 228,
+          "characterOffsetEnd": 232,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 40,
+          "word": "domestic",
+          "originalText": "domestic",
+          "characterOffsetBegin": 233,
+          "characterOffsetEnd": 241,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 41,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 242,
+          "characterOffsetEnd": 245,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 42,
+          "word": "foreign",
+          "originalText": "foreign",
+          "characterOffsetBegin": 246,
+          "characterOffsetEnd": 253,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 43,
+          "word": "allies",
+          "originalText": "allies",
+          "characterOffsetBegin": 254,
+          "characterOffsetEnd": 260,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 44,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 260,
+          "characterOffsetEnd": 261,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 45,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 262,
+          "characterOffsetEnd": 265,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 46,
+          "word": "various",
+          "originalText": "various",
+          "characterOffsetBegin": 266,
+          "characterOffsetEnd": 273,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 47,
+          "word": "domestic",
+          "originalText": "domestic",
+          "characterOffsetBegin": 274,
+          "characterOffsetEnd": 282,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 48,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 283,
+          "characterOffsetEnd": 286,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 49,
+          "word": "foreign",
+          "originalText": "foreign",
+          "characterOffsetBegin": 287,
+          "characterOffsetEnd": 294,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 50,
+          "word": "forces",
+          "originalText": "forces",
+          "characterOffsetBegin": 295,
+          "characterOffsetEnd": 301,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 51,
+          "word": "opposing",
+          "originalText": "opposing",
+          "characterOffsetBegin": 302,
+          "characterOffsetEnd": 310,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 52,
+          "word": "both",
+          "originalText": "both",
+          "characterOffsetBegin": 311,
+          "characterOffsetEnd": 315,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 53,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 316,
+          "characterOffsetEnd": 319,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 54,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 320,
+          "characterOffsetEnd": 326,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 55,
+          "word": "government",
+          "originalText": "government",
+          "characterOffsetBegin": 327,
+          "characterOffsetEnd": 337,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 56,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 338,
+          "characterOffsetEnd": 341,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 57,
+          "word": "each",
+          "originalText": "each",
+          "characterOffsetBegin": 342,
+          "characterOffsetEnd": 346,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 58,
+          "word": "other",
+          "originalText": "other",
+          "characterOffsetBegin": 347,
+          "characterOffsetEnd": 352,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 59,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 353,
+          "characterOffsetEnd": 355,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 60,
+          "word": "varying",
+          "originalText": "varying",
+          "characterOffsetBegin": 356,
+          "characterOffsetEnd": 363,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 61,
+          "word": "combinations",
+          "originalText": "combinations",
+          "characterOffsetBegin": 364,
+          "characterOffsetEnd": 376,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 62,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 376,
+          "characterOffsetEnd": 377,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 378,
+          "characterOffsetEnd": 381,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "war",
+          "originalText": "war",
+          "characterOffsetBegin": 382,
+          "characterOffsetEnd": 385,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 386,
+          "characterOffsetEnd": 388,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "currently",
+          "originalText": "currently",
+          "characterOffsetBegin": 389,
+          "characterOffsetEnd": 398,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 399,
+          "characterOffsetEnd": 402,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "second",
+          "originalText": "second",
+          "characterOffsetBegin": 403,
+          "characterOffsetEnd": 409,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "deadliest",
+          "originalText": "deadliest",
+          "characterOffsetBegin": 410,
+          "characterOffsetEnd": 419,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 420,
+          "characterOffsetEnd": 422,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 423,
+          "characterOffsetEnd": 426,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "21st",
+          "originalText": "21st",
+          "characterOffsetBegin": 427,
+          "characterOffsetEnd": 431,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "century.The",
+          "originalText": "century.The",
+          "characterOffsetBegin": 432,
+          "characterOffsetEnd": 443,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "unrest",
+          "originalText": "unrest",
+          "characterOffsetBegin": 444,
+          "characterOffsetEnd": 450,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 451,
+          "characterOffsetEnd": 453,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Syria",
+          "originalText": "Syria",
+          "characterOffsetBegin": 454,
+          "characterOffsetEnd": 459,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 459,
+          "characterOffsetEnd": 460,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "part",
+          "originalText": "part",
+          "characterOffsetBegin": 461,
+          "characterOffsetEnd": 465,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 466,
+          "characterOffsetEnd": 468,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 469,
+          "characterOffsetEnd": 470,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "wider",
+          "originalText": "wider",
+          "characterOffsetBegin": 471,
+          "characterOffsetEnd": 476,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "wave",
+          "originalText": "wave",
+          "characterOffsetBegin": 477,
+          "characterOffsetEnd": 481,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 482,
+          "characterOffsetEnd": 484,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 485,
+          "characterOffsetEnd": 488,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "2011",
+          "originalText": "2011",
+          "characterOffsetBegin": 489,
+          "characterOffsetEnd": 493,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "Arab",
+          "originalText": "Arab",
+          "characterOffsetBegin": 494,
+          "characterOffsetEnd": 498,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "Spring",
+          "originalText": "Spring",
+          "characterOffsetBegin": 499,
+          "characterOffsetEnd": 505,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "protests",
+          "originalText": "protests",
+          "characterOffsetBegin": 506,
+          "characterOffsetEnd": 514,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 514,
+          "characterOffsetEnd": 515,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "grew",
+          "originalText": "grew",
+          "characterOffsetBegin": 516,
+          "characterOffsetEnd": 520,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "out",
+          "originalText": "out",
+          "characterOffsetBegin": 521,
+          "characterOffsetEnd": 524,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 525,
+          "characterOffsetEnd": 527,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "discontent",
+          "originalText": "discontent",
+          "characterOffsetBegin": 528,
+          "characterOffsetEnd": 538,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 539,
+          "characterOffsetEnd": 543,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 544,
+          "characterOffsetEnd": 547,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 548,
+          "characterOffsetEnd": 554,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "government",
+          "originalText": "government",
+          "characterOffsetBegin": 555,
+          "characterOffsetEnd": 565,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 566,
+          "characterOffsetEnd": 569,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "escalated",
+          "originalText": "escalated",
+          "characterOffsetBegin": 570,
+          "characterOffsetEnd": 579,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 38,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 580,
+          "characterOffsetEnd": 582,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 39,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 583,
+          "characterOffsetEnd": 585,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 40,
+          "word": "armed",
+          "originalText": "armed",
+          "characterOffsetBegin": 586,
+          "characterOffsetEnd": 591,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 41,
+          "word": "conflict",
+          "originalText": "conflict",
+          "characterOffsetBegin": 592,
+          "characterOffsetEnd": 600,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 42,
+          "word": "after",
+          "originalText": "after",
+          "characterOffsetBegin": 601,
+          "characterOffsetEnd": 606,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 43,
+          "word": "protests",
+          "originalText": "protests",
+          "characterOffsetBegin": 607,
+          "characterOffsetEnd": 615,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 44,
+          "word": "calling",
+          "originalText": "calling",
+          "characterOffsetBegin": 616,
+          "characterOffsetEnd": 623,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 45,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 624,
+          "characterOffsetEnd": 627,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 46,
+          "word": "Assad",
+          "originalText": "Assad",
+          "characterOffsetBegin": 628,
+          "characterOffsetEnd": 633,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 47,
+          "word": "'s",
+          "originalText": "'s",
+          "characterOffsetBegin": 633,
+          "characterOffsetEnd": 635,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 48,
+          "word": "removal",
+          "originalText": "removal",
+          "characterOffsetBegin": 636,
+          "characterOffsetEnd": 643,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 49,
+          "word": "were",
+          "originalText": "were",
+          "characterOffsetBegin": 644,
+          "characterOffsetEnd": 648,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 50,
+          "word": "violently",
+          "originalText": "violently",
+          "characterOffsetBegin": 649,
+          "characterOffsetEnd": 658,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 51,
+          "word": "suppressed",
+          "originalText": "suppressed",
+          "characterOffsetBegin": 659,
+          "characterOffsetEnd": 669,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 52,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 669,
+          "characterOffsetEnd": 670,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 671,
+          "characterOffsetEnd": 674,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "war",
+          "originalText": "war",
+          "characterOffsetBegin": 675,
+          "characterOffsetEnd": 678,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 678,
+          "characterOffsetEnd": 679,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "which",
+          "originalText": "which",
+          "characterOffsetBegin": 680,
+          "characterOffsetEnd": 685,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "began",
+          "originalText": "began",
+          "characterOffsetBegin": 686,
+          "characterOffsetEnd": 691,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 692,
+          "characterOffsetEnd": 694,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "15",
+          "originalText": "15",
+          "characterOffsetBegin": 695,
+          "characterOffsetEnd": 697,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "March",
+          "originalText": "March",
+          "characterOffsetBegin": 698,
+          "characterOffsetEnd": 703,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "2011",
+          "originalText": "2011",
+          "characterOffsetBegin": 704,
+          "characterOffsetEnd": 708,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 709,
+          "characterOffsetEnd": 713,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "major",
+          "originalText": "major",
+          "characterOffsetBegin": 714,
+          "characterOffsetEnd": 719,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "unrest",
+          "originalText": "unrest",
+          "characterOffsetBegin": 720,
+          "characterOffsetEnd": 726,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 727,
+          "characterOffsetEnd": 729,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Damascus",
+          "originalText": "Damascus",
+          "characterOffsetBegin": 730,
+          "characterOffsetEnd": 738,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 739,
+          "characterOffsetEnd": 742,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Aleppo",
+          "originalText": "Aleppo",
+          "characterOffsetBegin": 743,
+          "characterOffsetEnd": 749,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 749,
+          "characterOffsetEnd": 750,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 751,
+          "characterOffsetEnd": 753,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "being",
+          "originalText": "being",
+          "characterOffsetBegin": 754,
+          "characterOffsetEnd": 759,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "fought",
+          "originalText": "fought",
+          "characterOffsetBegin": 760,
+          "characterOffsetEnd": 766,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 767,
+          "characterOffsetEnd": 769,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "several",
+          "originalText": "several",
+          "characterOffsetBegin": 770,
+          "characterOffsetEnd": 777,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "factions",
+          "originalText": "factions",
+          "characterOffsetBegin": 778,
+          "characterOffsetEnd": 786,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ":",
+          "originalText": ":",
+          "characterOffsetBegin": 786,
+          "characterOffsetEnd": 787,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 788,
+          "characterOffsetEnd": 791,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 792,
+          "characterOffsetEnd": 798,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "Armed",
+          "originalText": "Armed",
+          "characterOffsetBegin": 799,
+          "characterOffsetEnd": 804,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "Forces",
+          "originalText": "Forces",
+          "characterOffsetBegin": 805,
+          "characterOffsetEnd": 811,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 812,
+          "characterOffsetEnd": 815,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "its",
+          "originalText": "its",
+          "characterOffsetBegin": 816,
+          "characterOffsetEnd": 819,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "international",
+          "originalText": "international",
+          "characterOffsetBegin": 820,
+          "characterOffsetEnd": 833,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "allies",
+          "originalText": "allies",
+          "characterOffsetBegin": 834,
+          "characterOffsetEnd": 840,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 33,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 840,
+          "characterOffsetEnd": 841,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 842,
+          "characterOffsetEnd": 843,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "loose",
+          "originalText": "loose",
+          "characterOffsetBegin": 844,
+          "characterOffsetEnd": 849,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "alliance",
+          "originalText": "alliance",
+          "characterOffsetBegin": 850,
+          "characterOffsetEnd": 858,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 859,
+          "characterOffsetEnd": 861,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 38,
+          "word": "mostly",
+          "originalText": "mostly",
+          "characterOffsetBegin": 862,
+          "characterOffsetEnd": 868,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 39,
+          "word": "Sunni",
+          "originalText": "Sunni",
+          "characterOffsetBegin": 869,
+          "characterOffsetEnd": 874,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 40,
+          "word": "opposition",
+          "originalText": "opposition",
+          "characterOffsetBegin": 875,
+          "characterOffsetEnd": 885,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 41,
+          "word": "rebel",
+          "originalText": "rebel",
+          "characterOffsetBegin": 886,
+          "characterOffsetEnd": 891,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 42,
+          "word": "groups",
+          "originalText": "groups",
+          "characterOffsetBegin": 892,
+          "characterOffsetEnd": 898,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 43,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 899,
+          "characterOffsetEnd": 900,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 44,
+          "word": "including",
+          "originalText": "including",
+          "characterOffsetBegin": 900,
+          "characterOffsetEnd": 909,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 45,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 910,
+          "characterOffsetEnd": 913,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 46,
+          "word": "Free",
+          "originalText": "Free",
+          "characterOffsetBegin": 914,
+          "characterOffsetEnd": 918,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 47,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 919,
+          "characterOffsetEnd": 925,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 48,
+          "word": "Army",
+          "originalText": "Army",
+          "characterOffsetBegin": 926,
+          "characterOffsetEnd": 930,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 49,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 930,
+          "characterOffsetEnd": 931,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 50,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 931,
+          "characterOffsetEnd": 932,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 51,
+          "word": "Salafi",
+          "originalText": "Salafi",
+          "characterOffsetBegin": 933,
+          "characterOffsetEnd": 939,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 52,
+          "word": "jihadist",
+          "originalText": "jihadist",
+          "characterOffsetBegin": 940,
+          "characterOffsetEnd": 948,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 53,
+          "word": "groups",
+          "originalText": "groups",
+          "characterOffsetBegin": 949,
+          "characterOffsetEnd": 955,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 54,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 956,
+          "characterOffsetEnd": 957,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 55,
+          "word": "including",
+          "originalText": "including",
+          "characterOffsetBegin": 957,
+          "characterOffsetEnd": 966,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 56,
+          "word": "al-Nusra",
+          "originalText": "al-Nusra",
+          "characterOffsetBegin": 967,
+          "characterOffsetEnd": 975,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 57,
+          "word": "Front",
+          "originalText": "Front",
+          "characterOffsetBegin": 976,
+          "characterOffsetEnd": 981,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 58,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 981,
+          "characterOffsetEnd": 982,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 59,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 982,
+          "characterOffsetEnd": 983,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 60,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 984,
+          "characterOffsetEnd": 987,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 61,
+          "word": "mixed",
+          "originalText": "mixed",
+          "characterOffsetBegin": 988,
+          "characterOffsetEnd": 993,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 62,
+          "word": "Kurdish-Arab",
+          "originalText": "Kurdish-Arab",
+          "characterOffsetBegin": 994,
+          "characterOffsetEnd": 1006,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 63,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 1007,
+          "characterOffsetEnd": 1013,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 64,
+          "word": "Democratic",
+          "originalText": "Democratic",
+          "characterOffsetBegin": 1014,
+          "characterOffsetEnd": 1024,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 65,
+          "word": "Forces",
+          "originalText": "Forces",
+          "characterOffsetBegin": 1025,
+          "characterOffsetEnd": 1031,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 66,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 1032,
+          "characterOffsetEnd": 1033,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 67,
+          "word": "SDF",
+          "originalText": "SDF",
+          "characterOffsetBegin": 1033,
+          "characterOffsetEnd": 1036,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 68,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 1036,
+          "characterOffsetEnd": 1037,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 69,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1037,
+          "characterOffsetEnd": 1038,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 70,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1039,
+          "characterOffsetEnd": 1042,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 71,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1043,
+          "characterOffsetEnd": 1046,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 72,
+          "word": "Islamic",
+          "originalText": "Islamic",
+          "characterOffsetBegin": 1047,
+          "characterOffsetEnd": 1054,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 73,
+          "word": "State",
+          "originalText": "State",
+          "characterOffsetBegin": 1055,
+          "characterOffsetEnd": 1060,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 74,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1061,
+          "characterOffsetEnd": 1063,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 75,
+          "word": "Iraq",
+          "originalText": "Iraq",
+          "characterOffsetBegin": 1064,
+          "characterOffsetEnd": 1068,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 76,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1069,
+          "characterOffsetEnd": 1072,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 77,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1073,
+          "characterOffsetEnd": 1076,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 78,
+          "word": "Levant",
+          "originalText": "Levant",
+          "characterOffsetBegin": 1077,
+          "characterOffsetEnd": 1083,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 79,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 1084,
+          "characterOffsetEnd": 1085,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 80,
+          "word": "ISIL",
+          "originalText": "ISIL",
+          "characterOffsetBegin": 1085,
+          "characterOffsetEnd": 1089,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 81,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 1089,
+          "characterOffsetEnd": 1090,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 82,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1090,
+          "characterOffsetEnd": 1091,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 83,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 1092,
+          "characterOffsetEnd": 1096,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 84,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 1097,
+          "characterOffsetEnd": 1098,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 85,
+          "word": "number",
+          "originalText": "number",
+          "characterOffsetBegin": 1099,
+          "characterOffsetEnd": 1105,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 86,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1106,
+          "characterOffsetEnd": 1108,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 87,
+          "word": "countries",
+          "originalText": "countries",
+          "characterOffsetBegin": 1109,
+          "characterOffsetEnd": 1118,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 88,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 1119,
+          "characterOffsetEnd": 1121,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 89,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1122,
+          "characterOffsetEnd": 1125,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 90,
+          "word": "region",
+          "originalText": "region",
+          "characterOffsetBegin": 1126,
+          "characterOffsetEnd": 1132,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 91,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1133,
+          "characterOffsetEnd": 1136,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 92,
+          "word": "beyond",
+          "originalText": "beyond",
+          "characterOffsetBegin": 1137,
+          "characterOffsetEnd": 1143,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 93,
+          "word": "being",
+          "originalText": "being",
+          "characterOffsetBegin": 1144,
+          "characterOffsetEnd": 1149,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 94,
+          "word": "either",
+          "originalText": "either",
+          "characterOffsetBegin": 1150,
+          "characterOffsetEnd": 1156,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 95,
+          "word": "directly",
+          "originalText": "directly",
+          "characterOffsetBegin": 1157,
+          "characterOffsetEnd": 1165,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 96,
+          "word": "involved",
+          "originalText": "involved",
+          "characterOffsetBegin": 1166,
+          "characterOffsetEnd": 1174,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 97,
+          "word": "or",
+          "originalText": "or",
+          "characterOffsetBegin": 1175,
+          "characterOffsetEnd": 1177,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 98,
+          "word": "providing",
+          "originalText": "providing",
+          "characterOffsetBegin": 1178,
+          "characterOffsetEnd": 1187,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 99,
+          "word": "support",
+          "originalText": "support",
+          "characterOffsetBegin": 1188,
+          "characterOffsetEnd": 1195,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 100,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1196,
+          "characterOffsetEnd": 1198,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 101,
+          "word": "one",
+          "originalText": "one",
+          "characterOffsetBegin": 1199,
+          "characterOffsetEnd": 1202,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 102,
+          "word": "or",
+          "originalText": "or",
+          "characterOffsetBegin": 1203,
+          "characterOffsetEnd": 1205,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 103,
+          "word": "another",
+          "originalText": "another",
+          "characterOffsetBegin": 1206,
+          "characterOffsetEnd": 1213,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 104,
+          "word": "faction",
+          "originalText": "faction",
+          "characterOffsetBegin": 1214,
+          "characterOffsetEnd": 1221,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 105,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 1222,
+          "characterOffsetEnd": 1223,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 106,
+          "word": "Iran",
+          "originalText": "Iran",
+          "characterOffsetBegin": 1223,
+          "characterOffsetEnd": 1227,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 107,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1227,
+          "characterOffsetEnd": 1228,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 108,
+          "word": "Russia",
+          "originalText": "Russia",
+          "characterOffsetBegin": 1229,
+          "characterOffsetEnd": 1235,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 109,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1235,
+          "characterOffsetEnd": 1236,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 110,
+          "word": "Turkey",
+          "originalText": "Turkey",
+          "characterOffsetBegin": 1237,
+          "characterOffsetEnd": 1243,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 111,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1243,
+          "characterOffsetEnd": 1244,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 112,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1245,
+          "characterOffsetEnd": 1248,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 113,
+          "word": "United",
+          "originalText": "United",
+          "characterOffsetBegin": 1249,
+          "characterOffsetEnd": 1255,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 114,
+          "word": "States",
+          "originalText": "States",
+          "characterOffsetBegin": 1256,
+          "characterOffsetEnd": 1262,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 115,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1262,
+          "characterOffsetEnd": 1263,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 116,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 1264,
+          "characterOffsetEnd": 1266,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 117,
+          "word": "well",
+          "originalText": "well",
+          "characterOffsetBegin": 1267,
+          "characterOffsetEnd": 1271,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 118,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 1272,
+          "characterOffsetEnd": 1274,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 119,
+          "word": "others",
+          "originalText": "others",
+          "characterOffsetBegin": 1275,
+          "characterOffsetEnd": 1281,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 120,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 1281,
+          "characterOffsetEnd": 1282,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 121,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1282,
+          "characterOffsetEnd": 1283,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Iran",
+          "originalText": "Iran",
+          "characterOffsetBegin": 1284,
+          "characterOffsetEnd": 1288,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1288,
+          "characterOffsetEnd": 1289,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Russia",
+          "originalText": "Russia",
+          "characterOffsetBegin": 1290,
+          "characterOffsetEnd": 1296,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1296,
+          "characterOffsetEnd": 1297,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1298,
+          "characterOffsetEnd": 1301,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Hezbollah",
+          "originalText": "Hezbollah",
+          "characterOffsetBegin": 1302,
+          "characterOffsetEnd": 1311,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "support",
+          "originalText": "support",
+          "characterOffsetBegin": 1312,
+          "characterOffsetEnd": 1319,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1320,
+          "characterOffsetEnd": 1323,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 1324,
+          "characterOffsetEnd": 1330,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Arab",
+          "originalText": "Arab",
+          "characterOffsetBegin": 1331,
+          "characterOffsetEnd": 1335,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Republic",
+          "originalText": "Republic",
+          "characterOffsetBegin": 1336,
+          "characterOffsetEnd": 1344,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1345,
+          "characterOffsetEnd": 1348,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1349,
+          "characterOffsetEnd": 1352,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 1353,
+          "characterOffsetEnd": 1359,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Armed",
+          "originalText": "Armed",
+          "characterOffsetBegin": 1360,
+          "characterOffsetEnd": 1365,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Forces",
+          "originalText": "Forces",
+          "characterOffsetBegin": 1366,
+          "characterOffsetEnd": 1372,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "militarily",
+          "originalText": "militarily",
+          "characterOffsetBegin": 1373,
+          "characterOffsetEnd": 1383,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1383,
+          "characterOffsetEnd": 1384,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 1385,
+          "characterOffsetEnd": 1389,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Russia",
+          "originalText": "Russia",
+          "characterOffsetBegin": 1390,
+          "characterOffsetEnd": 1396,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "conducting",
+          "originalText": "conducting",
+          "characterOffsetBegin": 1397,
+          "characterOffsetEnd": 1407,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "airstrikes",
+          "originalText": "airstrikes",
+          "characterOffsetBegin": 1408,
+          "characterOffsetEnd": 1418,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1419,
+          "characterOffsetEnd": 1422,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "other",
+          "originalText": "other",
+          "characterOffsetBegin": 1423,
+          "characterOffsetEnd": 1428,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "military",
+          "originalText": "military",
+          "characterOffsetBegin": 1429,
+          "characterOffsetEnd": 1437,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "operations",
+          "originalText": "operations",
+          "characterOffsetBegin": 1438,
+          "characterOffsetEnd": 1448,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "since",
+          "originalText": "since",
+          "characterOffsetBegin": 1449,
+          "characterOffsetEnd": 1454,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "September",
+          "originalText": "September",
+          "characterOffsetBegin": 1455,
+          "characterOffsetEnd": 1464,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "2015",
+          "originalText": "2015",
+          "characterOffsetBegin": 1465,
+          "characterOffsetEnd": 1469,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 30,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1469,
+          "characterOffsetEnd": 1470,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Syria",
+          "originalText": "Syria",
+          "characterOffsetBegin": 1471,
+          "characterOffsetEnd": 1476,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 1477,
+          "characterOffsetEnd": 1478,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": "Arabic",
+          "originalText": "Arabic",
+          "characterOffsetBegin": 1478,
+          "characterOffsetEnd": 1484,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": ":",
+          "originalText": ":",
+          "characterOffsetBegin": 1484,
+          "characterOffsetEnd": 1485,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "سوريا",
+          "originalText": "سوريا",
+          "characterOffsetBegin": 1486,
+          "characterOffsetEnd": 1491,
+          "before": " ",
+          "after": "‎"
+        },
+        {
+          "index": 6,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1492,
+          "characterOffsetEnd": 1493,
+          "before": "‎",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "romanized",
+          "originalText": "romanized",
+          "characterOffsetBegin": 1494,
+          "characterOffsetEnd": 1503,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ":",
+          "originalText": ":",
+          "characterOffsetBegin": 1503,
+          "characterOffsetEnd": 1504,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Sūriyā",
+          "originalText": "Sūriyā",
+          "characterOffsetBegin": 1505,
+          "characterOffsetEnd": 1511,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 1511,
+          "characterOffsetEnd": 1512,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1512,
+          "characterOffsetEnd": 1513,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "officially",
+          "originalText": "officially",
+          "characterOffsetBegin": 1514,
+          "characterOffsetEnd": 1524,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1525,
+          "characterOffsetEnd": 1528,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 1529,
+          "characterOffsetEnd": 1535,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Arab",
+          "originalText": "Arab",
+          "characterOffsetBegin": 1536,
+          "characterOffsetEnd": 1540,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Republic",
+          "originalText": "Republic",
+          "characterOffsetBegin": 1541,
+          "characterOffsetEnd": 1549,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 1550,
+          "characterOffsetEnd": 1551,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": "Arabic",
+          "originalText": "Arabic",
+          "characterOffsetBegin": 1551,
+          "characterOffsetEnd": 1557,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ":",
+          "originalText": ":",
+          "characterOffsetBegin": 1557,
+          "characterOffsetEnd": 1558,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "الجمهورية",
+          "originalText": "الجمهورية",
+          "characterOffsetBegin": 1559,
+          "characterOffsetEnd": 1568,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "العربية",
+          "originalText": "العربية",
+          "characterOffsetBegin": 1569,
+          "characterOffsetEnd": 1576,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "السورية",
+          "originalText": "السورية",
+          "characterOffsetBegin": 1577,
+          "characterOffsetEnd": 1584,
+          "before": " ",
+          "after": "‎"
+        },
+        {
+          "index": 23,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1585,
+          "characterOffsetEnd": 1586,
+          "before": "‎",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "romanized",
+          "originalText": "romanized",
+          "characterOffsetBegin": 1587,
+          "characterOffsetEnd": 1596,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ":",
+          "originalText": ":",
+          "characterOffsetBegin": 1596,
+          "characterOffsetEnd": 1597,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "al-Jumhūrīyah",
+          "originalText": "al-Jumhūrīyah",
+          "characterOffsetBegin": 1598,
+          "characterOffsetEnd": 1611,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "al-ʻArabīyah",
+          "originalText": "al-ʻArabīyah",
+          "characterOffsetBegin": 1612,
+          "characterOffsetEnd": 1624,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "as-Sūrīyah",
+          "originalText": "as-Sūrīyah",
+          "characterOffsetBegin": 1625,
+          "characterOffsetEnd": 1635,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 29,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 1635,
+          "characterOffsetEnd": 1636,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 30,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1636,
+          "characterOffsetEnd": 1637,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 1638,
+          "characterOffsetEnd": 1640,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 1641,
+          "characterOffsetEnd": 1642,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "country",
+          "originalText": "country",
+          "characterOffsetBegin": 1643,
+          "characterOffsetEnd": 1650,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 1651,
+          "characterOffsetEnd": 1653,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "Western",
+          "originalText": "Western",
+          "characterOffsetBegin": 1654,
+          "characterOffsetEnd": 1661,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "Asia",
+          "originalText": "Asia",
+          "characterOffsetBegin": 1662,
+          "characterOffsetEnd": 1666,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 37,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1666,
+          "characterOffsetEnd": 1667,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 38,
+          "word": "bordering",
+          "originalText": "bordering",
+          "characterOffsetBegin": 1668,
+          "characterOffsetEnd": 1677,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 39,
+          "word": "Lebanon",
+          "originalText": "Lebanon",
+          "characterOffsetBegin": 1678,
+          "characterOffsetEnd": 1685,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 40,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1686,
+          "characterOffsetEnd": 1688,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 41,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1689,
+          "characterOffsetEnd": 1692,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 42,
+          "word": "southwest",
+          "originalText": "southwest",
+          "characterOffsetBegin": 1693,
+          "characterOffsetEnd": 1702,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 43,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1702,
+          "characterOffsetEnd": 1703,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 44,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1704,
+          "characterOffsetEnd": 1707,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 45,
+          "word": "Mediterranean",
+          "originalText": "Mediterranean",
+          "characterOffsetBegin": 1708,
+          "characterOffsetEnd": 1721,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 46,
+          "word": "Sea",
+          "originalText": "Sea",
+          "characterOffsetBegin": 1722,
+          "characterOffsetEnd": 1725,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 47,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1726,
+          "characterOffsetEnd": 1728,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 48,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1729,
+          "characterOffsetEnd": 1732,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 49,
+          "word": "west",
+          "originalText": "west",
+          "characterOffsetBegin": 1733,
+          "characterOffsetEnd": 1737,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 50,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1737,
+          "characterOffsetEnd": 1738,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 51,
+          "word": "Turkey",
+          "originalText": "Turkey",
+          "characterOffsetBegin": 1739,
+          "characterOffsetEnd": 1745,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 52,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1746,
+          "characterOffsetEnd": 1748,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 53,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1749,
+          "characterOffsetEnd": 1752,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 54,
+          "word": "north",
+          "originalText": "north",
+          "characterOffsetBegin": 1753,
+          "characterOffsetEnd": 1758,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 55,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1758,
+          "characterOffsetEnd": 1759,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 56,
+          "word": "Iraq",
+          "originalText": "Iraq",
+          "characterOffsetBegin": 1760,
+          "characterOffsetEnd": 1764,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 57,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1765,
+          "characterOffsetEnd": 1767,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 58,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1768,
+          "characterOffsetEnd": 1771,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 59,
+          "word": "east",
+          "originalText": "east",
+          "characterOffsetBegin": 1772,
+          "characterOffsetEnd": 1776,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 60,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1776,
+          "characterOffsetEnd": 1777,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 61,
+          "word": "Jordan",
+          "originalText": "Jordan",
+          "characterOffsetBegin": 1778,
+          "characterOffsetEnd": 1784,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 62,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1785,
+          "characterOffsetEnd": 1787,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 63,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1788,
+          "characterOffsetEnd": 1791,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 64,
+          "word": "south",
+          "originalText": "south",
+          "characterOffsetBegin": 1792,
+          "characterOffsetEnd": 1797,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 65,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1797,
+          "characterOffsetEnd": 1798,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 66,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1799,
+          "characterOffsetEnd": 1802,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 67,
+          "word": "Israel",
+          "originalText": "Israel",
+          "characterOffsetBegin": 1803,
+          "characterOffsetEnd": 1809,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 68,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1810,
+          "characterOffsetEnd": 1812,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 69,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1813,
+          "characterOffsetEnd": 1816,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 70,
+          "word": "southwest",
+          "originalText": "southwest",
+          "characterOffsetBegin": 1817,
+          "characterOffsetEnd": 1826,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 71,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1826,
+          "characterOffsetEnd": 1827,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "A",
+          "originalText": "A",
+          "characterOffsetBegin": 1828,
+          "characterOffsetEnd": 1829,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "country",
+          "originalText": "country",
+          "characterOffsetBegin": 1830,
+          "characterOffsetEnd": 1837,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1838,
+          "characterOffsetEnd": 1840,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "fertile",
+          "originalText": "fertile",
+          "characterOffsetBegin": 1841,
+          "characterOffsetEnd": 1848,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "plains",
+          "originalText": "plains",
+          "characterOffsetBegin": 1849,
+          "characterOffsetEnd": 1855,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1855,
+          "characterOffsetEnd": 1856,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "high",
+          "originalText": "high",
+          "characterOffsetBegin": 1857,
+          "characterOffsetEnd": 1861,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "mountains",
+          "originalText": "mountains",
+          "characterOffsetBegin": 1862,
+          "characterOffsetEnd": 1871,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1871,
+          "characterOffsetEnd": 1872,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1873,
+          "characterOffsetEnd": 1876,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "deserts",
+          "originalText": "deserts",
+          "characterOffsetBegin": 1877,
+          "characterOffsetEnd": 1884,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1884,
+          "characterOffsetEnd": 1885,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Syria",
+          "originalText": "Syria",
+          "characterOffsetBegin": 1886,
+          "characterOffsetEnd": 1891,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 1892,
+          "characterOffsetEnd": 1894,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "home",
+          "originalText": "home",
+          "characterOffsetBegin": 1895,
+          "characterOffsetEnd": 1899,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1900,
+          "characterOffsetEnd": 1902,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "diverse",
+          "originalText": "diverse",
+          "characterOffsetBegin": 1903,
+          "characterOffsetEnd": 1910,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "ethnic",
+          "originalText": "ethnic",
+          "characterOffsetBegin": 1911,
+          "characterOffsetEnd": 1917,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1918,
+          "characterOffsetEnd": 1921,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "religious",
+          "originalText": "religious",
+          "characterOffsetBegin": 1922,
+          "characterOffsetEnd": 1931,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "groups",
+          "originalText": "groups",
+          "characterOffsetBegin": 1932,
+          "characterOffsetEnd": 1938,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1938,
+          "characterOffsetEnd": 1939,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "including",
+          "originalText": "including",
+          "characterOffsetBegin": 1940,
+          "characterOffsetEnd": 1949,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "characterOffsetBegin": 1950,
+          "characterOffsetEnd": 1956,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "Arabs",
+          "originalText": "Arabs",
+          "characterOffsetBegin": 1957,
+          "characterOffsetEnd": 1962,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 26,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1962,
+          "characterOffsetEnd": 1963,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "Kurds",
+          "originalText": "Kurds",
+          "characterOffsetBegin": 1964,
+          "characterOffsetEnd": 1969,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 28,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1969,
+          "characterOffsetEnd": 1970,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "Turkemens",
+          "originalText": "Turkemens",
+          "characterOffsetBegin": 1971,
+          "characterOffsetEnd": 1980,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 30,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1980,
+          "characterOffsetEnd": 1981,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "Assyrians",
+          "originalText": "Assyrians",
+          "characterOffsetBegin": 1982,
+          "characterOffsetEnd": 1991,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 32,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1991,
+          "characterOffsetEnd": 1992,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "Armenians",
+          "originalText": "Armenians",
+          "characterOffsetBegin": 1993,
+          "characterOffsetEnd": 2002,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 34,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2002,
+          "characterOffsetEnd": 2003,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "Circassians",
+          "originalText": "Circassians",
+          "characterOffsetBegin": 2004,
+          "characterOffsetEnd": 2015,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 36,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2015,
+          "characterOffsetEnd": 2016,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "Mandeans",
+          "originalText": "Mandeans",
+          "characterOffsetBegin": 2017,
+          "characterOffsetEnd": 2025,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 38,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 2026,
+          "characterOffsetEnd": 2029,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 39,
+          "word": "Greeks",
+          "originalText": "Greeks",
+          "characterOffsetBegin": 2030,
+          "characterOffsetEnd": 2036,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 40,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 2036,
+          "characterOffsetEnd": 2037,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Religious",
+          "originalText": "Religious",
+          "characterOffsetBegin": 2038,
+          "characterOffsetEnd": 2047,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "groups",
+          "originalText": "groups",
+          "characterOffsetBegin": 2048,
+          "characterOffsetEnd": 2054,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "include",
+          "originalText": "include",
+          "characterOffsetBegin": 2055,
+          "characterOffsetEnd": 2062,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Sunnis",
+          "originalText": "Sunnis",
+          "characterOffsetBegin": 2063,
+          "characterOffsetEnd": 2069,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2069,
+          "characterOffsetEnd": 2070,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Christians",
+          "originalText": "Christians",
+          "characterOffsetBegin": 2071,
+          "characterOffsetEnd": 2081,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2081,
+          "characterOffsetEnd": 2082,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Alawites",
+          "originalText": "Alawites",
+          "characterOffsetBegin": 2083,
+          "characterOffsetEnd": 2091,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2091,
+          "characterOffsetEnd": 2092,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Druze",
+          "originalText": "Druze",
+          "characterOffsetBegin": 2093,
+          "characterOffsetEnd": 2098,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2098,
+          "characterOffsetEnd": 2099,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Isma'ilis",
+          "originalText": "Isma'ilis",
+          "characterOffsetBegin": 2100,
+          "characterOffsetEnd": 2109,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2109,
+          "characterOffsetEnd": 2110,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Mandeans",
+          "originalText": "Mandeans",
+          "characterOffsetBegin": 2111,
+          "characterOffsetEnd": 2119,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2119,
+          "characterOffsetEnd": 2120,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Shiites",
+          "originalText": "Shiites",
+          "characterOffsetBegin": 2121,
+          "characterOffsetEnd": 2128,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2128,
+          "characterOffsetEnd": 2129,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Salafis",
+          "originalText": "Salafis",
+          "characterOffsetBegin": 2130,
+          "characterOffsetEnd": 2137,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2137,
+          "characterOffsetEnd": 2138,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Yazidis",
+          "originalText": "Yazidis",
+          "characterOffsetBegin": 2139,
+          "characterOffsetEnd": 2146,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2146,
+          "characterOffsetEnd": 2147,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 2148,
+          "characterOffsetEnd": 2151,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "Jews",
+          "originalText": "Jews",
+          "characterOffsetBegin": 2152,
+          "characterOffsetEnd": 2156,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 2156,
+          "characterOffsetEnd": 2157,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Arabs",
+          "originalText": "Arabs",
+          "characterOffsetBegin": 2158,
+          "characterOffsetEnd": 2163,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "are",
+          "originalText": "are",
+          "characterOffsetBegin": 2164,
+          "characterOffsetEnd": 2167,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 2168,
+          "characterOffsetEnd": 2171,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "largest",
+          "originalText": "largest",
+          "characterOffsetBegin": 2172,
+          "characterOffsetEnd": 2179,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "ethnic",
+          "originalText": "ethnic",
+          "characterOffsetBegin": 2180,
+          "characterOffsetEnd": 2186,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "group",
+          "originalText": "group",
+          "characterOffsetBegin": 2187,
+          "characterOffsetEnd": 2192,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 2192,
+          "characterOffsetEnd": 2193,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 2194,
+          "characterOffsetEnd": 2197,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Sunnis",
+          "originalText": "Sunnis",
+          "characterOffsetBegin": 2198,
+          "characterOffsetEnd": 2204,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 2205,
+          "characterOffsetEnd": 2208,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "largest",
+          "originalText": "largest",
+          "characterOffsetBegin": 2209,
+          "characterOffsetEnd": 2216,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "religious",
+          "originalText": "religious",
+          "characterOffsetBegin": 2217,
+          "characterOffsetEnd": 2226,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "group",
+          "originalText": "group",
+          "characterOffsetBegin": 2227,
+          "characterOffsetEnd": 2232,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 2232,
+          "characterOffsetEnd": 2233,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

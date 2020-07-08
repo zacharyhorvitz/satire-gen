@@ -1,0 +1,835 @@
+{
+  "docId": "9064",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Brixton",
+          "originalText": "Brixton",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 7,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 8,
+          "characterOffsetEnd": 10,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 12,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "district",
+          "originalText": "district",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 21,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 24,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "South",
+          "originalText": "South",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 30,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "London",
+          "originalText": "London",
+          "characterOffsetBegin": 31,
+          "characterOffsetEnd": 37,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 38,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "England",
+          "originalText": "England",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 46,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 47,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "within",
+          "originalText": "within",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 54,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 58,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "London",
+          "originalText": "London",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 65,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Borough",
+          "originalText": "Borough",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 73,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 76,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Lambeth",
+          "originalText": "Lambeth",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 84,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 84,
+          "characterOffsetEnd": 85,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 86,
+          "characterOffsetEnd": 89,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "area",
+          "originalText": "area",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 94,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 97,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "identified",
+          "originalText": "identified",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 108,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 111,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 112,
+          "characterOffsetEnd": 115,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "London",
+          "originalText": "London",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 122,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Plan",
+          "originalText": "Plan",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 127,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 130,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "one",
+          "originalText": "one",
+          "characterOffsetBegin": 131,
+          "characterOffsetEnd": 134,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 135,
+          "characterOffsetEnd": 137,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "35",
+          "originalText": "35",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 140,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "major",
+          "originalText": "major",
+          "characterOffsetBegin": 141,
+          "characterOffsetEnd": 146,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "centres",
+          "originalText": "centres",
+          "characterOffsetBegin": 147,
+          "characterOffsetEnd": 154,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 155,
+          "characterOffsetEnd": 157,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Greater",
+          "originalText": "Greater",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 165,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "London.Brixton",
+          "originalText": "London.Brixton",
+          "characterOffsetBegin": 166,
+          "characterOffsetEnd": 180,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 181,
+          "characterOffsetEnd": 183,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "mainly",
+          "originalText": "mainly",
+          "characterOffsetBegin": 184,
+          "characterOffsetEnd": 190,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "residential",
+          "originalText": "residential",
+          "characterOffsetBegin": 191,
+          "characterOffsetEnd": 202,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 203,
+          "characterOffsetEnd": 207,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 208,
+          "characterOffsetEnd": 209,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "prominent",
+          "originalText": "prominent",
+          "characterOffsetBegin": 210,
+          "characterOffsetEnd": 219,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "street",
+          "originalText": "street",
+          "characterOffsetBegin": 220,
+          "characterOffsetEnd": 226,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "market",
+          "originalText": "market",
+          "characterOffsetBegin": 227,
+          "characterOffsetEnd": 233,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 234,
+          "characterOffsetEnd": 237,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "substantial",
+          "originalText": "substantial",
+          "characterOffsetBegin": 238,
+          "characterOffsetEnd": 249,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "retail",
+          "originalText": "retail",
+          "characterOffsetBegin": 250,
+          "characterOffsetEnd": 256,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "sector",
+          "originalText": "sector",
+          "characterOffsetBegin": 257,
+          "characterOffsetEnd": 263,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 30,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 263,
+          "characterOffsetEnd": 264,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "It",
+          "originalText": "It",
+          "characterOffsetBegin": 265,
+          "characterOffsetEnd": 267,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 268,
+          "characterOffsetEnd": 270,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 271,
+          "characterOffsetEnd": 272,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "multiethnic",
+          "originalText": "multiethnic",
+          "characterOffsetBegin": 273,
+          "characterOffsetEnd": 284,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "community",
+          "originalText": "community",
+          "characterOffsetBegin": 285,
+          "characterOffsetEnd": 294,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 294,
+          "characterOffsetEnd": 295,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 296,
+          "characterOffsetEnd": 300,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 301,
+          "characterOffsetEnd": 302,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "large",
+          "originalText": "large",
+          "characterOffsetBegin": 303,
+          "characterOffsetEnd": 308,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "percentage",
+          "originalText": "percentage",
+          "characterOffsetBegin": 309,
+          "characterOffsetEnd": 319,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 320,
+          "characterOffsetEnd": 322,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "its",
+          "originalText": "its",
+          "characterOffsetBegin": 323,
+          "characterOffsetEnd": 326,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "population",
+          "originalText": "population",
+          "characterOffsetBegin": 327,
+          "characterOffsetEnd": 337,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 338,
+          "characterOffsetEnd": 340,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Afro-Caribbean",
+          "originalText": "Afro-Caribbean",
+          "characterOffsetBegin": 341,
+          "characterOffsetEnd": 355,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "descent",
+          "originalText": "descent",
+          "characterOffsetBegin": 356,
+          "characterOffsetEnd": 363,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 363,
+          "characterOffsetEnd": 364,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "It",
+          "originalText": "It",
+          "characterOffsetBegin": 365,
+          "characterOffsetEnd": 367,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "lies",
+          "originalText": "lies",
+          "characterOffsetBegin": 368,
+          "characterOffsetEnd": 372,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "within",
+          "originalText": "within",
+          "characterOffsetBegin": 373,
+          "characterOffsetEnd": 379,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Inner",
+          "originalText": "Inner",
+          "characterOffsetBegin": 380,
+          "characterOffsetEnd": 385,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "South",
+          "originalText": "South",
+          "characterOffsetBegin": 386,
+          "characterOffsetEnd": 391,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "London",
+          "originalText": "London",
+          "characterOffsetBegin": 392,
+          "characterOffsetEnd": 398,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 399,
+          "characterOffsetEnd": 402,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 403,
+          "characterOffsetEnd": 405,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "bordered",
+          "originalText": "bordered",
+          "characterOffsetBegin": 406,
+          "characterOffsetEnd": 414,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 415,
+          "characterOffsetEnd": 417,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Stockwell",
+          "originalText": "Stockwell",
+          "characterOffsetBegin": 418,
+          "characterOffsetEnd": 427,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 427,
+          "characterOffsetEnd": 428,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Clapham",
+          "originalText": "Clapham",
+          "characterOffsetBegin": 429,
+          "characterOffsetEnd": 436,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 436,
+          "characterOffsetEnd": 437,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Streatham",
+          "originalText": "Streatham",
+          "characterOffsetBegin": 438,
+          "characterOffsetEnd": 447,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 447,
+          "characterOffsetEnd": 448,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Camberwell",
+          "originalText": "Camberwell",
+          "characterOffsetBegin": 449,
+          "characterOffsetEnd": 459,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 459,
+          "characterOffsetEnd": 460,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Tulse",
+          "originalText": "Tulse",
+          "characterOffsetBegin": 461,
+          "characterOffsetEnd": 466,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Hill",
+          "originalText": "Hill",
+          "characterOffsetBegin": 467,
+          "characterOffsetEnd": 471,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 471,
+          "characterOffsetEnd": 472,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "Balham",
+          "originalText": "Balham",
+          "characterOffsetBegin": 473,
+          "characterOffsetEnd": 479,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 480,
+          "characterOffsetEnd": 483,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "Herne",
+          "originalText": "Herne",
+          "characterOffsetBegin": 484,
+          "characterOffsetEnd": 489,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "Hill",
+          "originalText": "Hill",
+          "characterOffsetBegin": 490,
+          "characterOffsetEnd": 494,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 26,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 494,
+          "characterOffsetEnd": 495,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

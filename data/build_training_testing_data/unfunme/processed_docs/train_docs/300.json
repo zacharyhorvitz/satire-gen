@@ -1,0 +1,55 @@
+{
+  "docId": "300",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "scientists",
+          "originalText": "scientists",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 10,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "engineer",
+          "originalText": "engineer",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 19,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "more",
+          "originalText": "more",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 24,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "absorbent",
+          "originalText": "absorbent",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 34,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "pancake",
+          "originalText": "pancake",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 42,
+          "before": " ",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

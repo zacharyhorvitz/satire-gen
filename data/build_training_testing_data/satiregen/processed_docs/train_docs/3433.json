@@ -1,0 +1,2206 @@
+{
+  "docId": "3433",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Donald",
+          "originalText": "Donald",
+          "characterOffsetBegin": 1,
+          "characterOffsetEnd": 7,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Trump",
+          "originalText": "Trump",
+          "characterOffsetBegin": 8,
+          "characterOffsetEnd": 13,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 16,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "training",
+          "originalText": "training",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 25,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 29,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "sights",
+          "originalText": "sights",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 36,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 39,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Ohio",
+          "originalText": "Ohio",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 44,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Gov.",
+          "originalText": "Gov.",
+          "characterOffsetBegin": 45,
+          "characterOffsetEnd": 49,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "John",
+          "originalText": "John",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 54,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Kasich",
+          "originalText": "Kasich",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 61,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "ahead",
+          "originalText": "ahead",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 67,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 68,
+          "characterOffsetEnd": 70,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Tuesday",
+          "originalText": "Tuesday",
+          "characterOffsetBegin": 71,
+          "characterOffsetEnd": 78,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": "'s",
+          "originalText": "'s",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 80,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "winner-take-all",
+          "originalText": "winner-take-all",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 96,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Ohio",
+          "originalText": "Ohio",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 101,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "primary",
+          "originalText": "primary",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 109,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 110,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 114,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Republican",
+          "originalText": "Republican",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 125,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "front-runner",
+          "originalText": "front-runner",
+          "characterOffsetBegin": 126,
+          "characterOffsetEnd": 138,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "spent",
+          "originalText": "spent",
+          "characterOffsetBegin": 139,
+          "characterOffsetEnd": 144,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "more",
+          "originalText": "more",
+          "characterOffsetBegin": 145,
+          "characterOffsetEnd": 149,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "time",
+          "originalText": "time",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 154,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "here",
+          "originalText": "here",
+          "characterOffsetBegin": 155,
+          "characterOffsetEnd": 159,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 160,
+          "characterOffsetEnd": 162,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Sunday",
+          "originalText": "Sunday",
+          "characterOffsetBegin": 163,
+          "characterOffsetEnd": 169,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "attacking",
+          "originalText": "attacking",
+          "characterOffsetBegin": 170,
+          "characterOffsetEnd": 179,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 180,
+          "characterOffsetEnd": 183,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Ohio",
+          "originalText": "Ohio",
+          "characterOffsetBegin": 184,
+          "characterOffsetEnd": 188,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "governor",
+          "originalText": "governor",
+          "characterOffsetBegin": 189,
+          "characterOffsetEnd": 197,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "than",
+          "originalText": "than",
+          "characterOffsetBegin": 198,
+          "characterOffsetEnd": 202,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "any",
+          "originalText": "any",
+          "characterOffsetBegin": 203,
+          "characterOffsetEnd": 206,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "other",
+          "originalText": "other",
+          "characterOffsetBegin": 207,
+          "characterOffsetEnd": 212,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 213,
+          "characterOffsetEnd": 215,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 216,
+          "characterOffsetEnd": 219,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "presidential",
+          "originalText": "presidential",
+          "characterOffsetBegin": 220,
+          "characterOffsetEnd": 232,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "rivals",
+          "originalText": "rivals",
+          "characterOffsetBegin": 233,
+          "characterOffsetEnd": 239,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 239,
+          "characterOffsetEnd": 240,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "And",
+          "originalText": "And",
+          "characterOffsetBegin": 241,
+          "characterOffsetEnd": 244,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "after",
+          "originalText": "after",
+          "characterOffsetBegin": 245,
+          "characterOffsetEnd": 250,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "spending",
+          "originalText": "spending",
+          "characterOffsetBegin": 251,
+          "characterOffsetEnd": 259,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "more",
+          "originalText": "more",
+          "characterOffsetBegin": 260,
+          "characterOffsetEnd": 264,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "time",
+          "originalText": "time",
+          "characterOffsetBegin": 265,
+          "characterOffsetEnd": 269,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 270,
+          "characterOffsetEnd": 272,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Ohio",
+          "originalText": "Ohio",
+          "characterOffsetBegin": 273,
+          "characterOffsetEnd": 277,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "this",
+          "originalText": "this",
+          "characterOffsetBegin": 278,
+          "characterOffsetEnd": 282,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "weekend",
+          "originalText": "weekend",
+          "characterOffsetBegin": 283,
+          "characterOffsetEnd": 290,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "than",
+          "originalText": "than",
+          "characterOffsetBegin": 291,
+          "characterOffsetEnd": 295,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "any",
+          "originalText": "any",
+          "characterOffsetBegin": 296,
+          "characterOffsetEnd": 299,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "other",
+          "originalText": "other",
+          "characterOffsetBegin": 300,
+          "characterOffsetEnd": 305,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "state",
+          "originalText": "state",
+          "characterOffsetBegin": 306,
+          "characterOffsetEnd": 311,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 311,
+          "characterOffsetEnd": 312,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Trump",
+          "originalText": "Trump",
+          "characterOffsetBegin": 313,
+          "characterOffsetEnd": 318,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 319,
+          "characterOffsetEnd": 321,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Sunday",
+          "originalText": "Sunday",
+          "characterOffsetBegin": 322,
+          "characterOffsetEnd": 328,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "announced",
+          "originalText": "announced",
+          "characterOffsetBegin": 329,
+          "characterOffsetEnd": 338,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "he",
+          "originalText": "he",
+          "characterOffsetBegin": 339,
+          "characterOffsetEnd": 341,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 342,
+          "characterOffsetEnd": 345,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "scrapping",
+          "originalText": "scrapping",
+          "characterOffsetBegin": 346,
+          "characterOffsetEnd": 355,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 356,
+          "characterOffsetEnd": 357,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "scheduled",
+          "originalText": "scheduled",
+          "characterOffsetBegin": 358,
+          "characterOffsetEnd": 367,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "event",
+          "originalText": "event",
+          "characterOffsetBegin": 368,
+          "characterOffsetEnd": 373,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 374,
+          "characterOffsetEnd": 376,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "Florida",
+          "originalText": "Florida",
+          "characterOffsetBegin": 377,
+          "characterOffsetEnd": 384,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 385,
+          "characterOffsetEnd": 387,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "instead",
+          "originalText": "instead",
+          "characterOffsetBegin": 388,
+          "characterOffsetEnd": 395,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "rally",
+          "originalText": "rally",
+          "characterOffsetBegin": 396,
+          "characterOffsetEnd": 401,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "supporters",
+          "originalText": "supporters",
+          "characterOffsetBegin": 402,
+          "characterOffsetEnd": 412,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "once",
+          "originalText": "once",
+          "characterOffsetBegin": 413,
+          "characterOffsetEnd": 417,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "more",
+          "originalText": "more",
+          "characterOffsetBegin": 418,
+          "characterOffsetEnd": 422,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 423,
+          "characterOffsetEnd": 425,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 426,
+          "characterOffsetEnd": 429,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "Buckeye",
+          "originalText": "Buckeye",
+          "characterOffsetBegin": 430,
+          "characterOffsetEnd": 437,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "State",
+          "originalText": "State",
+          "characterOffsetBegin": 438,
+          "characterOffsetEnd": 443,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 37,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 443,
+          "characterOffsetEnd": 444,
+          "before": "",
+          "after": "  "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Mitt",
+          "originalText": "Mitt",
+          "characterOffsetBegin": 446,
+          "characterOffsetEnd": 450,
+          "before": "  ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Romney",
+          "originalText": "Romney",
+          "characterOffsetBegin": 451,
+          "characterOffsetEnd": 457,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 458,
+          "characterOffsetEnd": 460,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "hitting",
+          "originalText": "hitting",
+          "characterOffsetBegin": 461,
+          "characterOffsetEnd": 468,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 469,
+          "characterOffsetEnd": 472,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "campaign",
+          "originalText": "campaign",
+          "characterOffsetBegin": 473,
+          "characterOffsetEnd": 481,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "trail",
+          "originalText": "trail",
+          "characterOffsetBegin": 482,
+          "characterOffsetEnd": 487,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "again",
+          "originalText": "again",
+          "characterOffsetBegin": 488,
+          "characterOffsetEnd": 493,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "--",
+          "originalText": "--",
+          "characterOffsetBegin": 494,
+          "characterOffsetEnd": 496,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "barnstorming",
+          "originalText": "barnstorming",
+          "characterOffsetBegin": 497,
+          "characterOffsetEnd": 509,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 510,
+          "characterOffsetEnd": 513,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Buckeye",
+          "originalText": "Buckeye",
+          "characterOffsetBegin": 514,
+          "characterOffsetEnd": 521,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "State",
+          "originalText": "State",
+          "characterOffsetBegin": 522,
+          "characterOffsetEnd": 527,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 528,
+          "characterOffsetEnd": 532,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Ohio",
+          "originalText": "Ohio",
+          "characterOffsetBegin": 533,
+          "characterOffsetEnd": 537,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Gov.",
+          "originalText": "Gov.",
+          "characterOffsetBegin": 538,
+          "characterOffsetEnd": 542,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "John",
+          "originalText": "John",
+          "characterOffsetBegin": 543,
+          "characterOffsetEnd": 547,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Kasich",
+          "originalText": "Kasich",
+          "characterOffsetBegin": 548,
+          "characterOffsetEnd": 554,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "just",
+          "originalText": "just",
+          "characterOffsetBegin": 555,
+          "characterOffsetEnd": 559,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "days",
+          "originalText": "days",
+          "characterOffsetBegin": 560,
+          "characterOffsetEnd": 564,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "before",
+          "originalText": "before",
+          "characterOffsetBegin": 565,
+          "characterOffsetEnd": 571,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "its",
+          "originalText": "its",
+          "characterOffsetBegin": 572,
+          "characterOffsetEnd": 575,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "pivotal",
+          "originalText": "pivotal",
+          "characterOffsetBegin": 576,
+          "characterOffsetEnd": 583,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "winner-take-all",
+          "originalText": "winner-take-all",
+          "characterOffsetBegin": 584,
+          "characterOffsetEnd": 599,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "primary",
+          "originalText": "primary",
+          "characterOffsetBegin": 600,
+          "characterOffsetEnd": 607,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 26,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 607,
+          "characterOffsetEnd": 608,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Romney",
+          "originalText": "Romney",
+          "characterOffsetBegin": 609,
+          "characterOffsetEnd": 615,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 615,
+          "characterOffsetEnd": 616,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "who",
+          "originalText": "who",
+          "characterOffsetBegin": 617,
+          "characterOffsetEnd": 620,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "has",
+          "originalText": "has",
+          "characterOffsetBegin": 621,
+          "characterOffsetEnd": 624,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "not",
+          "originalText": "not",
+          "characterOffsetBegin": 625,
+          "characterOffsetEnd": 628,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "endorsed",
+          "originalText": "endorsed",
+          "characterOffsetBegin": 629,
+          "characterOffsetEnd": 637,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "any",
+          "originalText": "any",
+          "characterOffsetBegin": 638,
+          "characterOffsetEnd": 641,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 642,
+          "characterOffsetEnd": 644,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 645,
+          "characterOffsetEnd": 648,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "presidential",
+          "originalText": "presidential",
+          "characterOffsetBegin": 649,
+          "characterOffsetEnd": 661,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "hopefuls",
+          "originalText": "hopefuls",
+          "characterOffsetBegin": 662,
+          "characterOffsetEnd": 670,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 670,
+          "characterOffsetEnd": 671,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "will",
+          "originalText": "will",
+          "characterOffsetBegin": 672,
+          "characterOffsetEnd": 676,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "join",
+          "originalText": "join",
+          "characterOffsetBegin": 677,
+          "characterOffsetEnd": 681,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Kasich",
+          "originalText": "Kasich",
+          "characterOffsetBegin": 682,
+          "characterOffsetEnd": 688,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "at",
+          "originalText": "at",
+          "characterOffsetBegin": 689,
+          "characterOffsetEnd": 691,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "campaign",
+          "originalText": "campaign",
+          "characterOffsetBegin": 692,
+          "characterOffsetEnd": 700,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "events",
+          "originalText": "events",
+          "characterOffsetBegin": 701,
+          "characterOffsetEnd": 707,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 708,
+          "characterOffsetEnd": 710,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "North",
+          "originalText": "North",
+          "characterOffsetBegin": 711,
+          "characterOffsetEnd": 716,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Canton",
+          "originalText": "Canton",
+          "characterOffsetBegin": 717,
+          "characterOffsetEnd": 723,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 724,
+          "characterOffsetEnd": 727,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "Westerville",
+          "originalText": "Westerville",
+          "characterOffsetBegin": 728,
+          "characterOffsetEnd": 739,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 739,
+          "characterOffsetEnd": 740,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "Ohio",
+          "originalText": "Ohio",
+          "characterOffsetBegin": 741,
+          "characterOffsetEnd": 745,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 26,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 745,
+          "characterOffsetEnd": 746,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 747,
+          "characterOffsetEnd": 749,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "Monday",
+          "originalText": "Monday",
+          "characterOffsetBegin": 750,
+          "characterOffsetEnd": 756,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 29,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 756,
+          "characterOffsetEnd": 757,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "according",
+          "originalText": "according",
+          "characterOffsetBegin": 758,
+          "characterOffsetEnd": 767,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 768,
+          "characterOffsetEnd": 770,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 771,
+          "characterOffsetEnd": 774,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "Kasich",
+          "originalText": "Kasich",
+          "characterOffsetBegin": 775,
+          "characterOffsetEnd": 781,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "campaign",
+          "originalText": "campaign",
+          "characterOffsetBegin": 782,
+          "characterOffsetEnd": 790,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 35,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 790,
+          "characterOffsetEnd": 791,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 792,
+          "characterOffsetEnd": 795,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "2012",
+          "originalText": "2012",
+          "characterOffsetBegin": 796,
+          "characterOffsetEnd": 800,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Republican",
+          "originalText": "Republican",
+          "characterOffsetBegin": 801,
+          "characterOffsetEnd": 811,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "nominee",
+          "originalText": "nominee",
+          "characterOffsetBegin": 812,
+          "characterOffsetEnd": 819,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 820,
+          "characterOffsetEnd": 822,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "making",
+          "originalText": "making",
+          "characterOffsetBegin": 823,
+          "characterOffsetEnd": 829,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 830,
+          "characterOffsetEnd": 831,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "campaign",
+          "originalText": "campaign",
+          "characterOffsetBegin": 832,
+          "characterOffsetEnd": 840,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "trail",
+          "originalText": "trail",
+          "characterOffsetBegin": 841,
+          "characterOffsetEnd": 846,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "comeback",
+          "originalText": "comeback",
+          "characterOffsetBegin": 847,
+          "characterOffsetEnd": 855,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 856,
+          "characterOffsetEnd": 858,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "part",
+          "originalText": "part",
+          "characterOffsetBegin": 859,
+          "characterOffsetEnd": 863,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 864,
+          "characterOffsetEnd": 866,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 867,
+          "characterOffsetEnd": 870,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "escalating",
+          "originalText": "escalating",
+          "characterOffsetBegin": 871,
+          "characterOffsetEnd": 881,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "efforts",
+          "originalText": "efforts",
+          "characterOffsetBegin": 882,
+          "characterOffsetEnd": 889,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 890,
+          "characterOffsetEnd": 892,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "prevent",
+          "originalText": "prevent",
+          "characterOffsetBegin": 893,
+          "characterOffsetEnd": 900,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Donald",
+          "originalText": "Donald",
+          "characterOffsetBegin": 901,
+          "characterOffsetEnd": 907,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Trump",
+          "originalText": "Trump",
+          "characterOffsetBegin": 908,
+          "characterOffsetEnd": 913,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 914,
+          "characterOffsetEnd": 918,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "clinching",
+          "originalText": "clinching",
+          "characterOffsetBegin": 919,
+          "characterOffsetEnd": 928,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 929,
+          "characterOffsetEnd": 932,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "Republican",
+          "originalText": "Republican",
+          "characterOffsetBegin": 933,
+          "characterOffsetEnd": 943,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "nomination",
+          "originalText": "nomination",
+          "characterOffsetBegin": 944,
+          "characterOffsetEnd": 954,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 26,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 954,
+          "characterOffsetEnd": 955,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 956,
+          "characterOffsetEnd": 959,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "2016",
+          "originalText": "2016",
+          "characterOffsetBegin": 960,
+          "characterOffsetEnd": 964,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "presidential",
+          "originalText": "presidential",
+          "characterOffsetBegin": 965,
+          "characterOffsetEnd": 977,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "campaign",
+          "originalText": "campaign",
+          "characterOffsetBegin": 978,
+          "characterOffsetEnd": 986,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 987,
+          "characterOffsetEnd": 989,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "John",
+          "originalText": "John",
+          "characterOffsetBegin": 990,
+          "characterOffsetEnd": 994,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Kasich",
+          "originalText": "Kasich",
+          "characterOffsetBegin": 995,
+          "characterOffsetEnd": 1001,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1001,
+          "characterOffsetEnd": 1002,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1003,
+          "characterOffsetEnd": 1006,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "69th",
+          "originalText": "69th",
+          "characterOffsetBegin": 1007,
+          "characterOffsetEnd": 1011,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Governor",
+          "originalText": "Governor",
+          "characterOffsetBegin": 1012,
+          "characterOffsetEnd": 1020,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1021,
+          "characterOffsetEnd": 1023,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Ohio",
+          "originalText": "Ohio",
+          "characterOffsetBegin": 1024,
+          "characterOffsetEnd": 1028,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1028,
+          "characterOffsetEnd": 1029,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 1030,
+          "characterOffsetEnd": 1033,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "announced",
+          "originalText": "announced",
+          "characterOffsetBegin": 1034,
+          "characterOffsetEnd": 1043,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 1044,
+          "characterOffsetEnd": 1046,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "July",
+          "originalText": "July",
+          "characterOffsetBegin": 1047,
+          "characterOffsetEnd": 1051,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "21",
+          "originalText": "21",
+          "characterOffsetBegin": 1052,
+          "characterOffsetEnd": 1054,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1054,
+          "characterOffsetEnd": 1055,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "2015",
+          "originalText": "2015",
+          "characterOffsetBegin": 1056,
+          "characterOffsetEnd": 1060,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1060,
+          "characterOffsetEnd": 1061,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "He",
+          "originalText": "He",
+          "characterOffsetBegin": 1062,
+          "characterOffsetEnd": 1064,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 1065,
+          "characterOffsetEnd": 1068,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 1069,
+          "characterOffsetEnd": 1070,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "candidate",
+          "originalText": "candidate",
+          "characterOffsetBegin": 1071,
+          "characterOffsetEnd": 1080,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 1081,
+          "characterOffsetEnd": 1084,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1085,
+          "characterOffsetEnd": 1088,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "2016",
+          "originalText": "2016",
+          "characterOffsetBegin": 1089,
+          "characterOffsetEnd": 1093,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Republican",
+          "originalText": "Republican",
+          "characterOffsetBegin": 1094,
+          "characterOffsetEnd": 1104,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Party",
+          "originalText": "Party",
+          "characterOffsetBegin": 1105,
+          "characterOffsetEnd": 1110,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "presidential",
+          "originalText": "presidential",
+          "characterOffsetBegin": 1111,
+          "characterOffsetEnd": 1123,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "nomination",
+          "originalText": "nomination",
+          "characterOffsetBegin": 1124,
+          "characterOffsetEnd": 1134,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1134,
+          "characterOffsetEnd": 1135,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "He",
+          "originalText": "He",
+          "characterOffsetBegin": 1136,
+          "characterOffsetEnd": 1138,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "earned",
+          "originalText": "earned",
+          "characterOffsetBegin": 1139,
+          "characterOffsetEnd": 1145,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "154",
+          "originalText": "154",
+          "characterOffsetBegin": 1146,
+          "characterOffsetEnd": 1149,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "delegates",
+          "originalText": "delegates",
+          "characterOffsetBegin": 1150,
+          "characterOffsetEnd": 1159,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1160,
+          "characterOffsetEnd": 1163,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "won",
+          "originalText": "won",
+          "characterOffsetBegin": 1164,
+          "characterOffsetEnd": 1167,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "only",
+          "originalText": "only",
+          "characterOffsetBegin": 1168,
+          "characterOffsetEnd": 1172,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "one",
+          "originalText": "one",
+          "characterOffsetBegin": 1173,
+          "characterOffsetEnd": 1176,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "contest",
+          "originalText": "contest",
+          "characterOffsetBegin": 1177,
+          "characterOffsetEnd": 1184,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1184,
+          "characterOffsetEnd": 1185,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 1186,
+          "characterOffsetEnd": 1189,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "home",
+          "originalText": "home",
+          "characterOffsetBegin": 1190,
+          "characterOffsetEnd": 1194,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "state",
+          "originalText": "state",
+          "characterOffsetBegin": 1195,
+          "characterOffsetEnd": 1200,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1200,
+          "characterOffsetEnd": 1201,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Ohio",
+          "originalText": "Ohio",
+          "characterOffsetBegin": 1202,
+          "characterOffsetEnd": 1206,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1206,
+          "characterOffsetEnd": 1207,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Kasich",
+          "originalText": "Kasich",
+          "characterOffsetBegin": 1208,
+          "characterOffsetEnd": 1214,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "suspended",
+          "originalText": "suspended",
+          "characterOffsetBegin": 1215,
+          "characterOffsetEnd": 1224,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "his",
+          "originalText": "his",
+          "characterOffsetBegin": 1225,
+          "characterOffsetEnd": 1228,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "campaign",
+          "originalText": "campaign",
+          "characterOffsetBegin": 1229,
+          "characterOffsetEnd": 1237,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 1238,
+          "characterOffsetEnd": 1240,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "May",
+          "originalText": "May",
+          "characterOffsetBegin": 1241,
+          "characterOffsetEnd": 1244,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "4",
+          "originalText": "4",
+          "characterOffsetBegin": 1245,
+          "characterOffsetEnd": 1246,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1246,
+          "characterOffsetEnd": 1247,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "2016",
+          "originalText": "2016",
+          "characterOffsetBegin": 1248,
+          "characterOffsetEnd": 1252,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1252,
+          "characterOffsetEnd": 1253,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "one",
+          "originalText": "one",
+          "characterOffsetBegin": 1254,
+          "characterOffsetEnd": 1257,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "day",
+          "originalText": "day",
+          "characterOffsetBegin": 1258,
+          "characterOffsetEnd": 1261,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "after",
+          "originalText": "after",
+          "characterOffsetBegin": 1262,
+          "characterOffsetEnd": 1267,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "becoming",
+          "originalText": "becoming",
+          "characterOffsetBegin": 1268,
+          "characterOffsetEnd": 1276,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1277,
+          "characterOffsetEnd": 1280,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "last",
+          "originalText": "last",
+          "characterOffsetBegin": 1281,
+          "characterOffsetEnd": 1285,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "major",
+          "originalText": "major",
+          "characterOffsetBegin": 1286,
+          "characterOffsetEnd": 1291,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "challenger",
+          "originalText": "challenger",
+          "characterOffsetBegin": 1292,
+          "characterOffsetEnd": 1302,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1303,
+          "characterOffsetEnd": 1305,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Donald",
+          "originalText": "Donald",
+          "characterOffsetBegin": 1306,
+          "characterOffsetEnd": 1312,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Trump",
+          "originalText": "Trump",
+          "characterOffsetBegin": 1313,
+          "characterOffsetEnd": 1318,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 1319,
+          "characterOffsetEnd": 1322,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1323,
+          "characterOffsetEnd": 1326,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "nomination",
+          "originalText": "nomination",
+          "characterOffsetBegin": 1327,
+          "characterOffsetEnd": 1337,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1337,
+          "characterOffsetEnd": 1338,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

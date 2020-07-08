@@ -1,0 +1,91 @@
+{
+  "docId": "234",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "1,000",
+          "originalText": "1,000",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 5,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 8,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "company",
+          "originalText": "company",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 16,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": "'s",
+          "originalText": "’s",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 18,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "least",
+          "originalText": "least",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 24,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "valuable",
+          "originalText": "valuable",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 33,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "employees",
+          "originalText": "employees",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 43,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "laid",
+          "originalText": "laid",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 48,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "off",
+          "originalText": "off",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 52,
+          "before": " ",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

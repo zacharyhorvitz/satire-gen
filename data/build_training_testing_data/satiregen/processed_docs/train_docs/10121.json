@@ -1,0 +1,2918 @@
+{
+  "docId": "10121",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 8,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 11,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "split",
+          "originalText": "split",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 17,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "into",
+          "originalText": "into",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 22,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "two",
+          "originalText": "two",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 26,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "chambers",
+          "originalText": "chambers",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 35,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": "--",
+          "originalText": "—",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 36,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": "House",
+          "originalText": "House",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 41,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 45,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Senate",
+          "originalText": "Senate",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 52,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": "--",
+          "originalText": "—",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 53,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 56,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "manages",
+          "originalText": "manages",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 64,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 68,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "task",
+          "originalText": "task",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 73,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 76,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "writing",
+          "originalText": "writing",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 84,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "national",
+          "originalText": "national",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 93,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "legislation",
+          "originalText": "legislation",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 105,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 108,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "dividing",
+          "originalText": "dividing",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 117,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "work",
+          "originalText": "work",
+          "characterOffsetBegin": 118,
+          "characterOffsetEnd": 122,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "into",
+          "originalText": "into",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 127,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "separate",
+          "originalText": "separate",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 136,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "committees",
+          "originalText": "committees",
+          "characterOffsetBegin": 137,
+          "characterOffsetEnd": 147,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "which",
+          "originalText": "which",
+          "characterOffsetBegin": 148,
+          "characterOffsetEnd": 153,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "specialize",
+          "originalText": "specialize",
+          "characterOffsetBegin": 154,
+          "characterOffsetEnd": 164,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 165,
+          "characterOffsetEnd": 167,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "different",
+          "originalText": "different",
+          "characterOffsetBegin": 168,
+          "characterOffsetEnd": 177,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "areas",
+          "originalText": "areas",
+          "characterOffsetBegin": 178,
+          "characterOffsetEnd": 183,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 31,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 183,
+          "characterOffsetEnd": 184,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Some",
+          "originalText": "Some",
+          "characterOffsetBegin": 185,
+          "characterOffsetEnd": 189,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "members",
+          "originalText": "members",
+          "characterOffsetBegin": 190,
+          "characterOffsetEnd": 197,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 198,
+          "characterOffsetEnd": 200,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 201,
+          "characterOffsetEnd": 209,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "are",
+          "originalText": "are",
+          "characterOffsetBegin": 210,
+          "characterOffsetEnd": 213,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "elected",
+          "originalText": "elected",
+          "characterOffsetBegin": 214,
+          "characterOffsetEnd": 221,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 222,
+          "characterOffsetEnd": 224,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "their",
+          "originalText": "their",
+          "characterOffsetBegin": 225,
+          "characterOffsetEnd": 230,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "peers",
+          "originalText": "peers",
+          "characterOffsetBegin": 231,
+          "characterOffsetEnd": 236,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 237,
+          "characterOffsetEnd": 239,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "be",
+          "originalText": "be",
+          "characterOffsetBegin": 240,
+          "characterOffsetEnd": 242,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "officers",
+          "originalText": "officers",
+          "characterOffsetBegin": 243,
+          "characterOffsetEnd": 251,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 252,
+          "characterOffsetEnd": 254,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "these",
+          "originalText": "these",
+          "characterOffsetBegin": 255,
+          "characterOffsetEnd": 260,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "committees",
+          "originalText": "committees",
+          "characterOffsetBegin": 261,
+          "characterOffsetEnd": 271,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 271,
+          "characterOffsetEnd": 272,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Further",
+          "originalText": "Further",
+          "characterOffsetBegin": 273,
+          "characterOffsetEnd": 280,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 280,
+          "characterOffsetEnd": 281,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 282,
+          "characterOffsetEnd": 290,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "has",
+          "originalText": "has",
+          "characterOffsetBegin": 291,
+          "characterOffsetEnd": 294,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "ancillary",
+          "originalText": "ancillary",
+          "characterOffsetBegin": 295,
+          "characterOffsetEnd": 304,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "organizations",
+          "originalText": "organizations",
+          "characterOffsetBegin": 305,
+          "characterOffsetEnd": 318,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "such",
+          "originalText": "such",
+          "characterOffsetBegin": 319,
+          "characterOffsetEnd": 323,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 324,
+          "characterOffsetEnd": 326,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 327,
+          "characterOffsetEnd": 330,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Government",
+          "originalText": "Government",
+          "characterOffsetBegin": 331,
+          "characterOffsetEnd": 341,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Accountability",
+          "originalText": "Accountability",
+          "characterOffsetBegin": 342,
+          "characterOffsetEnd": 356,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Office",
+          "originalText": "Office",
+          "characterOffsetBegin": 357,
+          "characterOffsetEnd": 363,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 364,
+          "characterOffsetEnd": 367,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 368,
+          "characterOffsetEnd": 371,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Library",
+          "originalText": "Library",
+          "characterOffsetBegin": 372,
+          "characterOffsetEnd": 379,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 380,
+          "characterOffsetEnd": 382,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 383,
+          "characterOffsetEnd": 391,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 392,
+          "characterOffsetEnd": 394,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "help",
+          "originalText": "help",
+          "characterOffsetBegin": 395,
+          "characterOffsetEnd": 399,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "provide",
+          "originalText": "provide",
+          "characterOffsetBegin": 400,
+          "characterOffsetEnd": 407,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 408,
+          "characterOffsetEnd": 410,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 411,
+          "characterOffsetEnd": 415,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "information",
+          "originalText": "information",
+          "characterOffsetBegin": 416,
+          "characterOffsetEnd": 427,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 427,
+          "characterOffsetEnd": 428,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 429,
+          "characterOffsetEnd": 432,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "members",
+          "originalText": "members",
+          "characterOffsetBegin": 433,
+          "characterOffsetEnd": 440,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 441,
+          "characterOffsetEnd": 443,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 444,
+          "characterOffsetEnd": 452,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "have",
+          "originalText": "have",
+          "characterOffsetBegin": 453,
+          "characterOffsetEnd": 457,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "staff",
+          "originalText": "staff",
+          "characterOffsetBegin": 458,
+          "characterOffsetEnd": 463,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 464,
+          "characterOffsetEnd": 467,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "offices",
+          "originalText": "offices",
+          "characterOffsetBegin": 468,
+          "characterOffsetEnd": 475,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 476,
+          "characterOffsetEnd": 478,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "assist",
+          "originalText": "assist",
+          "characterOffsetBegin": 479,
+          "characterOffsetEnd": 485,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "them",
+          "originalText": "them",
+          "characterOffsetBegin": 486,
+          "characterOffsetEnd": 490,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 491,
+          "characterOffsetEnd": 493,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "well",
+          "originalText": "well",
+          "characterOffsetBegin": 494,
+          "characterOffsetEnd": 498,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 38,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 498,
+          "characterOffsetEnd": 499,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "In",
+          "originalText": "In",
+          "characterOffsetBegin": 500,
+          "characterOffsetEnd": 502,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "addition",
+          "originalText": "addition",
+          "characterOffsetBegin": 503,
+          "characterOffsetEnd": 511,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 511,
+          "characterOffsetEnd": 512,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 513,
+          "characterOffsetEnd": 514,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "vast",
+          "originalText": "vast",
+          "characterOffsetBegin": 515,
+          "characterOffsetEnd": 519,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "industry",
+          "originalText": "industry",
+          "characterOffsetBegin": 520,
+          "characterOffsetEnd": 528,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 529,
+          "characterOffsetEnd": 531,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "lobbyists",
+          "originalText": "lobbyists",
+          "characterOffsetBegin": 532,
+          "characterOffsetEnd": 541,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "helps",
+          "originalText": "helps",
+          "characterOffsetBegin": 542,
+          "characterOffsetEnd": 547,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "members",
+          "originalText": "members",
+          "characterOffsetBegin": 548,
+          "characterOffsetEnd": 555,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "write",
+          "originalText": "write",
+          "characterOffsetBegin": 556,
+          "characterOffsetEnd": 561,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "legislation",
+          "originalText": "legislation",
+          "characterOffsetBegin": 562,
+          "characterOffsetEnd": 573,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 574,
+          "characterOffsetEnd": 576,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "behalf",
+          "originalText": "behalf",
+          "characterOffsetBegin": 577,
+          "characterOffsetEnd": 583,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 584,
+          "characterOffsetEnd": 586,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "diverse",
+          "originalText": "diverse",
+          "characterOffsetBegin": 587,
+          "characterOffsetEnd": 594,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "corporate",
+          "originalText": "corporate",
+          "characterOffsetBegin": 595,
+          "characterOffsetEnd": 604,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 605,
+          "characterOffsetEnd": 608,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "labor",
+          "originalText": "labor",
+          "characterOffsetBegin": 609,
+          "characterOffsetEnd": 614,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "interests",
+          "originalText": "interests",
+          "characterOffsetBegin": 615,
+          "characterOffsetEnd": 624,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 624,
+          "characterOffsetEnd": 625,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 626,
+          "characterOffsetEnd": 629,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "First",
+          "originalText": "First",
+          "characterOffsetBegin": 630,
+          "characterOffsetEnd": 635,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Continental",
+          "originalText": "Continental",
+          "characterOffsetBegin": 636,
+          "characterOffsetEnd": 647,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 648,
+          "characterOffsetEnd": 656,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 657,
+          "characterOffsetEnd": 660,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 661,
+          "characterOffsetEnd": 662,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "gathering",
+          "originalText": "gathering",
+          "characterOffsetBegin": 663,
+          "characterOffsetEnd": 672,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 673,
+          "characterOffsetEnd": 675,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "representatives",
+          "originalText": "representatives",
+          "characterOffsetBegin": 676,
+          "characterOffsetEnd": 691,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 692,
+          "characterOffsetEnd": 696,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "twelve",
+          "originalText": "twelve",
+          "characterOffsetBegin": 697,
+          "characterOffsetEnd": 703,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 704,
+          "characterOffsetEnd": 706,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 707,
+          "characterOffsetEnd": 710,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "thirteen",
+          "originalText": "thirteen",
+          "characterOffsetBegin": 711,
+          "characterOffsetEnd": 719,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "colonies",
+          "originalText": "colonies",
+          "characterOffsetBegin": 720,
+          "characterOffsetEnd": 728,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 729,
+          "characterOffsetEnd": 731,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "North",
+          "originalText": "North",
+          "characterOffsetBegin": 732,
+          "characterOffsetEnd": 737,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "America",
+          "originalText": "America",
+          "characterOffsetBegin": 738,
+          "characterOffsetEnd": 745,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 745,
+          "characterOffsetEnd": 746,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "On",
+          "originalText": "On",
+          "characterOffsetBegin": 747,
+          "characterOffsetEnd": 749,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "July",
+          "originalText": "July",
+          "characterOffsetBegin": 750,
+          "characterOffsetEnd": 754,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "4",
+          "originalText": "4",
+          "characterOffsetBegin": 755,
+          "characterOffsetEnd": 756,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 756,
+          "characterOffsetEnd": 757,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "1776",
+          "originalText": "1776",
+          "characterOffsetBegin": 758,
+          "characterOffsetEnd": 762,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 762,
+          "characterOffsetEnd": 763,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 764,
+          "characterOffsetEnd": 767,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Second",
+          "originalText": "Second",
+          "characterOffsetBegin": 768,
+          "characterOffsetEnd": 774,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Continental",
+          "originalText": "Continental",
+          "characterOffsetBegin": 775,
+          "characterOffsetEnd": 786,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 787,
+          "characterOffsetEnd": 795,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "adopted",
+          "originalText": "adopted",
+          "characterOffsetBegin": 796,
+          "characterOffsetEnd": 803,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 804,
+          "characterOffsetEnd": 807,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Declaration",
+          "originalText": "Declaration",
+          "characterOffsetBegin": 808,
+          "characterOffsetEnd": 819,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 820,
+          "characterOffsetEnd": 822,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Independence",
+          "originalText": "Independence",
+          "characterOffsetBegin": 823,
+          "characterOffsetEnd": 835,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 835,
+          "characterOffsetEnd": 836,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "referring",
+          "originalText": "referring",
+          "characterOffsetBegin": 837,
+          "characterOffsetEnd": 846,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 847,
+          "characterOffsetEnd": 849,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 850,
+          "characterOffsetEnd": 853,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "new",
+          "originalText": "new",
+          "characterOffsetBegin": 854,
+          "characterOffsetEnd": 857,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "nation",
+          "originalText": "nation",
+          "characterOffsetBegin": 858,
+          "characterOffsetEnd": 864,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 865,
+          "characterOffsetEnd": 867,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 868,
+          "characterOffsetEnd": 871,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "``",
+          "originalText": "\"",
+          "characterOffsetBegin": 872,
+          "characterOffsetEnd": 873,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": "United",
+          "originalText": "United",
+          "characterOffsetBegin": 873,
+          "characterOffsetEnd": 879,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "States",
+          "originalText": "States",
+          "characterOffsetBegin": 880,
+          "characterOffsetEnd": 886,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 887,
+          "characterOffsetEnd": 889,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "America",
+          "originalText": "America",
+          "characterOffsetBegin": 890,
+          "characterOffsetEnd": 897,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 29,
+          "word": "''",
+          "originalText": "\"",
+          "characterOffsetBegin": 897,
+          "characterOffsetEnd": 898,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 30,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 898,
+          "characterOffsetEnd": 899,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 900,
+          "characterOffsetEnd": 903,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Articles",
+          "originalText": "Articles",
+          "characterOffsetBegin": 904,
+          "characterOffsetEnd": 912,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 913,
+          "characterOffsetEnd": 915,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Confederation",
+          "originalText": "Confederation",
+          "characterOffsetBegin": 916,
+          "characterOffsetEnd": 929,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 930,
+          "characterOffsetEnd": 932,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "1781",
+          "originalText": "1781",
+          "characterOffsetBegin": 933,
+          "characterOffsetEnd": 937,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "created",
+          "originalText": "created",
+          "characterOffsetBegin": 938,
+          "characterOffsetEnd": 945,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 946,
+          "characterOffsetEnd": 949,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 950,
+          "characterOffsetEnd": 958,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 959,
+          "characterOffsetEnd": 961,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 962,
+          "characterOffsetEnd": 965,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Confederation",
+          "originalText": "Confederation",
+          "characterOffsetBegin": 966,
+          "characterOffsetEnd": 979,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 979,
+          "characterOffsetEnd": 980,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 981,
+          "characterOffsetEnd": 982,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "unicameral",
+          "originalText": "unicameral",
+          "characterOffsetBegin": 983,
+          "characterOffsetEnd": 993,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "body",
+          "originalText": "body",
+          "characterOffsetBegin": 994,
+          "characterOffsetEnd": 998,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 999,
+          "characterOffsetEnd": 1003,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "equal",
+          "originalText": "equal",
+          "characterOffsetBegin": 1004,
+          "characterOffsetEnd": 1009,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "representation",
+          "originalText": "representation",
+          "characterOffsetBegin": 1010,
+          "characterOffsetEnd": 1024,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "among",
+          "originalText": "among",
+          "characterOffsetBegin": 1025,
+          "characterOffsetEnd": 1030,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1031,
+          "characterOffsetEnd": 1034,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "states",
+          "originalText": "states",
+          "characterOffsetBegin": 1035,
+          "characterOffsetEnd": 1041,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 1042,
+          "characterOffsetEnd": 1044,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "which",
+          "originalText": "which",
+          "characterOffsetBegin": 1045,
+          "characterOffsetEnd": 1050,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "each",
+          "originalText": "each",
+          "characterOffsetBegin": 1051,
+          "characterOffsetEnd": 1055,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "state",
+          "originalText": "state",
+          "characterOffsetBegin": 1056,
+          "characterOffsetEnd": 1061,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "had",
+          "originalText": "had",
+          "characterOffsetBegin": 1062,
+          "characterOffsetEnd": 1065,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 1066,
+          "characterOffsetEnd": 1067,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "veto",
+          "originalText": "veto",
+          "characterOffsetBegin": 1068,
+          "characterOffsetEnd": 1072,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "over",
+          "originalText": "over",
+          "characterOffsetBegin": 1073,
+          "characterOffsetEnd": 1077,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "most",
+          "originalText": "most",
+          "characterOffsetBegin": 1078,
+          "characterOffsetEnd": 1082,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "decisions",
+          "originalText": "decisions",
+          "characterOffsetBegin": 1083,
+          "characterOffsetEnd": 1092,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 33,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1092,
+          "characterOffsetEnd": 1093,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 1094,
+          "characterOffsetEnd": 1102,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "had",
+          "originalText": "had",
+          "characterOffsetBegin": 1103,
+          "characterOffsetEnd": 1106,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "executive",
+          "originalText": "executive",
+          "characterOffsetBegin": 1107,
+          "characterOffsetEnd": 1116,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "but",
+          "originalText": "but",
+          "characterOffsetBegin": 1117,
+          "characterOffsetEnd": 1120,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "not",
+          "originalText": "not",
+          "characterOffsetBegin": 1121,
+          "characterOffsetEnd": 1124,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "legislative",
+          "originalText": "legislative",
+          "characterOffsetBegin": 1125,
+          "characterOffsetEnd": 1136,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "authority",
+          "originalText": "authority",
+          "characterOffsetBegin": 1137,
+          "characterOffsetEnd": 1146,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1146,
+          "characterOffsetEnd": 1147,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1148,
+          "characterOffsetEnd": 1151,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1152,
+          "characterOffsetEnd": 1155,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "federal",
+          "originalText": "federal",
+          "characterOffsetBegin": 1156,
+          "characterOffsetEnd": 1163,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "judiciary",
+          "originalText": "judiciary",
+          "characterOffsetBegin": 1164,
+          "characterOffsetEnd": 1173,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 1174,
+          "characterOffsetEnd": 1177,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "confined",
+          "originalText": "confined",
+          "characterOffsetBegin": 1178,
+          "characterOffsetEnd": 1186,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1187,
+          "characterOffsetEnd": 1189,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "admiralty",
+          "originalText": "admiralty",
+          "characterOffsetBegin": 1190,
+          "characterOffsetEnd": 1199,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1199,
+          "characterOffsetEnd": 1200,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 1201,
+          "characterOffsetEnd": 1204,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "congressional",
+          "originalText": "congressional",
+          "characterOffsetBegin": 1205,
+          "characterOffsetEnd": 1218,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "inquiry",
+          "originalText": "inquiry",
+          "characterOffsetBegin": 1219,
+          "characterOffsetEnd": 1226,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "into",
+          "originalText": "into",
+          "characterOffsetBegin": 1227,
+          "characterOffsetEnd": 1231,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "St.",
+          "originalText": "St.",
+          "characterOffsetBegin": 1232,
+          "characterOffsetEnd": 1235,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Clair",
+          "originalText": "Clair",
+          "characterOffsetBegin": 1236,
+          "characterOffsetEnd": 1241,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": "'s",
+          "originalText": "'s",
+          "characterOffsetBegin": 1241,
+          "characterOffsetEnd": 1243,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Defeat",
+          "originalText": "Defeat",
+          "characterOffsetBegin": 1244,
+          "characterOffsetEnd": 1250,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1251,
+          "characterOffsetEnd": 1253,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "1791",
+          "originalText": "1791",
+          "characterOffsetBegin": 1254,
+          "characterOffsetEnd": 1258,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 1259,
+          "characterOffsetEnd": 1262,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1263,
+          "characterOffsetEnd": 1266,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "first",
+          "originalText": "first",
+          "characterOffsetBegin": 1267,
+          "characterOffsetEnd": 1272,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "congressional",
+          "originalText": "congressional",
+          "characterOffsetBegin": 1273,
+          "characterOffsetEnd": 1286,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "investigation",
+          "originalText": "investigation",
+          "characterOffsetBegin": 1287,
+          "characterOffsetEnd": 1300,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1301,
+          "characterOffsetEnd": 1303,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1304,
+          "characterOffsetEnd": 1307,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "executive",
+          "originalText": "executive",
+          "characterOffsetBegin": 1308,
+          "characterOffsetEnd": 1317,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "branch",
+          "originalText": "branch",
+          "characterOffsetBegin": 1318,
+          "characterOffsetEnd": 1324,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1324,
+          "characterOffsetEnd": 1325,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Investigations",
+          "originalText": "Investigations",
+          "characterOffsetBegin": 1326,
+          "characterOffsetEnd": 1340,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "are",
+          "originalText": "are",
+          "characterOffsetBegin": 1341,
+          "characterOffsetEnd": 1344,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "conducted",
+          "originalText": "conducted",
+          "characterOffsetBegin": 1345,
+          "characterOffsetEnd": 1354,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1355,
+          "characterOffsetEnd": 1357,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "gather",
+          "originalText": "gather",
+          "characterOffsetBegin": 1358,
+          "characterOffsetEnd": 1364,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "information",
+          "originalText": "information",
+          "characterOffsetBegin": 1365,
+          "characterOffsetEnd": 1376,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 1377,
+          "characterOffsetEnd": 1379,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1380,
+          "characterOffsetEnd": 1383,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "need",
+          "originalText": "need",
+          "characterOffsetBegin": 1384,
+          "characterOffsetEnd": 1388,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 1389,
+          "characterOffsetEnd": 1392,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "future",
+          "originalText": "future",
+          "characterOffsetBegin": 1393,
+          "characterOffsetEnd": 1399,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "legislation",
+          "originalText": "legislation",
+          "characterOffsetBegin": 1400,
+          "characterOffsetEnd": 1411,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1411,
+          "characterOffsetEnd": 1412,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1413,
+          "characterOffsetEnd": 1415,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "test",
+          "originalText": "test",
+          "characterOffsetBegin": 1416,
+          "characterOffsetEnd": 1420,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1421,
+          "characterOffsetEnd": 1424,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "effectiveness",
+          "originalText": "effectiveness",
+          "characterOffsetBegin": 1425,
+          "characterOffsetEnd": 1438,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1439,
+          "characterOffsetEnd": 1441,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "laws",
+          "originalText": "laws",
+          "characterOffsetBegin": 1442,
+          "characterOffsetEnd": 1446,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "already",
+          "originalText": "already",
+          "characterOffsetBegin": 1447,
+          "characterOffsetEnd": 1454,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "passed",
+          "originalText": "passed",
+          "characterOffsetBegin": 1455,
+          "characterOffsetEnd": 1461,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1461,
+          "characterOffsetEnd": 1462,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1463,
+          "characterOffsetEnd": 1466,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1467,
+          "characterOffsetEnd": 1469,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "inquire",
+          "originalText": "inquire",
+          "characterOffsetBegin": 1470,
+          "characterOffsetEnd": 1477,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "into",
+          "originalText": "into",
+          "characterOffsetBegin": 1478,
+          "characterOffsetEnd": 1482,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1483,
+          "characterOffsetEnd": 1486,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "qualifications",
+          "originalText": "qualifications",
+          "characterOffsetBegin": 1487,
+          "characterOffsetEnd": 1501,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1502,
+          "characterOffsetEnd": 1505,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "performance",
+          "originalText": "performance",
+          "characterOffsetBegin": 1506,
+          "characterOffsetEnd": 1517,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1518,
+          "characterOffsetEnd": 1520,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "members",
+          "originalText": "members",
+          "characterOffsetBegin": 1521,
+          "characterOffsetEnd": 1528,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1529,
+          "characterOffsetEnd": 1532,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "officials",
+          "originalText": "officials",
+          "characterOffsetBegin": 1533,
+          "characterOffsetEnd": 1542,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1543,
+          "characterOffsetEnd": 1545,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1546,
+          "characterOffsetEnd": 1549,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "other",
+          "originalText": "other",
+          "characterOffsetBegin": 1550,
+          "characterOffsetEnd": 1555,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 38,
+          "word": "branches",
+          "originalText": "branches",
+          "characterOffsetBegin": 1556,
+          "characterOffsetEnd": 1564,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 39,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1564,
+          "characterOffsetEnd": 1565,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Committees",
+          "originalText": "Committees",
+          "characterOffsetBegin": 1566,
+          "characterOffsetEnd": 1576,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "may",
+          "originalText": "may",
+          "characterOffsetBegin": 1577,
+          "characterOffsetEnd": 1580,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "hold",
+          "originalText": "hold",
+          "characterOffsetBegin": 1581,
+          "characterOffsetEnd": 1585,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "hearings",
+          "originalText": "hearings",
+          "characterOffsetBegin": 1586,
+          "characterOffsetEnd": 1594,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1594,
+          "characterOffsetEnd": 1595,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1596,
+          "characterOffsetEnd": 1599,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1599,
+          "characterOffsetEnd": 1600,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "if",
+          "originalText": "if",
+          "characterOffsetBegin": 1601,
+          "characterOffsetEnd": 1603,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "necessary",
+          "originalText": "necessary",
+          "characterOffsetBegin": 1604,
+          "characterOffsetEnd": 1613,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1613,
+          "characterOffsetEnd": 1614,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "compel",
+          "originalText": "compel",
+          "characterOffsetBegin": 1615,
+          "characterOffsetEnd": 1621,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "individuals",
+          "originalText": "individuals",
+          "characterOffsetBegin": 1622,
+          "characterOffsetEnd": 1633,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1634,
+          "characterOffsetEnd": 1636,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "testify",
+          "originalText": "testify",
+          "characterOffsetBegin": 1637,
+          "characterOffsetEnd": 1644,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "when",
+          "originalText": "when",
+          "characterOffsetBegin": 1645,
+          "characterOffsetEnd": 1649,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "investigating",
+          "originalText": "investigating",
+          "characterOffsetBegin": 1650,
+          "characterOffsetEnd": 1663,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "issues",
+          "originalText": "issues",
+          "characterOffsetBegin": 1664,
+          "characterOffsetEnd": 1670,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "over",
+          "originalText": "over",
+          "characterOffsetBegin": 1671,
+          "characterOffsetEnd": 1675,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "which",
+          "originalText": "which",
+          "characterOffsetBegin": 1676,
+          "characterOffsetEnd": 1681,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 1682,
+          "characterOffsetEnd": 1684,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "has",
+          "originalText": "has",
+          "characterOffsetBegin": 1685,
+          "characterOffsetEnd": 1688,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1689,
+          "characterOffsetEnd": 1692,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "power",
+          "originalText": "power",
+          "characterOffsetBegin": 1693,
+          "characterOffsetEnd": 1698,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1699,
+          "characterOffsetEnd": 1701,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "legislate",
+          "originalText": "legislate",
+          "characterOffsetBegin": 1702,
+          "characterOffsetEnd": 1711,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 1712,
+          "characterOffsetEnd": 1714,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "issuing",
+          "originalText": "issuing",
+          "characterOffsetBegin": 1715,
+          "characterOffsetEnd": 1722,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "subpoenas",
+          "originalText": "subpoenas",
+          "characterOffsetBegin": 1723,
+          "characterOffsetEnd": 1732,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 29,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1732,
+          "characterOffsetEnd": 1733,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Witnesses",
+          "originalText": "Witnesses",
+          "characterOffsetBegin": 1734,
+          "characterOffsetEnd": 1743,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "who",
+          "originalText": "who",
+          "characterOffsetBegin": 1744,
+          "characterOffsetEnd": 1747,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "refuse",
+          "originalText": "refuse",
+          "characterOffsetBegin": 1748,
+          "characterOffsetEnd": 1754,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1755,
+          "characterOffsetEnd": 1757,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "testify",
+          "originalText": "testify",
+          "characterOffsetBegin": 1758,
+          "characterOffsetEnd": 1765,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "may",
+          "originalText": "may",
+          "characterOffsetBegin": 1766,
+          "characterOffsetEnd": 1769,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "be",
+          "originalText": "be",
+          "characterOffsetBegin": 1770,
+          "characterOffsetEnd": 1772,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "cited",
+          "originalText": "cited",
+          "characterOffsetBegin": 1773,
+          "characterOffsetEnd": 1778,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 1779,
+          "characterOffsetEnd": 1782,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "contempt",
+          "originalText": "contempt",
+          "characterOffsetBegin": 1783,
+          "characterOffsetEnd": 1791,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1792,
+          "characterOffsetEnd": 1794,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Congress",
+          "originalText": "Congress",
+          "characterOffsetBegin": 1795,
+          "characterOffsetEnd": 1803,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1803,
+          "characterOffsetEnd": 1804,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1805,
+          "characterOffsetEnd": 1808,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "those",
+          "originalText": "those",
+          "characterOffsetBegin": 1809,
+          "characterOffsetEnd": 1814,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "who",
+          "originalText": "who",
+          "characterOffsetBegin": 1815,
+          "characterOffsetEnd": 1818,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "testify",
+          "originalText": "testify",
+          "characterOffsetBegin": 1819,
+          "characterOffsetEnd": 1826,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "falsely",
+          "originalText": "falsely",
+          "characterOffsetBegin": 1827,
+          "characterOffsetEnd": 1834,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "may",
+          "originalText": "may",
+          "characterOffsetBegin": 1835,
+          "characterOffsetEnd": 1838,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "be",
+          "originalText": "be",
+          "characterOffsetBegin": 1839,
+          "characterOffsetEnd": 1841,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "charged",
+          "originalText": "charged",
+          "characterOffsetBegin": 1842,
+          "characterOffsetEnd": 1849,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 1850,
+          "characterOffsetEnd": 1854,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "perjury",
+          "originalText": "perjury",
+          "characterOffsetBegin": 1855,
+          "characterOffsetEnd": 1862,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1862,
+          "characterOffsetEnd": 1863,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

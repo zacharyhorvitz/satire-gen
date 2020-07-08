@@ -1,0 +1,46 @@
+{
+  "docId": "1982",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "new",
+          "originalText": "new",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "prescription-only",
+          "originalText": "prescription-only",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 21,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "pill",
+          "originalText": "pill",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 26,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "extra-effective",
+          "originalText": "extra-effective",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 42,
+          "before": " ",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

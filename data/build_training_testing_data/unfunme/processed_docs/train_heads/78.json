@@ -1,0 +1,64 @@
+{
+  "docId": "78",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "mom",
+          "originalText": "mom",
+          "characterOffsetBegin": 1,
+          "characterOffsetEnd": 4,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "loved",
+          "originalText": "loved",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 10,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "`",
+          "originalText": "‘",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 12,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": "fruitvale",
+          "originalText": "fruitvale",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 21,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "station",
+          "originalText": "station",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 29,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": "'",
+          "originalText": "’",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 30,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

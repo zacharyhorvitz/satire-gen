@@ -1,0 +1,37 @@
+{
+  "docId": "3060",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Herbie",
+          "originalText": "Herbie",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Goes",
+          "originalText": "Goes",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 11,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Bananas",
+          "originalText": "Bananas",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 19,
+          "before": " ",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

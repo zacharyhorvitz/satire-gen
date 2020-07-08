@@ -1,0 +1,844 @@
+{
+  "docId": "10424",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Norwalk",
+          "originalText": "Norwalk",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 11,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": "--",
+          "originalText": "–",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 12,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": "La",
+          "originalText": "La",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 14,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Mirada",
+          "originalText": "Mirada",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 21,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Unified",
+          "originalText": "Unified",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 29,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "School",
+          "originalText": "School",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 36,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "District",
+          "originalText": "District",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 45,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 47,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": "NLMUSD",
+          "originalText": "NLMUSD",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 53,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 54,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 57,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 59,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "school",
+          "originalText": "school",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 66,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "district",
+          "originalText": "district",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 75,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 78,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Los",
+          "originalText": "Los",
+          "characterOffsetBegin": 79,
+          "characterOffsetEnd": 82,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Angeles",
+          "originalText": "Angeles",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 90,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "County",
+          "originalText": "County",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 97,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 98,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "California",
+          "originalText": "California",
+          "characterOffsetBegin": 99,
+          "characterOffsetEnd": 109,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 110,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "United",
+          "originalText": "United",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 117,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "States",
+          "originalText": "States",
+          "characterOffsetBegin": 118,
+          "characterOffsetEnd": 124,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 124,
+          "characterOffsetEnd": 125,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 126,
+          "characterOffsetEnd": 130,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "its",
+          "originalText": "its",
+          "characterOffsetBegin": 131,
+          "characterOffsetEnd": 134,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "headquarters",
+          "originalText": "headquarters",
+          "characterOffsetBegin": 135,
+          "characterOffsetEnd": 147,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 148,
+          "characterOffsetEnd": 150,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "Norwalk",
+          "originalText": "Norwalk",
+          "characterOffsetBegin": 151,
+          "characterOffsetEnd": 158,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 31,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 159,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "It",
+          "originalText": "It",
+          "characterOffsetBegin": 160,
+          "characterOffsetEnd": 162,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "has",
+          "originalText": "has",
+          "characterOffsetBegin": 163,
+          "characterOffsetEnd": 166,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "schools",
+          "originalText": "schools",
+          "characterOffsetBegin": 167,
+          "characterOffsetEnd": 174,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 175,
+          "characterOffsetEnd": 177,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "both",
+          "originalText": "both",
+          "characterOffsetBegin": 178,
+          "characterOffsetEnd": 182,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Norwalk",
+          "originalText": "Norwalk",
+          "characterOffsetBegin": 183,
+          "characterOffsetEnd": 190,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 191,
+          "characterOffsetEnd": 194,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "La",
+          "originalText": "La",
+          "characterOffsetBegin": 195,
+          "characterOffsetEnd": 197,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Mirada",
+          "originalText": "Mirada",
+          "characterOffsetBegin": 198,
+          "characterOffsetEnd": 204,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "areas",
+          "originalText": "areas",
+          "characterOffsetBegin": 205,
+          "characterOffsetEnd": 210,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 210,
+          "characterOffsetEnd": 211,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 212,
+          "characterOffsetEnd": 215,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "school",
+          "originalText": "school",
+          "characterOffsetBegin": 216,
+          "characterOffsetEnd": 222,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "district",
+          "originalText": "district",
+          "characterOffsetBegin": 223,
+          "characterOffsetEnd": 231,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "serves",
+          "originalText": "serves",
+          "characterOffsetBegin": 232,
+          "characterOffsetEnd": 238,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "most",
+          "originalText": "most",
+          "characterOffsetBegin": 239,
+          "characterOffsetEnd": 243,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 244,
+          "characterOffsetEnd": 246,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Norwalk",
+          "originalText": "Norwalk",
+          "characterOffsetBegin": 247,
+          "characterOffsetEnd": 254,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 255,
+          "characterOffsetEnd": 258,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "La",
+          "originalText": "La",
+          "characterOffsetBegin": 259,
+          "characterOffsetEnd": 261,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Mirada",
+          "originalText": "Mirada",
+          "characterOffsetBegin": 262,
+          "characterOffsetEnd": 268,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 269,
+          "characterOffsetEnd": 272,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Santa",
+          "originalText": "Santa",
+          "characterOffsetBegin": 273,
+          "characterOffsetEnd": 278,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Fe",
+          "originalText": "Fe",
+          "characterOffsetBegin": 279,
+          "characterOffsetEnd": 281,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Springs",
+          "originalText": "Springs",
+          "characterOffsetBegin": 282,
+          "characterOffsetEnd": 289,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 290,
+          "characterOffsetEnd": 291,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 291,
+          "characterOffsetEnd": 294,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "NLM",
+          "originalText": "NLM",
+          "characterOffsetBegin": 295,
+          "characterOffsetEnd": 298,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "portion",
+          "originalText": "portion",
+          "characterOffsetBegin": 299,
+          "characterOffsetEnd": 306,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 307,
+          "characterOffsetEnd": 309,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Santa",
+          "originalText": "Santa",
+          "characterOffsetBegin": 310,
+          "characterOffsetEnd": 315,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Fe",
+          "originalText": "Fe",
+          "characterOffsetBegin": 316,
+          "characterOffsetEnd": 318,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "Springs",
+          "originalText": "Springs",
+          "characterOffsetBegin": 319,
+          "characterOffsetEnd": 326,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "contains",
+          "originalText": "contains",
+          "characterOffsetBegin": 327,
+          "characterOffsetEnd": 335,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "only",
+          "originalText": "only",
+          "characterOffsetBegin": 336,
+          "characterOffsetEnd": 340,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "business",
+          "originalText": "business",
+          "characterOffsetBegin": 341,
+          "characterOffsetEnd": 349,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "areas",
+          "originalText": "areas",
+          "characterOffsetBegin": 350,
+          "characterOffsetEnd": 355,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 355,
+          "characterOffsetEnd": 356,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "no",
+          "originalText": "no",
+          "characterOffsetBegin": 357,
+          "characterOffsetEnd": 359,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "residents",
+          "originalText": "residents",
+          "characterOffsetBegin": 360,
+          "characterOffsetEnd": 369,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 30,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 369,
+          "characterOffsetEnd": 370,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 31,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 370,
+          "characterOffsetEnd": 371,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Hasmik",
+          "originalText": "Hasmik",
+          "characterOffsetBegin": 372,
+          "characterOffsetEnd": 378,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Danielian",
+          "originalText": "Danielian",
+          "characterOffsetBegin": 379,
+          "characterOffsetEnd": 388,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "has",
+          "originalText": "has",
+          "characterOffsetBegin": 389,
+          "characterOffsetEnd": 392,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "been",
+          "originalText": "been",
+          "characterOffsetBegin": 393,
+          "characterOffsetEnd": 397,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 398,
+          "characterOffsetEnd": 401,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "superintendent",
+          "originalText": "superintendent",
+          "characterOffsetBegin": 402,
+          "characterOffsetEnd": 416,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 417,
+          "characterOffsetEnd": 419,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 420,
+          "characterOffsetEnd": 423,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "school",
+          "originalText": "school",
+          "characterOffsetBegin": 424,
+          "characterOffsetEnd": 430,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "district",
+          "originalText": "district",
+          "characterOffsetBegin": 431,
+          "characterOffsetEnd": 439,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "since",
+          "originalText": "since",
+          "characterOffsetBegin": 440,
+          "characterOffsetEnd": 445,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 446,
+          "characterOffsetEnd": 449,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "2015",
+          "originalText": "2015",
+          "characterOffsetBegin": 450,
+          "characterOffsetEnd": 454,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": "--",
+          "originalText": "–",
+          "characterOffsetBegin": 454,
+          "characterOffsetEnd": 455,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": "2016",
+          "originalText": "2016",
+          "characterOffsetBegin": 455,
+          "characterOffsetEnd": 459,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "school",
+          "originalText": "school",
+          "characterOffsetBegin": 460,
+          "characterOffsetEnd": 466,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "year",
+          "originalText": "year",
+          "characterOffsetBegin": 467,
+          "characterOffsetEnd": 471,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 471,
+          "characterOffsetEnd": 472,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

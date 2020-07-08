@@ -1,0 +1,925 @@
+{
+  "docId": "1623",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "HuffPost",
+          "originalText": "HuffPost",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 8,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 10,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": "formerly",
+          "originalText": "formerly",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 18,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 22,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Huffington",
+          "originalText": "Huffington",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 33,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Post",
+          "originalText": "Post",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 38,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 42,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "sometimes",
+          "originalText": "sometimes",
+          "characterOffsetBegin": 43,
+          "characterOffsetEnd": 52,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "abbreviated",
+          "originalText": "abbreviated",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 64,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "HuffPo",
+          "originalText": "HuffPo",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 71,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 71,
+          "characterOffsetEnd": 72,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 73,
+          "characterOffsetEnd": 75,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 78,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "American",
+          "originalText": "American",
+          "characterOffsetBegin": 79,
+          "characterOffsetEnd": 87,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "news",
+          "originalText": "news",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 92,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 96,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "opinion",
+          "originalText": "opinion",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 104,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "website",
+          "originalText": "website",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 112,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 113,
+          "characterOffsetEnd": 116,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "blog",
+          "originalText": "blog",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 121,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 122,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 127,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "localized",
+          "originalText": "localized",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 137,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 141,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "international",
+          "originalText": "international",
+          "characterOffsetBegin": 142,
+          "characterOffsetEnd": 155,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "editions",
+          "originalText": "editions",
+          "characterOffsetBegin": 156,
+          "characterOffsetEnd": 164,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 164,
+          "characterOffsetEnd": 165,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "It",
+          "originalText": "It",
+          "characterOffsetBegin": 166,
+          "characterOffsetEnd": 168,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 169,
+          "characterOffsetEnd": 171,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "edited",
+          "originalText": "edited",
+          "characterOffsetBegin": 172,
+          "characterOffsetEnd": 178,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 179,
+          "characterOffsetEnd": 183,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 184,
+          "characterOffsetEnd": 185,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "left",
+          "originalText": "left",
+          "characterOffsetBegin": 186,
+          "characterOffsetEnd": 190,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "wing",
+          "originalText": "wing",
+          "characterOffsetBegin": 191,
+          "characterOffsetEnd": 195,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "political",
+          "originalText": "political",
+          "characterOffsetBegin": 196,
+          "characterOffsetEnd": 205,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "perspective",
+          "originalText": "perspective",
+          "characterOffsetBegin": 206,
+          "characterOffsetEnd": 217,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 217,
+          "characterOffsetEnd": 218,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "It",
+          "originalText": "It",
+          "characterOffsetBegin": 219,
+          "characterOffsetEnd": 221,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 222,
+          "characterOffsetEnd": 225,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "founded",
+          "originalText": "founded",
+          "characterOffsetBegin": 226,
+          "characterOffsetEnd": 233,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 234,
+          "characterOffsetEnd": 236,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "2005",
+          "originalText": "2005",
+          "characterOffsetBegin": 237,
+          "characterOffsetEnd": 241,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 242,
+          "characterOffsetEnd": 244,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Andrew",
+          "originalText": "Andrew",
+          "characterOffsetBegin": 245,
+          "characterOffsetEnd": 251,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Breitbart",
+          "originalText": "Breitbart",
+          "characterOffsetBegin": 252,
+          "characterOffsetEnd": 261,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 261,
+          "characterOffsetEnd": 262,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Arianna",
+          "originalText": "Arianna",
+          "characterOffsetBegin": 263,
+          "characterOffsetEnd": 270,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Huffington",
+          "originalText": "Huffington",
+          "characterOffsetBegin": 271,
+          "characterOffsetEnd": 281,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 281,
+          "characterOffsetEnd": 282,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Kenneth",
+          "originalText": "Kenneth",
+          "characterOffsetBegin": 283,
+          "characterOffsetEnd": 290,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Lerer",
+          "originalText": "Lerer",
+          "characterOffsetBegin": 291,
+          "characterOffsetEnd": 296,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 296,
+          "characterOffsetEnd": 297,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 298,
+          "characterOffsetEnd": 301,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Jonah",
+          "originalText": "Jonah",
+          "characterOffsetBegin": 302,
+          "characterOffsetEnd": 307,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Peretti",
+          "originalText": "Peretti",
+          "characterOffsetBegin": 308,
+          "characterOffsetEnd": 315,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 315,
+          "characterOffsetEnd": 316,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 317,
+          "characterOffsetEnd": 320,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "site",
+          "originalText": "site",
+          "characterOffsetBegin": 321,
+          "characterOffsetEnd": 325,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "offers",
+          "originalText": "offers",
+          "characterOffsetBegin": 326,
+          "characterOffsetEnd": 332,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "news",
+          "originalText": "news",
+          "characterOffsetBegin": 333,
+          "characterOffsetEnd": 337,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 337,
+          "characterOffsetEnd": 338,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "satire",
+          "originalText": "satire",
+          "characterOffsetBegin": 339,
+          "characterOffsetEnd": 345,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 345,
+          "characterOffsetEnd": 346,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "blogs",
+          "originalText": "blogs",
+          "characterOffsetBegin": 347,
+          "characterOffsetEnd": 352,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 352,
+          "characterOffsetEnd": 353,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 354,
+          "characterOffsetEnd": 357,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "original",
+          "originalText": "original",
+          "characterOffsetBegin": 358,
+          "characterOffsetEnd": 366,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "content",
+          "originalText": "content",
+          "characterOffsetBegin": 367,
+          "characterOffsetEnd": 374,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 375,
+          "characterOffsetEnd": 378,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "covers",
+          "originalText": "covers",
+          "characterOffsetBegin": 379,
+          "characterOffsetEnd": 385,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "politics",
+          "originalText": "politics",
+          "characterOffsetBegin": 386,
+          "characterOffsetEnd": 394,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 394,
+          "characterOffsetEnd": 395,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "business",
+          "originalText": "business",
+          "characterOffsetBegin": 396,
+          "characterOffsetEnd": 404,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 404,
+          "characterOffsetEnd": 405,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "entertainment",
+          "originalText": "entertainment",
+          "characterOffsetBegin": 406,
+          "characterOffsetEnd": 419,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 419,
+          "characterOffsetEnd": 420,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "environment",
+          "originalText": "environment",
+          "characterOffsetBegin": 421,
+          "characterOffsetEnd": 432,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 432,
+          "characterOffsetEnd": 433,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "technology",
+          "originalText": "technology",
+          "characterOffsetBegin": 434,
+          "characterOffsetEnd": 444,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 444,
+          "characterOffsetEnd": 445,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "popular",
+          "originalText": "popular",
+          "characterOffsetBegin": 446,
+          "characterOffsetEnd": 453,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "media",
+          "originalText": "media",
+          "characterOffsetBegin": 454,
+          "characterOffsetEnd": 459,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 459,
+          "characterOffsetEnd": 460,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "lifestyle",
+          "originalText": "lifestyle",
+          "characterOffsetBegin": 461,
+          "characterOffsetEnd": 470,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 29,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 470,
+          "characterOffsetEnd": 471,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "culture",
+          "originalText": "culture",
+          "characterOffsetBegin": 472,
+          "characterOffsetEnd": 479,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 31,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 479,
+          "characterOffsetEnd": 480,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "comedy",
+          "originalText": "comedy",
+          "characterOffsetBegin": 481,
+          "characterOffsetEnd": 487,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 33,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 487,
+          "characterOffsetEnd": 488,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "healthy",
+          "originalText": "healthy",
+          "characterOffsetBegin": 489,
+          "characterOffsetEnd": 496,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "living",
+          "originalText": "living",
+          "characterOffsetBegin": 497,
+          "characterOffsetEnd": 503,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 36,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 503,
+          "characterOffsetEnd": 504,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "women",
+          "originalText": "women",
+          "characterOffsetBegin": 505,
+          "characterOffsetEnd": 510,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 38,
+          "word": "'s",
+          "originalText": "'s",
+          "characterOffsetBegin": 510,
+          "characterOffsetEnd": 512,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 39,
+          "word": "interests",
+          "originalText": "interests",
+          "characterOffsetBegin": 513,
+          "characterOffsetEnd": 522,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 40,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 522,
+          "characterOffsetEnd": 523,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 41,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 524,
+          "characterOffsetEnd": 527,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 42,
+          "word": "local",
+          "originalText": "local",
+          "characterOffsetBegin": 528,
+          "characterOffsetEnd": 533,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 43,
+          "word": "news",
+          "originalText": "news",
+          "characterOffsetBegin": 534,
+          "characterOffsetEnd": 538,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 44,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 538,
+          "characterOffsetEnd": 539,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

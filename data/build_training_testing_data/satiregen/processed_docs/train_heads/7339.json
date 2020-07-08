@@ -1,0 +1,37 @@
+{
+  "docId": "7339",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Stuff",
+          "originalText": "Stuff",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 5,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "On",
+          "originalText": "On",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 8,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Floor",
+          "originalText": "Floor",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 14,
+          "before": " ",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

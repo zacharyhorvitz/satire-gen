@@ -1,0 +1,37 @@
+{
+  "docId": "564",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "duck",
+          "originalText": "duck",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "eat",
+          "originalText": "eat",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 8,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "bread",
+          "originalText": "bread",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 14,
+          "before": " ",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

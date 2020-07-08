@@ -1,0 +1,925 @@
+{
+  "docId": "2208",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Antisemitism",
+          "originalText": "Antisemitism",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 12,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 14,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": "also",
+          "originalText": "also",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 18,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "spelled",
+          "originalText": "spelled",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 26,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "anti-semitism",
+          "originalText": "anti-semitism",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 40,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "or",
+          "originalText": "or",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 43,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "anti-Semitism",
+          "originalText": "anti-Semitism",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 57,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 58,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 61,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "hostility",
+          "originalText": "hostility",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 71,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 74,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 75,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "prejudice",
+          "originalText": "prejudice",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 85,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 86,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "or",
+          "originalText": "or",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 89,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "discrimination",
+          "originalText": "discrimination",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 104,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "against",
+          "originalText": "against",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 112,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Jews",
+          "originalText": "Jews",
+          "characterOffsetBegin": 113,
+          "characterOffsetEnd": 117,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 118,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "A",
+          "originalText": "A",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 120,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "person",
+          "originalText": "person",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 127,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "who",
+          "originalText": "who",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 131,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "holds",
+          "originalText": "holds",
+          "characterOffsetBegin": 132,
+          "characterOffsetEnd": 137,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "such",
+          "originalText": "such",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 142,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "positions",
+          "originalText": "positions",
+          "characterOffsetBegin": 143,
+          "characterOffsetEnd": 152,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 153,
+          "characterOffsetEnd": 155,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "called",
+          "originalText": "called",
+          "characterOffsetBegin": 156,
+          "characterOffsetEnd": 162,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 163,
+          "characterOffsetEnd": 165,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "antisemite",
+          "originalText": "antisemite",
+          "characterOffsetBegin": 166,
+          "characterOffsetEnd": 176,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 176,
+          "characterOffsetEnd": 177,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Antisemitism",
+          "originalText": "Antisemitism",
+          "characterOffsetBegin": 178,
+          "characterOffsetEnd": 190,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 191,
+          "characterOffsetEnd": 193,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "generally",
+          "originalText": "generally",
+          "characterOffsetBegin": 194,
+          "characterOffsetEnd": 203,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "considered",
+          "originalText": "considered",
+          "characterOffsetBegin": 204,
+          "characterOffsetEnd": 214,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 215,
+          "characterOffsetEnd": 217,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "be",
+          "originalText": "be",
+          "characterOffsetBegin": 218,
+          "characterOffsetEnd": 220,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 221,
+          "characterOffsetEnd": 222,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "form",
+          "originalText": "form",
+          "characterOffsetBegin": 223,
+          "characterOffsetEnd": 227,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 228,
+          "characterOffsetEnd": 230,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "racism.Antisemitism",
+          "originalText": "racism.Antisemitism",
+          "characterOffsetBegin": 231,
+          "characterOffsetEnd": 250,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "may",
+          "originalText": "may",
+          "characterOffsetBegin": 251,
+          "characterOffsetEnd": 254,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "be",
+          "originalText": "be",
+          "characterOffsetBegin": 255,
+          "characterOffsetEnd": 257,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "manifested",
+          "originalText": "manifested",
+          "characterOffsetBegin": 258,
+          "characterOffsetEnd": 268,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 269,
+          "characterOffsetEnd": 271,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "many",
+          "originalText": "many",
+          "characterOffsetBegin": 272,
+          "characterOffsetEnd": 276,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "ways",
+          "originalText": "ways",
+          "characterOffsetBegin": 277,
+          "characterOffsetEnd": 281,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 281,
+          "characterOffsetEnd": 282,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "ranging",
+          "originalText": "ranging",
+          "characterOffsetBegin": 283,
+          "characterOffsetEnd": 290,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 291,
+          "characterOffsetEnd": 295,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "expressions",
+          "originalText": "expressions",
+          "characterOffsetBegin": 296,
+          "characterOffsetEnd": 307,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 308,
+          "characterOffsetEnd": 310,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "hatred",
+          "originalText": "hatred",
+          "characterOffsetBegin": 311,
+          "characterOffsetEnd": 317,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 318,
+          "characterOffsetEnd": 320,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "or",
+          "originalText": "or",
+          "characterOffsetBegin": 321,
+          "characterOffsetEnd": 323,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "discrimination",
+          "originalText": "discrimination",
+          "characterOffsetBegin": 324,
+          "characterOffsetEnd": 338,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "against",
+          "originalText": "against",
+          "characterOffsetBegin": 339,
+          "characterOffsetEnd": 346,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "individual",
+          "originalText": "individual",
+          "characterOffsetBegin": 347,
+          "characterOffsetEnd": 357,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "Jews",
+          "originalText": "Jews",
+          "characterOffsetBegin": 358,
+          "characterOffsetEnd": 362,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 363,
+          "characterOffsetEnd": 365,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "organized",
+          "originalText": "organized",
+          "characterOffsetBegin": 366,
+          "characterOffsetEnd": 375,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "pogroms",
+          "originalText": "pogroms",
+          "characterOffsetBegin": 376,
+          "characterOffsetEnd": 383,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "by",
+          "originalText": "by",
+          "characterOffsetBegin": 384,
+          "characterOffsetEnd": 386,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "mobs",
+          "originalText": "mobs",
+          "characterOffsetBegin": 387,
+          "characterOffsetEnd": 391,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 34,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 391,
+          "characterOffsetEnd": 392,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "state",
+          "originalText": "state",
+          "characterOffsetBegin": 393,
+          "characterOffsetEnd": 398,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "police",
+          "originalText": "police",
+          "characterOffsetBegin": 399,
+          "characterOffsetEnd": 405,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 37,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 405,
+          "characterOffsetEnd": 406,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 38,
+          "word": "or",
+          "originalText": "or",
+          "characterOffsetBegin": 407,
+          "characterOffsetEnd": 409,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 39,
+          "word": "even",
+          "originalText": "even",
+          "characterOffsetBegin": 410,
+          "characterOffsetEnd": 414,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 40,
+          "word": "military",
+          "originalText": "military",
+          "characterOffsetBegin": 415,
+          "characterOffsetEnd": 423,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 41,
+          "word": "attacks",
+          "originalText": "attacks",
+          "characterOffsetBegin": 424,
+          "characterOffsetEnd": 431,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 42,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 432,
+          "characterOffsetEnd": 434,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 43,
+          "word": "entire",
+          "originalText": "entire",
+          "characterOffsetBegin": 435,
+          "characterOffsetEnd": 441,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 44,
+          "word": "Jewish",
+          "originalText": "Jewish",
+          "characterOffsetBegin": 442,
+          "characterOffsetEnd": 448,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 45,
+          "word": "communities",
+          "originalText": "communities",
+          "characterOffsetBegin": 449,
+          "characterOffsetEnd": 460,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 46,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 460,
+          "characterOffsetEnd": 461,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Although",
+          "originalText": "Although",
+          "characterOffsetBegin": 462,
+          "characterOffsetEnd": 470,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 471,
+          "characterOffsetEnd": 474,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "term",
+          "originalText": "term",
+          "characterOffsetBegin": 475,
+          "characterOffsetEnd": 479,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "did",
+          "originalText": "did",
+          "characterOffsetBegin": 480,
+          "characterOffsetEnd": 483,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "not",
+          "originalText": "not",
+          "characterOffsetBegin": 484,
+          "characterOffsetEnd": 487,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "come",
+          "originalText": "come",
+          "characterOffsetBegin": 488,
+          "characterOffsetEnd": 492,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "into",
+          "originalText": "into",
+          "characterOffsetBegin": 493,
+          "characterOffsetEnd": 497,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "common",
+          "originalText": "common",
+          "characterOffsetBegin": 498,
+          "characterOffsetEnd": 504,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "usage",
+          "originalText": "usage",
+          "characterOffsetBegin": 505,
+          "characterOffsetEnd": 510,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "until",
+          "originalText": "until",
+          "characterOffsetBegin": 511,
+          "characterOffsetEnd": 516,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 517,
+          "characterOffsetEnd": 520,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "19th",
+          "originalText": "19th",
+          "characterOffsetBegin": 521,
+          "characterOffsetEnd": 525,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "century",
+          "originalText": "century",
+          "characterOffsetBegin": 526,
+          "characterOffsetEnd": 533,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 533,
+          "characterOffsetEnd": 534,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 535,
+          "characterOffsetEnd": 537,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 538,
+          "characterOffsetEnd": 540,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "now",
+          "originalText": "now",
+          "characterOffsetBegin": 541,
+          "characterOffsetEnd": 544,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "also",
+          "originalText": "also",
+          "characterOffsetBegin": 545,
+          "characterOffsetEnd": 549,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "applied",
+          "originalText": "applied",
+          "characterOffsetBegin": 550,
+          "characterOffsetEnd": 557,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 558,
+          "characterOffsetEnd": 560,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "historic",
+          "originalText": "historic",
+          "characterOffsetBegin": 561,
+          "characterOffsetEnd": 569,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "anti-Jewish",
+          "originalText": "anti-Jewish",
+          "characterOffsetBegin": 570,
+          "characterOffsetEnd": 581,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "incidents",
+          "originalText": "incidents",
+          "characterOffsetBegin": 582,
+          "characterOffsetEnd": 591,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 591,
+          "characterOffsetEnd": 592,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

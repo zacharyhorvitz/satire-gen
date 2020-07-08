@@ -1,0 +1,69 @@
+{
+  "docId": "9685",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "JFK",
+          "originalText": "JFK",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 7,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Jr.",
+          "originalText": "Jr",
+          "characterOffsetBegin": 8,
+          "characterOffsetEnd": 10,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 11,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Tragedy",
+          "originalText": "Tragedy",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 19,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": ":",
+          "originalText": ":",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 20,
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

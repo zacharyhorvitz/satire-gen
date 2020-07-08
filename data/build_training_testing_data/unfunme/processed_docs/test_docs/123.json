@@ -1,0 +1,28 @@
+{
+  "docId": "123",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "palooza",
+          "originalText": "palooza",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 7,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": "!",
+          "originalText": "!",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 8,
+          "before": "",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}
