@@ -53,7 +53,7 @@ To generate satirical headlines you can follow the [original instructions](https
 - Clean up superfluous scripts across src folders / rerun each script
 - Add training code for baselines
 - Add data for baselines/unfun (host on department machine)
-- News Retrieval scripts
+- News retrieval scripts
 - Clean up data processing scripts/confirm runthrough of code
 - Upload Bertdata (preprocesses) for Training
 - Add weight files (Host files on Brown department machine)
