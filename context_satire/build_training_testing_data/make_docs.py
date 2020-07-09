@@ -13,9 +13,9 @@ TRAIN_SPLIT = 0.85 #.90 before #0.80 for 6K
 random.seed(3)
 
 
-DOC_DIR = "15K/merged_without_report2/documents/"
-UNPROC_DIR = "15K/merged_without_report2/unprocessed_documents/"
-
+DOC_DIR = "satiregen/documents/"
+UNPROC_DIR = "satiregen/unprocessed_documents/"
+NEWS_TO_RETRIEVED = "all_top_ranked_docs.json"
 
 import os
 
@@ -23,19 +23,15 @@ for folder in [DOC_DIR,UNPROC_DIR,UNPROC_DIR+"split_docs_train",UNPROC_DIR+"spli
 	if not os.path.exists(folder):
 	    os.makedirs(folder)
      
-
-
 import re
 pattern = r'\[.*?\]'
-
 
 
 documents = []
 headlines = []
 
-with open("15K/all_top_ranked_docs.json","r") as json_file:
+with open(NEWS_TO_RETRIEVED,"r") as json_file:
     ranked = json.load(json_file)
-
 
 
 for h,data in sorted(list(ranked.items())):
