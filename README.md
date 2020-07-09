@@ -1,21 +1,6 @@
 # Context-Driven Satirical Headline Generation
 Public Repo for [Context-Driven Satirical Headline Generation](https://www.aclweb.org/anthology/2020.figlang-1.5.pdf) (ACL 2020 FigLang Workshop Paper)
 
-
-## Data
--  [Onion Headline -> Metadata](https://context-driven-satire.s3-us-west-2.amazonaws.com/onion_to_data.json) 
-
-Example:
-<code>
-"Melting Giraffe Congressman Warns Impeachment Distracting From Surreal Issues": {"text": ["WASHINGTON - Arguing that a protracted congressional trial was..."], "tags": ["impeachment\n"], "date": "1/24/20", "category": "News in Brief", "link": "https://politics.theonion.com/melting-giraffe-congressman-warns-impeachment-distracti-1841207701"}
-  </code>
-
--  [Onion Headline -> Ranked CNN, Wikipedia Paragraphs](https://context-driven-satire.s3-us-west-2.amazonaws.com/raw_headlines_to_ranked_results.json) 
-
-<code>
-[Satirical Headline]: {"cnn": [Ranked From CNN (<1 week of article publishing)] ,"wiki": [Ranked from Wikipedia]}
-  </code>
-  
 ## Example Generations (data/generations)
 
 <pre><code>CONTEXT: [CLS] a 2014 study of the effects of the oil spill on blue ##fin tuna funded by national oceanic and atmospheric administration - ##lr ##b ##- no ##aa - ##rr ##b ##- , stanford university , and the monterey bay aquarium and published in the journal science , found that the toxin ##s from oil spill ##s can cause irregular heartbeat ##s leading to cardiac arrest . calling the vicinity of the spill ` ##` one of the most productive ocean ecosystems in the world ' ##' , the study found that even at very low concentrations ` ##` pa ##h card ##iot ##ox ##ici ##ty was potentially a common form of injury among a broad range of species in the vicinity of the oil . ' ##' another peer ##- ##re ##view ##ed study , released in march 2014 and conducted by 17 scientists from the united states and australia and published in the proceedings of the national academy of sciences , found that tuna and amber ##jack that were exposed to oil from the spill developed def ##or ##mit ##ies of the heart and other organs that would be expected to be fatal or at least life ##- ##sho ##rte ##ning . the scientists said that their findings would most likely apply to other large predator fish and ` ##` even to humans , whose developing hearts are in many ways similar . ' ##' in may 2010 , a local native set up a network for people to volunteer their assistance in cleaning up beaches . boat captains were given the opportunity to offer the use of their boat to help clean and prevent the oil from further spreading . to assist with the efforts the captains had to register their ships with the vessels of opportunity , however an issue arose when more boats registered than actually participated in the clean up efforts - only a third of the registered boats . many local supporters were disappointed with bp ' ##s slow response , prompting the formation of the florida key environmental coalition . on 4 september 2014 , u ##. ##s ##. district judge carl barbie ##r ruled bp was guilty of gross negligence and will ##ful misconduct . he described bp ' ##s actions as ` ##` reckless . ' ##' he said trans ##oc ##ean ' ##s and hall ##ib ##urt ##on ' ##s actions were ` ##` ne ##gli ##gent . ' ##' he app ##ort ##ioned 67 % of the blame for the spill to bp , 30 % to trans ##oc ##ean , and 3 % to hall ##ib ##urt ##on [SEP]
@@ -30,6 +15,24 @@ CONTEXT: [CLS] the political crisis of 1988 - ##- 89 was testimony to both the p
 
 japan 's prime minister to be laid off [unused1]
 </code></pre>
+
+
+## Data
+
+-  [Onion Headline -> Ranked CNN, Wikipedia Paragraphs](https://context-driven-satire.s3-us-west-2.amazonaws.com/raw_headlines_to_ranked_results.json) 
+
+<code>
+[Satirical Headline]: {"cnn": [Ranked From CNN (<1 week of article publishing)] ,"wiki": [Ranked from Wikipedia]}
+  </code>
+  
+
+-  [Onion Headline -> Metadata](https://context-driven-satire.s3-us-west-2.amazonaws.com/onion_to_data.json) 
+
+Example:
+<code>
+"Melting Giraffe Congressman Warns Impeachment Distracting From Surreal Issues": {"text": ["WASHINGTON - Arguing that a protracted congressional trial was..."], "tags": ["impeachment\n"], "date": "1/24/20", "category": "News in Brief", "link": "https://politics.theonion.com/melting-giraffe-congressman-warns-impeachment-distracti-1841207701"}
+  </code>
+
 
 
 ## Model
