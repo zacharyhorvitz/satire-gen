@@ -35,7 +35,7 @@ japan 's prime minister to be laid off [unused1]
 
 
 
-## Model
+## Models
 - PreSumm Abstractive Summarization Model [[Original Code]](https://github.com/nlpyang/PreSumm) [[Weights]](https://drive.google.com/open?id=1-IKVCtc4Q-BdZpjXc4s70_fRsWnjtYLr)
 - SatireGen Encoder-Weighted-Context Model [[Weights]](cs.brown.edu/research/satire/context_model_2250)
 - SatireGen Decoder-Weighted-Context Model [[Weights]]( cs.brown.edu/research/satire_d_context_model_2000)
