@@ -21,6 +21,7 @@ japan 's prime minister to be laid off [unused1]
 
 -  [Onion Headline -> Ranked CNN, Wikipedia Paragraphs](https://context-driven-satire.s3-us-west-2.amazonaws.com/raw_headlines_to_ranked_results.json) 
 
+Format:
 <code>
 [Satirical Headline]: {"cnn": [Ranked From CNN (<1 week of article publishing)] ,"wiki": [Ranked from Wikipedia]}
   </code>
