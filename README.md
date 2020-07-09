@@ -38,8 +38,9 @@ japan 's prime minister to be laid off [unused1]
 - SatireGen Decoder-Weighted-Context Model [[Weights]]( cs.brown.edu/research/satire_d_context_model_2000)
 - SatireGen Abstraction-Context Model [[Weights]]( cs.brown.edu/research/satire_a_context_model_2000)
 
-To generate satirical headlines, follow the instructions for text generation at https://github.com/nlpyang/PreSumm, and load the corresponding model.
-<pre><code>python  -W ignore::UserWarning  train.py -task abs -mode test_text -log_file log.txt -sep_optim true -use_interval true -visible_gpus 0  -max_pos 512 -max_length 60 -alpha 0.95 -min_length 5 -result_path results.txt -test_from [MODEL] -text_src [INPUT TEXT DOCUMENT]
+To generate satirical headlines you can follow the [original instructions](https://github.com/nlpyang/PreSumm) provided by the PreSumm authors. Specifically, you can:
+
+<pre><code>python  -W ignore::UserWarning  context_satire/PreSumm/src_satire_gen/train.py -task abs -mode test_text -log_file log.txt -sep_optim true -use_interval true -visible_gpus 0  -max_pos 512 -max_length 60 -alpha 0.95 -min_length 5 -result_path results.txt -test_from [MODEL] -text_src [INPUT TEXT DOCUMENT]
 </code></pre>
 
 ## Baselines
